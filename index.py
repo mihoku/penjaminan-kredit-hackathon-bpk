@@ -96,4 +96,4 @@ app.layout = html.Div([
 #         return '404'
 
 if __name__ == '__main__':
-    app.run_server(debug=True, use_reloader=True)
+    app.run_server(debug=True, use_reloader=True, host='0.0.0.0')
