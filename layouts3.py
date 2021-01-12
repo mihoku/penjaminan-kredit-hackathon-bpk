@@ -171,6 +171,7 @@ layouts3 = dcc.Tab(label='Evaluasi Tarif dan Anggaran IJP, serta Sektor Terdampa
         html.Div([ #start of total channeling and NPL row div
                         html.Div([ #start of column div for total SME Credit channeling
                             html.H5("Evaluasi atas Sektor Ekonomi Terdampak", style={"font-weight":"bold", "color":"#000"}),
+                            html.P(id="effect-analysis"),
                             dcc.Graph(id='channel-comparison-graph-sector-affected',
                                       style={'height':800})
                             ], className="pretty_container",
@@ -187,7 +188,7 @@ layouts3 = dcc.Tab(label='Evaluasi Tarif dan Anggaran IJP, serta Sektor Terdampa
                         #     page_current=0,
                         #     page_size=20,
                         #     ),
-                        # html.P(id="effect-analysis"),
+
                         # html.Div([
                         #     html.Div([
                         #         html.H5("NPL 2019", style={"font-weight":"bold", "color":"#000"}),
@@ -232,7 +233,7 @@ layouts3 = dcc.Tab(label='Evaluasi Tarif dan Anggaran IJP, serta Sektor Terdampa
     Output("IJP_budget_expl","children"),
     Output("channel-comparison-graph-sector-affected","figure"),
     # Output('table-paging-and-sorting', 'data'),
-    # Output("effect-analysis","children"),
+    Output("effect-analysis","children"),
     [Input("EconGrowth", "value"),
     Input("Inflasi", "value"),
     Input("Unemployment", "value"),
@@ -294,7 +295,7 @@ def predict_NPL(EconGrowth,Inflasi,Unemployment,birate,a,b,c,d,e,f,g,h,i,j,k,l,m
     
     df = pd.concat([s1,s2,s3,average_NPL_2019], axis=1)
     df['valueNPL'] = df['percentNPL']*df['channeling']  
-    df['effect'] = df['percentNPL']-df['average_NPL_2019']
+    df['effect'] = df['percentNPL']*100-df['average_NPL_2019']
     
     fig = go.Figure()
     
@@ -320,8 +321,8 @@ def predict_NPL(EconGrowth,Inflasi,Unemployment,birate,a,b,c,d,e,f,g,h,i,j,k,l,m
         
     #top effect
     df_table_sorted = df_table.nlargest(3,'effect')
-    exp_effect = "test"
-    #exp_effect = "Sektor Ekonomi UMKM yang diperkirakan paling terdampak adalah sektor "+df_table_sorted[0]['sector']+", sektor "+df_table_sorted[1]['sector']+" dan sektor "+df_table_sorted[2]['sector']
+    #exp_effect = "test"
+    exp_effect = "Tiga sektor Ekonomi UMKM yang diperkirakan paling terdampak adalah sektor "+df_table_sorted['sector'].values[0]+", sektor "+df_table_sorted['sector'].values[1]+" dan sektor "+df_table_sorted['sector'].values[2]
     
     #processing IJP and loss limit information
     ijp_trf = ((((total_NPL_percentage/100) * 0.8)-0.01) / 0.9)*100
@@ -339,4 +340,4 @@ def predict_NPL(EconGrowth,Inflasi,Unemployment,birate,a,b,c,d,e,f,g,h,i,j,k,l,m
     loss_limit_budget = "Rp {:,.2f}".format(loss_lim)
     
 #    return preds1, preds2, preds3, preds4, preds5, preds6, preds7, preds8, preds9, preds10, preds11, preds12, preds13, preds14, preds15, preds16, preds17, preds18, pref1, pref2, pref3, pref4, pref5, pref6, pref7, pref8, pref9, pref10, pref11, pref12, pref13, pref14, pref15, pref16, pref17, pref18, total_NPL_percentage_pass, total_NPL_val_pass, total_credit, ijp_tarif, ijp_budget, loss_limit_budget
-    return preds[0], preds[1], preds[2], preds[3], preds[4], preds[5], preds[6], preds[7], preds[8], preds[9], preds[10], preds[11], preds[12], preds[13], preds[14], preds[15], preds[16], preds[17], pref[0], pref[1], pref[2], pref[3], pref[4], pref[5], pref[6], pref[7], pref[8], pref[9], pref[10], pref[11], pref[12], pref[13], pref[14], pref[15], pref[16], pref[17], total_NPL_percentage_pass, total_NPL_val_pass, total_credit, ijp_tarif, ijp_budget, loss_limit_budget, ijp_tarif_expl, ijp_budget_exp, fig
+    return preds[0], preds[1], preds[2], preds[3], preds[4], preds[5], preds[6], preds[7], preds[8], preds[9], preds[10], preds[11], preds[12], preds[13], preds[14], preds[15], preds[16], preds[17], pref[0], pref[1], pref[2], pref[3], pref[4], pref[5], pref[6], pref[7], pref[8], pref[9], pref[10], pref[11], pref[12], pref[13], pref[14], pref[15], pref[16], pref[17], total_NPL_percentage_pass, total_NPL_val_pass, total_credit, ijp_tarif, ijp_budget, loss_limit_budget, ijp_tarif_expl, ijp_budget_exp, fig,exp_effect
