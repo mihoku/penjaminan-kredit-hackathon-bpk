@@ -44,7 +44,7 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
                             },
                         ),  # end of logo img tag
                     ], style={'text-align': 'center', 'width': '100%', 'display': 'inline-block'}),
-                    
+
                     html.P("Skema Program PEN Penjaminan Pelaku Usaha UMKM", style={"text-align": "center"})
 
                 ],
@@ -117,10 +117,9 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
         html.Div([
             html.Img(
                  src=app.get_asset_url("model-chart.png"),
-                 id="scheme-image",
                  style={
                      "height": "auto",
-                     "width": "50%",
+                     "width": "70%",
                  },
                  ),  # end of logo img tag
         ], style={'text-align': 'center', 'width': '60%', 'display': 'inline-block'}),
