@@ -42,27 +42,18 @@ df_bubble['percentNPL'] = (df_bubble.NPL/df_bubble.valueChannel*100).round(2)
 df_bubble['monthlyNPL'] = df_bubble.NPL/df_bubble.Bulan
 df_bubble['monthlyCredit'] = df_bubble.valueChannel/df_bubble.Bulan
 
-labels = ['Annually', 'Monthly']
-
 layouts2 = dcc.Tab(label='Visualisasi Data',children=[html.Div([
     html.Div([
-            html.H5("Non Performing Loan on UMKM Credit 2011-2020", style={"font-weight":"bold"}),
-            html.H6('Overall',style={'display': 'inline-block'}),
+            # ================= OVERALL GRAPH =====================
+            html.H3([html.Center("Overall Non-Performing-Loan on UMKM Credit 2011-2020")], style={"font-weight":"bold"}),
+            html.H6('Annually',style={'display': 'inline-block'}),
             daq.ToggleSwitch(
-                id='mode-toggle',
+                id='overall-mode-toggle',
                 value=False,
                 style={'display': 'inline-block'}
             ),
-            html.H6('Sectoral',style={'display': 'inline-block'}),
+            html.H6('Monthly',style={'display': 'inline-block'}),
             html.Br(),
-            html.Div([
-            dcc.RadioItems(
-                            id='submode-toggle',
-                            options=[{'label': labels[i], 'value': i} for i in range(len(labels))],
-                            value=0,
-                            labelStyle={'display': 'inline-block'},
-                        ),
-                    ], style= {'display': 'block'}), # <-- This is the line that will be changed by the dropdown callback
             html.Div(id='slider-container',children=[
             dcc.Slider(
                         id='year-slider',
@@ -78,81 +69,87 @@ layouts2 = dcc.Tab(label='Visualisasi Data',children=[html.Div([
                       config = {'scrollZoom' : False,
                                 'displaylogo': False,
                                 'modeBarButtonsToRemove' : ["zoomIn2d", "zoomOut2d"]}),
+            html.Br(),
+            # =============== SECTORAL GRAPH ======================
+            html.H3([html.Center("Sectoral Non-Performing-Loan on UMKM Credit 2011-2020")], style={"font-weight":"bold"}),
+            html.H6('Summary',style={'display': 'inline-block'}),
+            daq.ToggleSwitch(
+                id='sectoral-mode-toggle',
+                value=False,
+                style={'display': 'inline-block'}
+            ),
+            html.H6('Annual Trend',style={'display': 'inline-block'}),
+            html.Br(),
+            html.Div(id='dropdown-container',children=[
+            html.B('Economic Sector'),
+            dcc.Dropdown(
+                id='sector-dropdown',
+                options=[{'label':i, 'value':i} for i in econSector],
+                value=econSector[0]
+            ),
+            ], style= {'display': 'block'}),
+            html.Br(),
+            dcc.Graph(id='sectoral-figure',style={'height':600},
+                      config = {'scrollZoom' : False,
+                                'displaylogo': False,
+                                'modeBarButtonsToRemove' : ["zoomIn2d", "zoomOut2d"]}),
         ], className="pretty_container twelve columns"),
     ], className="row")])
 
+#====================== Overall CallBack =========================
+
 @app.callback(
     Output('overview-figure', 'figure'),
-    [Input('mode-toggle','value'),
-    Input('submode-toggle', 'value'),
+    [Input('overall-mode-toggle','value'),
     Input('year-slider','value')])
-def change_figure(fig_mode, fig_submode, fig_year = 0):
-    scmode = 'lines+markers'
-    #filterout data
-    if fig_mode:
-        if fig_submode == 0:
-            fig_data = df_sektor
-            fig_data = fig_data.sort_values(by='valueChannel', axis=0, ascending=False)
-            x_axis = 'SektorEkonomi'
-            scmode = 'markers'
-            title = 'Total Credit Channel and NPL per Economic Sectors'
-        else:
-            fig_data = df_bubble[df_bubble.Tahun == fig_year]
-            title = str(fig_year) + ' Average of Credit Channel and NPL per Economic Sectors'
-
+def change_overall_figure(fig_mode, fig_year = 0):
+    if not fig_mode:
+        fig_data = df_npl_tahun
+        x_axis = 'Tahun'
+        title = 'Total Credit Channel and NPL Annually'
     else:
-        if fig_submode == 0:
-            fig_data = df_npl_tahun
-            x_axis = 'Tahun'
-            title = 'Total Credit Channel and NPL Annually'
-        else:
-            fig_data = df_npl_tahun_bulan[df_npl_tahun_bulan.Tahun == fig_year]
-            x_axis = 'Bulan'
-            title = 'Total Credit Channel and NPL Monthly on ' + str(fig_year)
+        fig_data = df_npl_tahun_bulan[df_npl_tahun_bulan.Tahun == fig_year]
+        x_axis = 'Bulan'
+        title = 'Total Credit Channel and NPL Monthly on ' + str(fig_year)
             
-
-    if fig_submode == 1 and fig_mode:
-        fig = px.scatter(fig_data, x='monthlyCredit', y='monthlyNPL',size='percentNPL',color='SektorEkonomi', log_x=True, size_max=60)
-    else:
-        fig = make_subplots(specs=[[{"secondary_y": True}]])
-        # Add traces
-        fig.add_trace(
-            go.Bar(
-                    y=fig_data['valueChannel'],
-                    x=fig_data[x_axis],
-                    name='Credit',
-                    marker_color='skyblue',   
-                )
-        )
-        fig.add_trace(
-            go.Bar(
-                    y=fig_data['NPL'],
-                    x=fig_data[x_axis],
-                    name='NPL',
-                    marker_color='blue',
-                )
-        )
-        fig.add_trace(
-            go.Scatter(
-                    y=fig_data['percentNPL'],
-                    x=fig_data[x_axis],
-                    name='Percent NPL',
-                    marker_color='red',
-                    mode=scmode,
-                ),
-            secondary_y=True,
-        )
-        #chart title and transition
-        fig.layout.update({'barmode':'overlay',
-            'yaxis': dict(
-                showspikes=True, # Show spike line for X-axis
-                # Format spike
-                spikethickness=1,
-                spikedash="dot",
-                spikecolor="#999999",
-                spikemode="across",
+    fig = make_subplots(specs=[[{"secondary_y": True}]])
+    # Add traces
+    fig.add_trace(
+        go.Bar(
+                y=fig_data['valueChannel'],
+                x=fig_data[x_axis],
+                name='Credit',
+                marker_color='skyblue',   
+            )
+    )
+    fig.add_trace(
+        go.Bar(
+                y=fig_data['NPL'],
+                x=fig_data[x_axis],
+                name='NPL',
+                marker_color='blue',
+            )
+    )
+    fig.add_trace(
+        go.Scatter(
+                y=fig_data['percentNPL'],
+                x=fig_data[x_axis],
+                name='Percent NPL',
+                marker_color='red',
             ),
-        })
+        secondary_y=True,
+    )
+    #chart title and transition
+    fig.layout.update({'barmode':'overlay',
+        'yaxis': dict(
+            showspikes=True, # Show spike line for X-axis
+            # Format spike
+            spikethickness=1,
+            spikedash="dot",
+            spikecolor="#999999",
+            spikemode="across",
+        ),
+    })
 
     fig.update_layout(title=title,
     legend=dict(
@@ -169,20 +166,128 @@ def change_figure(fig_mode, fig_submode, fig_year = 0):
 
 @app.callback(
    Output('slider-container', 'style'),
-   [Input('submode-toggle','value')])
-def hide_year_slider(submode):
-    if submode == 0:
+   [Input('overall-mode-toggle','value')])
+def hide_year_slider(mode):
+    if not mode:
         return {'display': 'none'}
     else:
         return {'display': 'block'}
 
-@app.callback(
-   Output('submode-toggle', 'options'),
-   [Input('mode-toggle','value')])
-def hide_year_slider(mode):
-    if mode:
-        labels = ['Summarize', 'Trend']
-    else:
-        labels = ['Annually', 'Monthly']
+#====================== Sectoral CallBack =========================
 
-    return [{'label': labels[i], 'value': i} for i in range(len(labels))]
+@app.callback(
+    Output('sectoral-figure', 'figure'),
+    [Input('sectoral-mode-toggle','value'),
+    Input('sector-dropdown','value')])
+def change_sectoral_figure(fig_mode, fig_sector = 0):
+    fig = make_subplots(specs=[[{"secondary_y": True}]])
+    if not fig_mode:
+        fig_data = df_sektor
+        fig_data = fig_data.sort_values(by='valueChannel', axis=0, ascending=True)
+        title = 'Total Credit Channel and NPL per Economic Sectors'
+
+        fig.add_trace(
+            go.Bar(
+                x=fig_data['valueChannel'],
+                y=fig_data['SektorEkonomi'],
+                name='Credit',
+                marker_color='skyblue',
+                orientation = 'h'   
+            )
+        )
+        fig.add_trace(
+            go.Bar(
+                x=fig_data['NPL'],
+                y=fig_data['SektorEkonomi'],
+                name='NPL',
+                marker_color='blue',
+                orientation='h'
+            )
+        )
+
+        fig.add_trace(
+            go.Scatter(
+                    x=fig_data['percentNPL'],
+                    y=fig_data['SektorEkonomi'],
+                    name='Percent NPL',
+                    marker_color='red',
+                    xaxis= 'x2',
+                    mode = 'markers',
+                ),
+        )
+
+        #chart title and transition
+        fig.layout.update({'barmode':'overlay',
+            'xaxis':dict(title= 'Credit/NPL value',
+                showspikes=True, # Show spike line for X-axis
+                # Format spike
+                spikethickness=1,
+                spikedash="dot",
+                spikecolor="#999999",
+                spikemode="across",
+            ),
+            'xaxis2': dict(overlaying= 'x', 
+                side= 'top',
+                title= 'NPL percentage'),
+            'hovermode' : 'y',
+        })
+    else:
+        fig_data = df_bubble[df_bubble.SektorEkonomi == fig_sector]
+        title = 'Monthly Average '+str(fig_sector) + ' Credit Channel and NPL per Year'
+        
+        fig.add_trace(
+            go.Bar(
+                y=fig_data['monthlyCredit'],
+                x=fig_data['Tahun'],
+                name='Credit',
+                marker_color='skyblue',  
+            )
+        )
+        fig.add_trace(
+            go.Bar(
+                y=fig_data['monthlyNPL'],
+                x=fig_data['Tahun'],
+                name='NPL',
+                marker_color='blue',
+            )
+        )
+
+        fig.add_trace(
+            go.Scatter(
+                    y=fig_data['percentNPL'],
+                    x=fig_data['Tahun'],
+                    name='Percent NPL',
+                    marker_color='red',
+                ),secondary_y=True
+        )
+        
+        #chart title and transition
+        fig.layout.update({'barmode':'overlay',
+            'yaxis':dict(
+                showspikes=True, # Show spike line for X-axis
+                # Format spike
+                spikethickness=1,
+                spikedash="dot",
+                spikecolor="#999999",
+                spikemode="across",
+            ),
+            'hovermode' : 'x',
+        })
+    
+
+    fig.update_layout(title=title,
+    xaxis = {'showgrid': False},
+    yaxis = {'showgrid': False},
+    )
+
+    return fig
+
+
+@app.callback(
+   Output('dropdown-container', 'style'),
+   [Input('sectoral-mode-toggle','value')])
+def hide_sector_dropdown(mode):
+    if not mode:
+        return {'display': 'none'}
+    else:
+        return {'display': 'block'}
