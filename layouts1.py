@@ -22,7 +22,7 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
     html.Div(
         html.Div([
             html.H3("Summary", style={"font-weight": "bold", "color": "#fff"}),
-            html.H5("Dashboard Kondisi Penyaluran Kredit UMKM dan Prediksi nilai Non Performance Loan (NPL), Imbal Jasa Penjaminan (IJP), Loss Limit dan Kebutuhan Anggaran Program Penjaminan Kredit UMKM",
+            html.H5("Dashboard Kondisi Penyaluran serta Sektor UMKM yang Terdampak COVID & Prediksi nilai Non Performance Loan (NPL), Imbal Jasa Penjaminan (IJP), Loss Limit dan Kebutuhan Anggaran Program Penjaminan Kredit UMKM",
                     style={"color": "#fff"}),
 
         ],
