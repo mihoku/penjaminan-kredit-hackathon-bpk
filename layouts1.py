@@ -47,28 +47,64 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
             ), md=8),
             dbc.Col(html.Div(
                 html.Div([
-                    html.H5("Tujuan", style={"font-weight": "bold"}),
+                    html.H5("Fitur Dashboard", style={"font-weight": "bold"}),
                     html.Div([
-                        html.P(
-                            "Melihat sektor usaha UMKM yang paling terdampak dengan adanya pandemi COVID-19", style={"color": "#fff"})
+                        html.P("Visualisasi atas Data Historis Penyaluran serta NPL atas Kredit UMKM",
+                        style={"color": "#fff"})
                     ], className="pretty_container",
                         style={"background-color": "#007bff"}),
                     html.Div([
-                        html.P("Memberikan usulan tarif IJP yang akan diberikan kepada Jamkrindo dan Askrindo sebagai lembaga penjamin program PEN", style={
-                               "color": "#fff"})
+                        html.P("Evaluasi atas Sektor Ekonomi UMKM yang terdampak pandemi",
+                        style={"color": "#fff"})
                     ], className="pretty_container",
                         style={"background-color": "#28a745"}),
                     html.Div([
-                        html.P("Memberikan usulan anggaran belanja subsidi IJP dan Loss Limit yang sesuai dan tepat", style={
-                               "color": "#000"})
+                        html.P("Prediksi IJP dan Loss Limit berdasarkan model",
+                        style={"color": "#fff"})
                     ], className="pretty_container",
                         style={"background-color": "#ffc107"}),
-                    html.P("Selain tujuan yang disebutkan di atas, analisis ini juga dapat bermanfaat untuk pelaksanaan kegiatan pengawasan yang dilakukan oleh Inspektorat Jenderal atas penjaminan program PEN. Hasil analisis dapat digunakan untuk melihat apakah tarif yang diusulkan oleh PT Reasuransi Indonesia Utama (PT RIU) telah disusun menggunakan prediksi NPL yang tepat dan anggaran yang diusulkan Direktorat Jenderal Pengelolaan Pembiayaan dan Risiko (DJPPR) sudah tepat.")
+                    html.Div([
+                        html.P("Prediksi Tarif IJP yang diusulkan oleh PT RIU",
+                        style={"color": "#fff"})
+                    ], className="pretty_container",
+                        style={"background-color": "#ff0040"}),
+                    html.H1(" ", style={"font-weight": "bold"}),
+                    html.H1(" ", style={"font-weight": "bold"}),
+                    html.H1(" ", style={"font-weight": "bold"})
                 ],
-                    id="predictiveDescription",
-                    className="pretty_container")
+                className="pretty_container")
             ), md=4),
         ]
     ),
+
+    html.Div([  # start of credit channeling vars
+        html.H5("Manfaat", style={
+            "font-weight": "bold", "text-align": "center"}),
+        html.Div(children=[
+            html.Div([
+                html.P("Melihat sektor usaha UMKM yang paling terdampak dengan adanya pandemi COVID-19",
+                       style={"color": "#fff", "text-align": "center"}),
+            ], className="three columns pretty_container", style={'background-color': '#007bff'}),
+            html.Div([
+                html.P("Memberikan usulan tarif IJP yang akan diberikan kepada Jamkrindo dan Askrindo sebagai lembaga penjamin program PEN",
+                       style={"color": "#fff", "text-align": "center"}),
+            ], className="three columns pretty_container", style={'background-color': '#28a745'}),
+            html.Div([
+                html.P("Memberikan usulan anggaran belanja subsidi IJP dan Loss Limit yang sesuai dan tepat",
+                       style={"color": "#fff", "text-align": "center"}),
+            ], className="three columns pretty_container", style={'background-color': '#ff8000'}),
+            html.Div([
+                html.P("Memberikan gambaran umum dalam proses perencanaan pemeriksaan keuangan negara, serta menjadi bahan dalam penentuan NPL dan Anggaran",
+                       style={"color": "#fff", "text-align": "center"}),
+            ], className="three columns pretty_container", style={'background-color': '#ff0040'}),
+
+            # row div of macro vars
+        ], className="row flex-display")  # end of macro vars row div
+    ], className="pretty_container", style={"text-align": "center"}),
+
+
+
+
+
 
 ])
