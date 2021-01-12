@@ -177,7 +177,7 @@ def hide_year_slider(submode):
 @app.callback(
    Output('submode-toggle', 'options'),
    [Input('mode-toggle','value')])
-def hide_year_slider(mode):
+def change_radio_label(mode):
     if mode:
         labels = ['Summarize', 'Trend']
     else:
