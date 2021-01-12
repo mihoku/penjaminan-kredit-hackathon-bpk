@@ -55,9 +55,18 @@ def generate_form(i):
         ],className="three columns pretty_container", style={'width': '98%', 'background-color':sectorColor[i]})
 
 
-layouts2 = html.Div([
+layouts2 = dcc.Tab(label='Visualisasi Data', children=[html.Div([
     html.Div([
-            html.H5("Penyaluran Kredit UMKM",style={"font-weight":"bold"}),
+            html.H5("Overview Data NPL",style={"font-weight":"bold"}),
+            dcc.RadioItems(
+                id='npl_value_type',
+                options=[{'label': i, 'value': i} for i in ['Percentage', 'Value']],
+                value='Percentage',
+                labelStyle={'display': 'inline-block'}
+            ),
+            dcc.Graph(id='channel-comparison-graph-sector-affected',style={'height':600})], className="pretty_container twelve columns",
+                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}
+                            ),#end of column div for total SME credit channeling
 
         ], className="pretty_container twelve columns"),
-    ], className="row")
+    ], className="row")])

@@ -18,6 +18,21 @@ ASSETS_PATH = PATH.joinpath("assets").resolve()
 STYLES_PATH = ASSETS_PATH.joinpath("styles").resolve()
 MODEL_PATH = PATH.joinpath("data-model").resolve()
 
+def split_var(target, border=0):
+    target_ = target.copy()
+    target_.iloc[:,0] = target_.iloc[:,0].apply(lambda x: 1 if x > border else 0)
+    return target_
+
+def y_transform(target):
+    target_ = target.copy()
+    target_ = 1/(target_ + 0.05)
+    return target_
+
+def inverse_y_transform(target):
+    target_ = target.copy()
+    target_ = 1/target_ - 0.05
+    return target_
+
 from app import app
 from layouts1 import layouts1
 from layouts2 import layouts2
@@ -61,24 +76,24 @@ app.layout = html.Div([
         className="row flex-display",
         style={"margin-bottom": "25px"},
         ),#end of header div
-    html.Div(id='page-content'),
+    html.Div([dcc.Tabs([layouts1,layouts2,layouts3])]),
     html.Div([#start of footer div
         html.P("© 2021 - Ade & Rezas (Hackathon BPK RI)", style={"font-weight":"bold"})
         ],className="pretty_container", style={'text-align':'center'}
         )#end of footer div
 ])
 
-@app.callback(Output('page-content', 'children'),
-              [Input('url', 'pathname')])
-def display_page(pathname):
-    if pathname == '/':
-        return layouts1
-    elif pathname == '/page2':
-        return layouts2
-    elif pathname == '/page3':
-        return layouts3
-    else:
-        return '404'
+# @app.callback(Output('page-content', 'children'),
+#               [Input('url', 'pathname')])
+# def display_page(pathname):
+#     if pathname == '/':
+#         return layouts1
+#     elif pathname == '/page2':
+#         return layouts2
+#     elif pathname == '/page3':
+#         return layouts3
+#     else:
+#         return '404'
 
 if __name__ == '__main__':
-    app.run_server(debug=True, use_reloader=False)
+    app.run_server(debug=True, use_reloader=True)

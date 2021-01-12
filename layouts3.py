@@ -23,7 +23,7 @@ DATA_PATH = PATH.joinpath("data-source").resolve()
 df = pd.read_csv(DATA_PATH.joinpath('dataset-predictive-NPL-UMKM.csv'),low_memory=False)
 
 #import model 
-model_rf = pickle.load(open(MODEL_PATH.joinpath("penjaminan_predictive_UMKM_2.sav"), "rb"))
+model_rf = pickle.load(open(MODEL_PATH.joinpath("penjaminan_predictive_UMKM_with_birate.sav"), "rb"))
 
 pre_df = df[df.Tahun == 2020]
 fil_df = pre_df[pre_df.Bulan=="Jun"]
@@ -59,9 +59,9 @@ def generate_form(i):
         ],className="three columns pretty_container", style={'width': '98%', 'background-color':sectorColor[i]})
 
 
-layouts3 = html.Div([
+layouts3 = dcc.Tab(label='Prediksi',children=[html.Div([
     html.Div([
             html.H5("Analisis Prediktif",style={"font-weight":"bold"}),
 
         ], className="pretty_container twelve columns"),
-    ], className="row")
+    ], className="row")])

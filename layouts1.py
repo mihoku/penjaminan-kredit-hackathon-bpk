@@ -15,10 +15,10 @@ STYLES_PATH = ASSETS_PATH.joinpath("styles").resolve()
 MODEL_PATH = PATH.joinpath("data-model").resolve()
 DATA_PATH = PATH.joinpath("data-source").resolve()
 
-layouts1 = html.Div([
+layouts1 = dcc.Tab(label='Informasi Umum',children=[html.Div([
     html.Div([
             html.H5("Informasi Umum",style={"font-weight":"bold"}),
 
         ], className="pretty_container twelve columns"),
-    ], className="row")
+    ], className="row")])
 
