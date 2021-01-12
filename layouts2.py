@@ -25,27 +25,28 @@ DATA_PATH = PATH.joinpath("data-source").resolve()
 #read dataset
 df_raw = pd.read_csv(DATA_PATH.joinpath('dataset-NPL-UMKM.csv'),low_memory=False)
 df_raw.Bulan = pd.Categorical(df_raw.Bulan, categories=monthCode, ordered=True)
-
+df_raw.NPL = df_raw.NPL * (10**9)
+df_raw.valueChannel = df_raw.valueChannel * (10**9)
 
 
 df_npl_tahun = df_raw.groupby(['Tahun']).agg({'NPL':'sum','valueChannel':'sum'}).reset_index()
 df_npl_tahun_bulan = df_npl = df_raw.groupby(['Tahun','Bulan']).agg({'NPL':'sum','valueChannel':'sum'}).reset_index()
-df_npl_tahun['percentNPL'] = df_npl_tahun.NPL / df_npl_tahun.valueChannel
-df_npl_tahun_bulan['percentNPL'] = df_npl_tahun_bulan.NPL / df_npl_tahun_bulan.valueChannel
+df_npl_tahun['percentNPL'] = (df_npl_tahun.NPL / df_npl_tahun.valueChannel *100).round(2)
+df_npl_tahun_bulan['percentNPL'] = (df_npl_tahun_bulan.NPL / df_npl_tahun_bulan.valueChannel *100).round(2)
 
 df_sektor = df_raw.groupby(['SektorEkonomi']).agg({'NPL':'sum','valueChannel':'sum'}).reset_index()
-df_sektor['percentNPL'] = df_sektor.NPL / df_sektor.valueChannel
+df_sektor['percentNPL'] = (df_sektor.NPL / df_sektor.valueChannel *100).round(2)
 
 df_bubble = df_raw.groupby(['Tahun','SektorEkonomi']).agg({'NPL':'sum','valueChannel':'sum', 'Bulan':'count'}).reset_index()
-df_bubble['percentNPL'] = df_bubble.NPL/df_bubble.valueChannel
-df_bubble['meanNPL'] = df_bubble.NPL/df_bubble.Bulan
-df_bubble['meanValue'] = df_bubble.valueChannel/df_bubble.Bulan
+df_bubble['percentNPL'] = (df_bubble.NPL/df_bubble.valueChannel*100).round(2)
+df_bubble['monthlyNPL'] = df_bubble.NPL/df_bubble.Bulan
+df_bubble['monthlyCredit'] = df_bubble.valueChannel/df_bubble.Bulan
 
 labels = ['Annually', 'Monthly']
 
 layouts2 = dcc.Tab(label='Visualisasi Data',children=[html.Div([
     html.Div([
-            html.H5("Penyaluran Kredit UMKM", style={"font-weight":"bold"}),
+            html.H5("Non Performing Loan on UMKM Credit 2011-2020", style={"font-weight":"bold"}),
             html.H6('Overall',style={'display': 'inline-block'}),
             daq.ToggleSwitch(
                 id='mode-toggle',
@@ -91,6 +92,7 @@ def change_figure(fig_mode, fig_submode, fig_year = 0):
     if fig_mode:
         if fig_submode == 0:
             fig_data = df_sektor
+            fig_data = fig_data.sort_values(by='valueChannel', axis=0, ascending=False)
             x_axis = 'SektorEkonomi'
             scmode = 'markers'
             title = 'Total Credit Channel and NPL per Economic Sectors'
@@ -110,7 +112,7 @@ def change_figure(fig_mode, fig_submode, fig_year = 0):
             
 
     if fig_submode == 1 and fig_mode:
-        fig = px.scatter(fig_data, x='meanValue', y='meanNPL',size='percentNPL',color='SektorEkonomi', log_x=True, size_max=60)
+        fig = px.scatter(fig_data, x='monthlyCredit', y='monthlyNPL',size='percentNPL',color='SektorEkonomi', log_x=True, size_max=60)
     else:
         fig = make_subplots(specs=[[{"secondary_y": True}]])
         # Add traces
@@ -118,7 +120,7 @@ def change_figure(fig_mode, fig_submode, fig_year = 0):
             go.Bar(
                     y=fig_data['valueChannel'],
                     x=fig_data[x_axis],
-                    name='Channel',
+                    name='Credit',
                     marker_color='skyblue',   
                 )
         )
@@ -134,7 +136,7 @@ def change_figure(fig_mode, fig_submode, fig_year = 0):
             go.Scatter(
                     y=fig_data['percentNPL'],
                     x=fig_data[x_axis],
-                    name='Percentage',
+                    name='Percent NPL',
                     marker_color='red',
                     mode=scmode,
                 ),
