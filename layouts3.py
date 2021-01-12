@@ -56,12 +56,56 @@ def generate_form(i):
         html.P("Proyeksi NPL", style={'color': sectorTxtColor[i]}),
         html.H1(id ="sector_NPL_{}".format(str(i)) , style={'color': sectorTxtColor[i], 'font-weight':'bold', 'font-size':'44px'}),
         html.P(id="sector_NPL_val_{}".format(i) , style={'color': sectorTxtColor[i]})
-        ],className="three columns pretty_container", style={'width': '98%', 'background-color':sectorColor[i]})
+        ],className="three columns pretty_container", style={'background-color':sectorColor[i]})
 
 
 layouts3 = dcc.Tab(label='Prediksi',children=[html.Div([
-    html.Div([
-            html.H5("Analisis Prediktif",style={"font-weight":"bold"}),
-
-        ], className="pretty_container twelve columns"),
-    ], className="row")])
+    html.Div([#start of macroeconomic vars
+              html.H5("Indikator Makro Ekonomi", style={"font-weight":"bold"}),
+                        html.Div([ #row div of macro vars
+                            html.Div([ #pertumbuhan ekonomi div start
+                                html.H5("Pertumbuhan Ekonomi", style={"font-weight":"bold", "color":"#fff"}),
+                                dcc.Input(
+                                    id="EconGrowth",
+                                    type="number",
+                                    value=row_take['EconGrowth'].values[0],
+                                    debounce=True
+                                    ),
+                                ],className="pretty_container three columns",style={"background-color":"#111"}),
+                            html.Div([ #inflasi div start
+                                html.H5("Tingkat Inflasi", style={"font-weight":"bold", "color":"#fff"}),
+                                dcc.Input(
+                                    id="Inflasi",
+                                    type="number",
+                                    value=row_take['Inflasi'].values[0],
+                                    debounce=True
+                                    ),
+                                ],className="pretty_container three columns",style={"background-color":"#111"}),
+                            html.Div([ #pengangguran div start
+                                html.H5("Tingkat Pengangguran", style={"font-weight":"bold", "color":"#fff"}),
+                                dcc.Input(
+                                    id="Unemployment",
+                                    type="number",
+                                    value=row_take['Unemployment'].values[0],
+                                    debounce=True
+                                    ),
+                                ],className="pretty_container three columns",style={"background-color":"#111"}),
+                            html.Div([ #birate div start
+                                html.H5("BI Rate", style={"font-weight":"bold", "color":"#fff"}),
+                                dcc.Input(
+                                    id="birate",
+                                    type="number",
+                                    value=3.75,
+                                    debounce=True
+                                    ),
+                                ],className="pretty_container three columns",style={"background-color":"#111"})
+                            ],className="row flex-display") #end of macro vars row div
+                        ],className=" twelve columns"),#end of macroeconomic var div
+        html.Br(),
+        html.Br(),
+        html.Div([#start of credit channeling vars
+              html.H5("Penyaluran Kredit UMKM", style={"font-weight":"bold"}),
+              html.Div(children=[generate_form(i) for i in np.arange(18) #row div of macro vars
+                            ],className="row flex-display") #end of macro vars row div
+              ],className=" twelve columns"),#end of credit channeling var div
+    ], className="row pretty_container")])
