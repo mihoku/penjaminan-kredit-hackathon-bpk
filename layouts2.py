@@ -11,6 +11,8 @@ import plotly.express as px
 import pathlib
 from controls import monthCode, econSector, sectorColor, sectorTxtColor
 
+from app import app
+
 #get relative data folder
 PATH = pathlib.Path(__file__).parent
 ASSETS_PATH = PATH.joinpath("assets").resolve()
@@ -19,21 +21,11 @@ MODEL_PATH = PATH.joinpath("data-model").resolve()
 DATA_PATH = PATH.joinpath("data-source").resolve()
 
 #read dataset
-df = pd.read_csv(DATA_PATH.joinpath('dataset-predictive-NPL-UMKM.csv'),low_memory=False)
-
-pre_df = df[df.Tahun == 2020]
-fil_df = pre_df[pre_df.Bulan=="Jun"]
-row_take = fil_df[fil_df.SektorEkonomi==econSector[0]]
-
-#populate average 2019 data
-prev_df = df[df.Tahun != 2020]
-summavg_df = prev_df.groupby('SektorEkonomi', as_index=False).agg({"percentNPL":"mean"})
-
-avg_2019 = []  
-    
-for i in np.arange(18):
-    taken_df = summavg_df[summavg_df.SektorEkonomi==econSector[i]]
-    avg_2019.append(taken_df['percentNPL'].values[0]*100)
+df_raw = pd.read_csv(DATA_PATH.joinpath('dataset-NPL-UMKM.csv'),low_memory=False)
+df_npl_tahun = df_raw.groupby(['Tahun']).agg({'NPL':'sum','valueChannel':'sum'}).reset_index()
+df_npl_tahun_bulan = df_npl = df_raw.groupby(['Tahun','Bulan']).agg({'NPL':'sum','valueChannel':'sum'}).reset_index()
+df_npl_tahun['percentNPL'] = df_npl_tahun.NPL / df_npl_tahun.valueChannel
+df_npl_tahun_bulan['percentNPL'] = df_npl_tahun_bulan.NPL / df_npl_tahun_bulan.valueChannel
 
 #form generation function
 def generate_form(i):
@@ -55,18 +47,40 @@ def generate_form(i):
         ],className="three columns pretty_container", style={'width': '98%', 'background-color':sectorColor[i]})
 
 
-layouts2 = dcc.Tab(label='Visualisasi Data', children=[html.Div([
+layouts2 = dcc.Tab(label='Informasi Umum',children=[html.Div([
     html.Div([
-            html.H5("Overview Data NPL",style={"font-weight":"bold"}),
+            html.H5("Penyaluran Kredit UMKM",style={"font-weight":"bold"}),
             dcc.RadioItems(
-                id='npl_value_type',
-                options=[{'label': i, 'value': i} for i in ['Percentage', 'Value']],
-                value='Percentage',
-                labelStyle={'display': 'inline-block'}
-            ),
-            dcc.Graph(id='channel-comparison-graph-sector-affected',style={'height':600})], className="pretty_container twelve columns",
-                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}
-                            ),#end of column div for total SME credit channeling
-
+                            id='overview-mode',
+                            options=[{'label': i, 'value': i} for i in ['Overall', 'Per Sektor']],
+                            value='Overall',
+                            labelStyle={'display': 'inline-block'}
+                        ),
+            dcc.Graph(id='overview_figure',style={'height':600}),
+            dcc.Slider(
+                        id='year-slider',
+                        min=df_raw['Tahun'].min(),
+                        max=df_raw['Tahun'].max(),
+                        value=2020,
+                        marks={str(year): str(year) for year in df_raw['Tahun'].unique()},
+                        step=None
+                    ),
         ], className="pretty_container twelve columns"),
     ], className="row")])
+
+@app.callback(
+    Output('overview_figure', 'figure'),
+    [Input('overview-mode', 'value'), Input('year-slider','value')])
+def change_figure(fig_mode, fig_year = 0):
+    if fig_mode == 'Overall':
+        fig_data = df_npl_tahun
+    else:
+        fig_data = df_npl_tahun_bulan[df_npl_tahun_bulan.Tahun == fig_year]
+    fig  = px.bar(fig_data, x='Tahun', y='valueChannel') 
+    # fig = go.Figure(data=go.Scatter(x=monthCode, y=filtered_df['percentNPL']*100))
+
+    #chart title and transition
+    fig.layout.update({'title': 'Persentase NPL'})
+    fig.update_layout(transition_duration=500)
+
+    return fig

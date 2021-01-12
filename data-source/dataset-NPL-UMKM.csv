@@ -1,0 +1,2053 @@
+,Tahun,Bulan,SektorEkonomi,percentNPL,pandemicTF,Inflasi,EconGrowth,Unemployment,valueChannel,biRate,NPL
+0,2011,Jan,Pertanian Perburuan dan Kehutanan,0.047911473219999993,0,0.89,6.48,7.14,16447,6.5,788
+1,2011,Jan,Perikanan,0.04410354746,0,0.89,6.48,7.14,2086,6.5,92
+2,2011,Jan,Pertambangan dan Penggalian,0.0510105871,0,0.89,6.48,7.14,3117,6.5,159
+3,2011,Jan,Industri Pengolahan,0.05591366698,0,0.89,6.48,7.14,41421,6.5,2316
+4,2011,Jan,Listrik gas dan air,0.03546712803,0,0.89,6.48,7.14,1156,6.5,41
+5,2011,Jan,Konstruksi,0.07269806726,0,0.89,6.48,7.14,19299,6.5,1403
+6,2011,Jan,Perdagangan Besar dan Eceran,0.049280891730000005,0,0.89,6.48,7.14,160407,6.5,7905
+7,2011,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.05010706638,0,0.89,6.48,7.14,7005,6.5,351
+8,2011,Jan,Transportasi pergudangan dan komunikasi,0.03392758973,0,0.89,6.48,7.14,12733,6.5,432
+9,2011,Jan,Perantara Keuangan,0.014870482890000002,0,0.89,6.48,7.14,6254,6.5,93
+10,2011,Jan,Real Estate Usaha Persewaan,0.02675750395,0,0.89,6.48,7.14,20256,6.5,542
+11,2011,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.025641025640000002,0,0.89,6.48,7.14,195,6.5,5
+12,2011,Jan,Jasa Pendidikan,0.014827018119999999,0,0.89,6.48,7.14,1214,6.5,18
+13,2011,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.0927592955,0,0.89,6.48,7.14,2555,6.5,237
+14,2011,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02822399039,0,0.89,6.48,7.14,19983,6.5,564
+15,2011,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.06782464847,0,0.89,6.48,7.14,1209,6.5,82
+16,2011,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03409090909,0,0.89,6.48,7.14,88,6.5,3
+17,2011,Jan,Kegiatan yang belum jelas batasannya,0.024152438619999998,0,0.89,6.48,7.14,44923,6.5,1085
+18,2011,Feb,Pertanian Perburuan dan Kehutanan,0.047807587760000006,0,0.13,6.48,6.96,16922,6.75,809
+19,2011,Feb,Perikanan,0.04022988506,0,0.13,6.48,6.96,2088,6.75,84
+20,2011,Feb,Pertambangan dan Penggalian,0.0347934141,0,0.13,6.48,6.96,3219,6.75,112
+21,2011,Feb,Industri Pengolahan,0.058767727549999996,0,0.13,6.48,6.96,42166,6.75,2478
+22,2011,Feb,Listrik gas dan air,0.04347826087,0,0.13,6.48,6.96,1173,6.75,51
+23,2011,Feb,Konstruksi,0.06509081861,0,0.13,6.48,6.96,20095,6.75,1308
+24,2011,Feb,Perdagangan Besar dan Eceran,0.05047581432,0,0.13,6.48,6.96,162038,6.75,8179
+25,2011,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.050925925930000004,0,0.13,6.48,6.96,7128,6.75,363
+26,2011,Feb,Transportasi pergudangan dan komunikasi,0.03332035812,0,0.13,6.48,6.96,12845,6.75,428
+27,2011,Feb,Perantara Keuangan,0.014603714730000002,0,0.13,6.48,6.96,7053,6.75,103
+28,2011,Feb,Real Estate Usaha Persewaan,0.02414668085,0,0.13,6.48,6.96,12217,6.75,295
+29,2011,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02808988764,0,0.13,6.48,6.96,178,6.75,5
+30,2011,Feb,Jasa Pendidikan,0.01632653061,0,0.13,6.48,6.96,1225,6.75,20
+31,2011,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.09191321498999999,0,0.13,6.48,6.96,2535,6.75,233
+32,2011,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.028279654360000003,0,0.13,6.48,6.96,20368,6.75,576
+33,2011,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.06787687451,0,0.13,6.48,6.96,1267,6.75,86
+34,2011,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.04210526316,0,0.13,6.48,6.96,95,6.75,4
+35,2011,Feb,Kegiatan yang belum jelas batasannya,0.02555849656,0,0.13,6.48,6.96,47225,6.75,1207
+36,2011,Mar,Pertanian Perburuan dan Kehutanan,0.047238964,0,-0.32,6.48,6.96,18417,6.75,870
+37,2011,Mar,Perikanan,0.03429602888,0,-0.32,6.48,6.96,2216,6.75,76
+38,2011,Mar,Pertambangan dan Penggalian,0.04546730283,0,-0.32,6.48,6.96,3563,6.75,162
+39,2011,Mar,Industri Pengolahan,0.05703163897999999,0,-0.32,6.48,6.96,44186,6.75,2520
+40,2011,Mar,Listrik gas dan air,0.025854108959999997,0,-0.32,6.48,6.96,1083,6.75,28
+41,2011,Mar,Konstruksi,0.06569941192999999,0,-0.32,6.48,6.96,20746,6.75,1363
+42,2011,Mar,Perdagangan Besar dan Eceran,0.04984914614,0,-0.32,6.48,6.96,170695,6.75,8509
+43,2011,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.04999349043,0,-0.32,6.48,6.96,7681,6.75,384
+44,2011,Mar,Transportasi pergudangan dan komunikasi,0.031161059619999997,0,-0.32,6.48,6.96,13703,6.75,427
+45,2011,Mar,Perantara Keuangan,0.0107035635,0,-0.32,6.48,6.96,7661,6.75,82
+46,2011,Mar,Real Estate Usaha Persewaan,0.02502938871,0,-0.32,6.48,6.96,20416,6.75,511
+47,2011,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.026923076919999997,0,-0.32,6.48,6.96,260,6.75,7
+48,2011,Mar,Jasa Pendidikan,0.021143304619999997,0,-0.32,6.48,6.96,1277,6.75,27
+49,2011,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.09496783957999999,0,-0.32,6.48,6.96,2643,6.75,251
+50,2011,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.030014641289999998,0,-0.32,6.48,6.96,20490,6.75,615
+51,2011,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.07120500782,0,-0.32,6.48,6.96,1278,6.75,91
+52,2011,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03846153846000001,0,-0.32,6.48,6.96,130,6.75,5
+53,2011,Mar,Kegiatan yang belum jelas batasannya,0.023738496859999996,0,-0.32,6.48,6.96,55311,6.75,1313
+54,2011,Apr,Pertanian Perburuan dan Kehutanan,0.047062146889999996,0,-0.31,6.27,6.96,17700,6.75,833
+55,2011,Apr,Perikanan,0.033348355110000005,0,-0.31,6.27,6.96,2219,6.75,74
+56,2011,Apr,Pertambangan dan Penggalian,0.047886491280000006,0,-0.31,6.27,6.96,3383,6.75,162
+57,2011,Apr,Industri Pengolahan,0.05823050787,0,-0.31,6.27,6.96,44736,6.75,2605
+58,2011,Apr,Listrik gas dan air,0.022200772200000003,0,-0.31,6.27,6.96,1036,6.75,23
+59,2011,Apr,Konstruksi,0.06797870782000001,0,-0.31,6.27,6.96,20477,6.75,1392
+60,2011,Apr,Perdagangan Besar dan Eceran,0.05081820922,0,-0.31,6.27,6.96,169211,6.75,8599
+61,2011,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.04833759591,0,-0.31,6.27,6.96,7820,6.75,378
+62,2011,Apr,Transportasi pergudangan dan komunikasi,0.032876512610000005,0,-0.31,6.27,6.96,13718,6.75,451
+63,2011,Apr,Perantara Keuangan,0.012342569270000001,0,-0.31,6.27,6.96,7940,6.75,98
+64,2011,Apr,Real Estate Usaha Persewaan,0.0264122894,0,-0.31,6.27,6.96,20180,6.75,533
+65,2011,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02229299363,0,-0.31,6.27,6.96,314,6.75,7
+66,2011,Apr,Jasa Pendidikan,0.02404643449,0,-0.31,6.27,6.96,1206,6.75,29
+67,2011,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.09863429438999999,0,-0.31,6.27,6.96,2636,6.75,260
+68,2011,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.029420179289999994,0,-0.31,6.27,6.96,20972,6.75,617
+69,2011,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.0836038961,0,-0.31,6.27,6.96,1232,6.75,103
+70,2011,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03530314658,0,-0.31,6.27,6.96,1303,6.75,46
+71,2011,Apr,Kegiatan yang belum jelas batasannya,0.026227936209999997,0,-0.31,6.27,6.96,56314,6.75,1477
+72,2011,May,Pertanian Perburuan dan Kehutanan,0.046658539289999995,0,0.12,6.27,6.96,18046,6.75,842
+73,2011,May,Perikanan,0.03526785714,0,0.12,6.27,6.96,2240,6.75,79
+74,2011,May,Pertambangan dan Penggalian,0.05191808480000001,0,0.12,6.27,6.96,3467,6.75,180
+75,2011,May,Industri Pengolahan,0.05644582636,0,0.12,6.27,6.96,45991,6.75,2596
+76,2011,May,Listrik gas dan air,0.01175406872,0,0.12,6.27,6.96,1106,6.75,13
+77,2011,May,Konstruksi,0.07363742690000001,0,0.12,6.27,6.96,21375,6.75,1574
+78,2011,May,Perdagangan Besar dan Eceran,0.0553755897,0,0.12,6.27,6.96,173181,6.75,9590
+79,2011,May,Penyediaan akomodasi dan penyediaan makan minum,0.04493307839,0,0.12,6.27,6.96,8368,6.75,376
+80,2011,May,Transportasi pergudangan dan komunikasi,0.02935310981,0,0.12,6.27,6.96,16046,6.75,471
+81,2011,May,Perantara Keuangan,0.014757048590000002,0,0.12,6.27,6.96,8335,6.75,123
+82,2011,May,Real Estate Usaha Persewaan,0.02710385728,0,0.12,6.27,6.96,20403,6.75,553
+83,2011,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03481012658,0,0.12,6.27,6.96,316,6.75,11
+84,2011,May,Jasa Pendidikan,0.022188217290000003,0,0.12,6.27,6.96,1307,6.75,29
+85,2011,May,Jasa Kesehatan dan Kegiatan Sosial,0.04272801972,0,0.12,6.27,6.96,2434,6.75,104
+86,2011,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.030509605760000003,0,0.12,6.27,6.96,20977,6.75,640
+87,2011,May,Jasa Perorangan yang Melayani Rumah Tangga,0.07444168734,0,0.12,6.27,6.96,1209,6.75,90
+88,2011,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03956043956,0,0.12,6.27,6.96,1365,6.75,54
+89,2011,May,Kegiatan yang belum jelas batasannya,0.02947157916,0,0.12,6.27,6.96,59006,6.75,1739
+90,2011,Jun,Pertanian Perburuan dan Kehutanan,0.0433399395,0,0.55,6.27,6.96,19174,6.75,831
+91,2011,Jun,Perikanan,0.03728813559,0,0.55,6.27,6.96,2360,6.75,88
+92,2011,Jun,Pertambangan dan Penggalian,0.03097345133,0,0.55,6.27,6.96,3616,6.75,112
+93,2011,Jun,Industri Pengolahan,0.053366573,0,0.55,6.27,6.96,47333,6.75,2526
+94,2011,Jun,Listrik gas dan air,0.01142857143,0,0.55,6.27,6.96,1050,6.75,12
+95,2011,Jun,Konstruksi,0.06744379684,0,0.55,6.27,6.96,21618,6.75,1458
+96,2011,Jun,Perdagangan Besar dan Eceran,0.0511851212,0,0.55,6.27,6.96,178294,6.75,9126
+97,2011,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.04508797654,0,0.55,6.27,6.96,8184,6.75,369
+98,2011,Jun,Transportasi pergudangan dan komunikasi,0.031003518989999996,0,0.55,6.27,6.96,16482,6.75,511
+99,2011,Jun,Perantara Keuangan,0.012773109240000002,0,0.55,6.27,6.96,8925,6.75,114
+100,2011,Jun,Real Estate Usaha Persewaan,0.02771661082,0,0.55,6.27,6.96,20890,6.75,579
+101,2011,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02682926829,0,0.55,6.27,6.96,410,6.75,11
+102,2011,Jun,Jasa Pendidikan,0.02033660589,0,0.55,6.27,6.96,1426,6.75,29
+103,2011,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.09630200308,0,0.55,6.27,6.96,2596,6.75,250
+104,2011,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.028360694739999998,0,0.55,6.27,6.96,21015,6.75,596
+105,2011,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.03527168732,0,0.55,6.27,6.96,1049,6.75,37
+106,2011,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03757225434,0,0.55,6.27,6.96,1384,6.75,52
+107,2011,Jun,Kegiatan yang belum jelas batasannya,0.028747997989999996,0,0.55,6.27,6.96,61813,6.75,1777
+108,2011,Jul,Pertanian Perburuan dan Kehutanan,0.046846262039999996,0,0.67,6.01,6.96,18486,6.75,866
+109,2011,Jul,Perikanan,0.05956521739,0,0.67,6.01,6.96,2300,6.75,137
+110,2011,Jul,Pertambangan dan Penggalian,0.03161530287,0,0.67,6.01,6.96,3764,6.75,119
+111,2011,Jul,Industri Pengolahan,0.05448571309999999,0,0.67,6.01,6.96,48086,6.75,2620
+112,2011,Jul,Listrik gas dan air,0.012025901940000002,0,0.67,6.01,6.96,1081,6.75,13
+113,2011,Jul,Konstruksi,0.06584766585,0,0.67,6.01,6.96,22385,6.75,1474
+114,2011,Jul,Perdagangan Besar dan Eceran,0.05278419311000001,0,0.67,6.01,6.96,176227,6.75,9302
+115,2011,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.04623246968999999,0,0.67,6.01,6.96,8414,6.75,389
+116,2011,Jul,Transportasi pergudangan dan komunikasi,0.028863314669999997,0,0.67,6.01,6.96,16249,6.75,469
+117,2011,Jul,Perantara Keuangan,0.013112568059999998,0,0.67,6.01,6.96,8999,6.75,118
+118,2011,Jul,Real Estate Usaha Persewaan,0.02890420727,0,0.67,6.01,6.96,21035,6.75,608
+119,2011,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.04057971014,0,0.67,6.01,6.96,345,6.75,14
+120,2011,Jul,Jasa Pendidikan,0.02228612509,0,0.67,6.01,6.96,1391,6.75,31
+121,2011,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.09259962049,0,0.67,6.01,6.96,2635,6.75,244
+122,2011,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.029122096039999996,0,0.67,6.01,6.96,21221,6.75,618
+123,2011,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.03818615752,0,0.67,6.01,6.96,838,6.75,32
+124,2011,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03825136612,0,0.67,6.01,6.96,1464,6.75,56
+125,2011,Jul,Kegiatan yang belum jelas batasannya,0.029133589680000002,0,0.67,6.01,6.96,64496,6.75,1879
+126,2011,Aug,Pertanian Perburuan dan Kehutanan,0.0461080563,0,0.93,6.01,7.48,19823,6.75,914
+127,2011,Aug,Perikanan,0.07547169811000001,0,0.93,6.01,7.48,2438,6.75,184
+128,2011,Aug,Pertambangan dan Penggalian,0.03124136024,0,0.93,6.01,7.48,3617,6.75,113
+129,2011,Aug,Industri Pengolahan,0.05264348899,0,0.93,6.01,7.48,48610,6.75,2559
+130,2011,Aug,Listrik gas dan air,0.012252591890000001,0,0.93,6.01,7.48,1061,6.75,13
+131,2011,Aug,Konstruksi,0.06606223318,0,0.93,6.01,7.48,22721,6.75,1501
+132,2011,Aug,Perdagangan Besar dan Eceran,0.05244426063,0,0.93,6.01,7.48,183757,6.75,9637
+133,2011,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.04745997005,0,0.93,6.01,7.48,8681,6.75,412
+134,2011,Aug,Transportasi pergudangan dan komunikasi,0.03161962759,0,0.93,6.01,7.48,17078,6.75,540
+135,2011,Aug,Perantara Keuangan,0.013309578700000001,0,0.93,6.01,7.48,9542,6.75,127
+136,2011,Aug,Real Estate Usaha Persewaan,0.029463869460000004,0,0.93,6.01,7.48,21450,6.75,632
+137,2011,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.049535603719999995,0,0.93,6.01,7.48,323,6.75,16
+138,2011,Aug,Jasa Pendidikan,0.022398843930000002,0,0.93,6.01,7.48,1384,6.75,31
+139,2011,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.08878504673,0,0.93,6.01,7.48,2782,6.75,247
+140,2011,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02904263513,0,0.93,6.01,7.48,22071,6.75,641
+141,2011,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.0412371134,0,0.93,6.01,7.48,776,6.75,32
+142,2011,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03787878788,0,0.93,6.01,7.48,1716,6.75,65
+143,2011,Aug,Kegiatan yang belum jelas batasannya,0.028762045960000003,0,0.93,6.01,7.48,60705,6.75,1746
+144,2011,Sep,Pertanian Perburuan dan Kehutanan,0.04217088376,0,0.27,6.01,7.48,21816,6.75,920
+145,2011,Sep,Perikanan,0.07654921021000001,0,0.27,6.01,7.48,2469,6.75,189
+146,2011,Sep,Pertambangan dan Penggalian,0.02638737758,0,0.27,6.01,7.48,3676,6.75,97
+147,2011,Sep,Industri Pengolahan,0.04830112572,0,0.27,6.01,7.48,48591,6.75,2347
+148,2011,Sep,Listrik gas dan air,0.00956937799,0,0.27,6.01,7.48,1463,6.75,14
+149,2011,Sep,Konstruksi,0.064590301,0,0.27,6.01,7.48,23920,6.75,1545
+150,2011,Sep,Perdagangan Besar dan Eceran,0.04991419752,0,0.27,6.01,7.48,188223,6.75,9395
+151,2011,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.04462359487,0,0.27,6.01,7.48,8807,6.75,393
+152,2011,Sep,Transportasi pergudangan dan komunikasi,0.0364339269,0,0.27,6.01,7.48,17072,6.75,622
+153,2011,Sep,Perantara Keuangan,0.01134102666,0,0.27,6.01,7.48,10052,6.75,114
+154,2011,Sep,Real Estate Usaha Persewaan,0.03030749582,0,0.27,6.01,7.48,20358,6.75,617
+155,2011,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.04197530864,0,0.27,6.01,7.48,405,6.75,17
+156,2011,Sep,Jasa Pendidikan,0.0184774575,0,0.27,6.01,7.48,1353,6.75,25
+157,2011,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.09113742375,0,0.27,6.01,7.48,2787,6.75,254
+158,2011,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.026560765219999997,0,0.27,6.01,7.48,23418,6.75,622
+159,2011,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.051470588240000004,0,0.27,6.01,7.48,680,6.75,35
+160,2011,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03276955603,0,0.27,6.01,7.48,1892,6.75,62
+161,2011,Sep,Kegiatan yang belum jelas batasannya,0.02882269215,0,0.27,6.01,7.48,59016,6.75,1701
+162,2011,Oct,Pertanian Perburuan dan Kehutanan,0.039226403199999996,0,-0.12,5.94,7.48,23785,6.5,933
+163,2011,Oct,Perikanan,0.06816421379,0,-0.12,5.94,7.48,2582,6.5,176
+164,2011,Oct,Pertambangan dan Penggalian,0.02823263693,0,-0.12,5.94,7.48,3542,6.5,100
+165,2011,Oct,Industri Pengolahan,0.04886868687,0,-0.12,5.94,7.48,49500,6.5,2419
+166,2011,Oct,Listrik gas dan air,0.013227513229999998,0,-0.12,5.94,7.48,1134,6.5,15
+167,2011,Oct,Konstruksi,0.06221179516,0,-0.12,5.94,7.48,24722,6.5,1538
+168,2011,Oct,Perdagangan Besar dan Eceran,0.04934997839,0,-0.12,5.94,7.48,189686,6.5,9361
+169,2011,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.04456426056,0,-0.12,5.94,7.48,9088,6.5,405
+170,2011,Oct,Transportasi pergudangan dan komunikasi,0.03268910937,0,-0.12,5.94,7.48,17437,6.5,570
+171,2011,Oct,Perantara Keuangan,0.01176470588,0,-0.12,5.94,7.48,9945,6.5,117
+172,2011,Oct,Real Estate Usaha Persewaan,0.031722611580000004,0,-0.12,5.94,7.48,18977,6.5,602
+173,2011,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03676470588,0,-0.12,5.94,7.48,408,6.5,15
+174,2011,Oct,Jasa Pendidikan,0.019340974209999997,0,-0.12,5.94,7.48,1396,6.5,27
+175,2011,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.0900209351,0,-0.12,5.94,7.48,2866,6.5,258
+176,2011,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02650020137,0,-0.12,5.94,7.48,24830,6.5,658
+177,2011,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.05154639175,0,-0.12,5.94,7.48,679,6.5,35
+178,2011,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02982107356,0,-0.12,5.94,7.48,2012,6.5,60
+179,2011,Oct,Kegiatan yang belum jelas batasannya,0.028521028360000002,0,-0.12,5.94,7.48,57256,6.5,1633
+180,2011,Nov,Pertanian Perburuan dan Kehutanan,0.03967168263,0,0.34,5.94,7.48,24123,6.0,957
+181,2011,Nov,Perikanan,0.06910090302,0,0.34,5.94,7.48,2547,6.0,176
+182,2011,Nov,Pertambangan dan Penggalian,0.02878289474,0,0.34,5.94,7.48,3648,6.0,105
+183,2011,Nov,Industri Pengolahan,0.04660100889,0,0.34,5.94,7.48,49956,6.0,2328
+184,2011,Nov,Listrik gas dan air,0.03201347936,0,0.34,5.94,7.48,1187,6.0,38
+185,2011,Nov,Konstruksi,0.06365856587999999,0,0.34,5.94,7.48,24977,6.0,1590
+186,2011,Nov,Perdagangan Besar dan Eceran,0.04855871441000001,0,0.34,5.94,7.48,191912,6.0,9319
+187,2011,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.0428452579,0,0.34,5.94,7.48,9616,6.0,412
+188,2011,Nov,Transportasi pergudangan dan komunikasi,0.03157953781,0,0.34,5.94,7.48,17828,6.0,563
+189,2011,Nov,Perantara Keuangan,0.0119071049,0,0.34,5.94,7.48,10162,6.0,121
+190,2011,Nov,Real Estate Usaha Persewaan,0.035365600330000004,0,0.34,5.94,7.48,19256,6.0,681
+191,2011,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.043352601160000004,0,0.34,5.94,7.48,346,6.0,15
+192,2011,Nov,Jasa Pendidikan,0.020134228190000002,0,0.34,5.94,7.48,1490,6.0,30
+193,2011,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.08874689386,0,0.34,5.94,7.48,2817,6.0,250
+194,2011,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.025845883430000004,0,0.34,5.94,7.48,25033,6.0,647
+195,2011,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.052013422819999995,0,0.34,5.94,7.48,596,6.0,31
+196,2011,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02938247012,0,0.34,5.94,7.48,2008,6.0,59
+197,2011,Nov,Kegiatan yang belum jelas batasannya,0.0287049169,0,0.34,5.94,7.48,58004,6.0,1665
+198,2011,Dec,Pertanian Perburuan dan Kehutanan,0.03280376581,0,0.57,5.94,7.48,27192,6.0,892
+199,2011,Dec,Perikanan,0.0618754804,0,0.57,5.94,7.48,2602,6.0,161
+200,2011,Dec,Pertambangan dan Penggalian,0.022600304720000002,0,0.57,5.94,7.48,3938,6.0,89
+201,2011,Dec,Industri Pengolahan,0.038253144680000004,0,0.57,5.94,7.48,52231,6.0,1998
+202,2011,Dec,Listrik gas dan air,0.04022988506,0,0.57,5.94,7.48,1218,6.0,49
+203,2011,Dec,Konstruksi,0.05453272375,0,0.57,5.94,7.48,24279,6.0,1324
+204,2011,Dec,Perdagangan Besar dan Eceran,0.03690348585,0,0.57,5.94,7.48,202447,6.0,7471
+205,2011,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.0351507889,0,0.57,5.94,7.48,10014,6.0,352
+206,2011,Dec,Transportasi pergudangan dan komunikasi,0.02456788781,0,0.57,5.94,7.48,18398,6.0,452
+207,2011,Dec,Perantara Keuangan,0.008922509941,0,0.57,5.94,7.48,10311,6.0,92
+208,2011,Dec,Real Estate Usaha Persewaan,0.03152408159,0,0.57,5.94,7.48,19953,6.0,629
+209,2011,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03759398496,0,0.57,5.94,7.48,399,6.0,15
+210,2011,Dec,Jasa Pendidikan,0.015161502969999997,0,0.57,5.94,7.48,1517,6.0,23
+211,2011,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.07984921179,0,0.57,5.94,7.48,2918,6.0,233
+212,2011,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02424598512,0,0.57,5.94,7.48,25530,6.0,619
+213,2011,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.05496183206,0,0.57,5.94,7.48,655,6.0,36
+214,2011,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.022505307859999997,0,0.57,5.94,7.48,2355,6.0,53
+215,2011,Dec,Kegiatan yang belum jelas batasannya,0.022698975189999998,0,0.57,5.94,7.48,52205,6.0,1185
+216,2012,Jan,Pertanian Perburuan dan Kehutanan,0.03503569896,0,0.76,6.11,7.48,25631,6.0,898
+217,2012,Jan,Perikanan,0.06874753062000001,0,0.76,6.11,7.48,2531,6.0,174
+218,2012,Jan,Pertambangan dan Penggalian,0.054480088499999996,0,0.76,6.11,7.48,3616,6.0,197
+219,2012,Jan,Industri Pengolahan,0.04135185463,0,0.76,6.11,7.48,46721,6.0,1932
+220,2012,Jan,Listrik gas dan air,0.042662116039999996,0,0.76,6.11,7.48,1172,6.0,50
+221,2012,Jan,Konstruksi,0.06492557757,0,0.76,6.11,7.48,21902,6.0,1422
+222,2012,Jan,Perdagangan Besar dan Eceran,0.04130350184,0,0.76,6.11,7.48,187587,6.0,7748
+223,2012,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.036611195160000005,0,0.76,6.11,7.48,9915,6.0,363
+224,2012,Jan,Transportasi pergudangan dan komunikasi,0.02568890398,0,0.76,6.11,7.48,17673,6.0,454
+225,2012,Jan,Perantara Keuangan,0.010728517420000002,0,0.76,6.11,7.48,9787,6.0,105
+226,2012,Jan,Real Estate Usaha Persewaan,0.032362960669999996,0,0.76,6.11,7.48,19374,6.0,627
+227,2012,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03163017032,0,0.76,6.11,7.48,411,6.0,13
+228,2012,Jan,Jasa Pendidikan,0.014725568940000001,0,0.76,6.11,7.48,1494,6.0,22
+229,2012,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.08847373987,0,0.76,6.11,7.48,2837,6.0,251
+230,2012,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02484545887,0,0.76,6.11,7.48,25236,6.0,627
+231,2012,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.06393442623,0,0.76,6.11,7.48,610,6.0,39
+232,2012,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.024556616639999997,0,0.76,6.11,7.48,2199,6.0,54
+233,2012,Jan,Kegiatan yang belum jelas batasannya,0.02789794916,0,0.76,6.11,7.48,42763,6.0,1193
+234,2012,Feb,Pertanian Perburuan dan Kehutanan,0.03439494771,0,0.05,6.11,6.37,29452,5.75,1013
+235,2012,Feb,Perikanan,0.06459143969,0,0.05,6.11,6.37,2570,5.75,166
+236,2012,Feb,Pertambangan dan Penggalian,0.053449183780000006,0,0.05,6.11,6.37,3798,5.75,203
+237,2012,Feb,Industri Pengolahan,0.045045045049999996,0,0.05,6.11,6.37,47952,5.75,2160
+238,2012,Feb,Listrik gas dan air,0.03558191253,0,0.05,6.11,6.37,1349,5.75,48
+239,2012,Feb,Konstruksi,0.06209673927,0,0.05,6.11,6.37,23093,5.75,1434
+240,2012,Feb,Perdagangan Besar dan Eceran,0.04191671676000001,0,0.05,6.11,6.37,196294,5.75,8228
+241,2012,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.03338914607,0,0.05,6.11,6.37,10153,5.75,339
+242,2012,Feb,Transportasi pergudangan dan komunikasi,0.024953633450000002,0,0.05,6.11,6.37,17793,5.75,444
+243,2012,Feb,Perantara Keuangan,0.0120395143,0,0.05,6.11,6.37,9718,5.75,117
+244,2012,Feb,Real Estate Usaha Persewaan,0.029402645719999995,0,0.05,6.11,6.37,19352,5.75,569
+245,2012,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03485254692,0,0.05,6.11,6.37,373,5.75,13
+246,2012,Feb,Jasa Pendidikan,0.01653439153,0,0.05,6.11,6.37,1512,5.75,25
+247,2012,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.08514246947000001,0,0.05,6.11,6.37,2948,5.75,251
+248,2012,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02667191188,0,0.05,6.11,6.37,25420,5.75,678
+249,2012,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.06239460371,0,0.05,6.11,6.37,593,5.75,37
+250,2012,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.025985663080000002,0,0.05,6.11,6.37,2232,5.75,58
+251,2012,Feb,Kegiatan yang belum jelas batasannya,0.025084383130000002,0,0.05,6.11,6.37,54217,5.75,1360
+252,2012,Mar,Pertanian Perburuan dan Kehutanan,0.03485245681,0,0.07,6.11,6.37,29754,5.75,1037
+253,2012,Mar,Perikanan,0.06482919255,0,0.07,6.11,6.37,2576,5.75,167
+254,2012,Mar,Pertambangan dan Penggalian,0.058291457289999994,0,0.07,6.11,6.37,3980,5.75,232
+255,2012,Mar,Industri Pengolahan,0.04180618772,0,0.07,6.11,6.37,49873,5.75,2085
+256,2012,Mar,Listrik gas dan air,0.03100263852,0,0.07,6.11,6.37,1516,5.75,47
+257,2012,Mar,Konstruksi,0.05984311741,0,0.07,6.11,6.37,23712,5.75,1419
+258,2012,Mar,Perdagangan Besar dan Eceran,0.04071296338,0,0.07,6.11,6.37,200403,5.75,8159
+259,2012,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.03439026727,0,0.07,6.11,6.37,10439,5.75,359
+260,2012,Mar,Transportasi pergudangan dan komunikasi,0.02666988475,0,0.07,6.11,6.37,16573,5.75,442
+261,2012,Mar,Perantara Keuangan,0.01201496947,0,0.07,6.11,6.37,10154,5.75,122
+262,2012,Mar,Real Estate Usaha Persewaan,0.030066758399999997,0,0.07,6.11,6.37,19623,5.75,590
+263,2012,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.036496350360000006,0,0.07,6.11,6.37,411,5.75,15
+264,2012,Mar,Jasa Pendidikan,0.02063789869,0,0.07,6.11,6.37,1599,5.75,33
+265,2012,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.0816655907,0,0.07,6.11,6.37,3098,5.75,253
+266,2012,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.026568063540000002,0,0.07,6.11,6.37,25557,5.75,679
+267,2012,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.07636363636,0,0.07,6.11,6.37,550,5.75,42
+268,2012,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.019335647,0,0.07,6.11,6.37,2017,5.75,39
+269,2012,Mar,Kegiatan yang belum jelas batasannya,0.02489905787,0,0.07,6.11,6.37,56468,5.75,1406
+270,2012,Apr,Pertanian Perburuan dan Kehutanan,0.04053818537,0,0.21,6.21,6.37,28689,5.75,1163
+271,2012,Apr,Perikanan,0.06614481409,0,0.21,6.21,6.37,2555,5.75,169
+272,2012,Apr,Pertambangan dan Penggalian,0.048422923150000005,0,0.21,6.21,6.37,4502,5.75,218
+273,2012,Apr,Industri Pengolahan,0.042452016179999996,0,0.21,6.21,6.37,52153,5.75,2214
+274,2012,Apr,Listrik gas dan air,0.03104786546,0,0.21,6.21,6.37,1546,5.75,48
+275,2012,Apr,Konstruksi,0.06153027387999999,0,0.21,6.21,6.37,24427,5.75,1503
+276,2012,Apr,Perdagangan Besar dan Eceran,0.04143377065,0,0.21,6.21,6.37,207174,5.75,8584
+277,2012,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.03493532244,0,0.21,6.21,6.37,10591,5.75,370
+278,2012,Apr,Transportasi pergudangan dan komunikasi,0.028118670319999997,0,0.21,6.21,6.37,16786,5.75,472
+279,2012,Apr,Perantara Keuangan,0.01435867071,0,0.21,6.21,6.37,13511,5.75,194
+280,2012,Apr,Real Estate Usaha Persewaan,0.03169968717,0,0.21,6.21,6.37,19180,5.75,608
+281,2012,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0325,0,0.21,6.21,6.37,400,5.75,13
+282,2012,Apr,Jasa Pendidikan,0.018076178180000003,0,0.21,6.21,6.37,1549,5.75,28
+283,2012,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.07709461612,0,0.21,6.21,6.37,3139,5.75,242
+284,2012,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02663314609,0,0.21,6.21,6.37,25457,5.75,678
+285,2012,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.06346153846,0,0.21,6.21,6.37,520,5.75,33
+286,2012,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03269230769,0,0.21,6.21,6.37,1560,5.75,51
+287,2012,Apr,Kegiatan yang belum jelas batasannya,0.027253167579999998,0,0.21,6.21,6.37,54379,5.75,1482
+288,2012,May,Pertanian Perburuan dan Kehutanan,0.03639344262,0,0.07,6.21,6.37,33550,5.75,1221
+289,2012,May,Perikanan,0.06302674973,0,0.07,6.21,6.37,2729,5.75,172
+290,2012,May,Pertambangan dan Penggalian,0.05190456258,0,0.07,6.21,6.37,4778,5.75,248
+291,2012,May,Industri Pengolahan,0.040197565580000004,0,0.07,6.21,6.37,54058,5.75,2173
+292,2012,May,Listrik gas dan air,0.027679623089999997,0,0.07,6.21,6.37,1698,5.75,47
+293,2012,May,Konstruksi,0.05984130056,0,0.07,6.21,6.37,25835,5.75,1546
+294,2012,May,Perdagangan Besar dan Eceran,0.041608069219999995,0,0.07,6.21,6.37,214742,5.75,8935
+295,2012,May,Penyediaan akomodasi dan penyediaan makan minum,0.03555431131,0,0.07,6.21,6.37,10716,5.75,381
+296,2012,May,Transportasi pergudangan dan komunikasi,0.02633402633,0,0.07,6.21,6.37,17316,5.75,456
+297,2012,May,Perantara Keuangan,0.011836803219999999,0,0.07,6.21,6.37,11912,5.75,141
+298,2012,May,Real Estate Usaha Persewaan,0.03109156751,0,0.07,6.21,6.37,19330,5.75,601
+299,2012,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.044982698960000005,0,0.07,6.21,6.37,289,5.75,13
+300,2012,May,Jasa Pendidikan,0.01520467836,0,0.07,6.21,6.37,1710,5.75,26
+301,2012,May,Jasa Kesehatan dan Kegiatan Sosial,0.07668231612000001,0,0.07,6.21,6.37,3195,5.75,245
+302,2012,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02635640966,0,0.07,6.21,6.37,25914,5.75,683
+303,2012,May,Jasa Perorangan yang Melayani Rumah Tangga,0.061224489800000004,0,0.07,6.21,6.37,588,5.75,36
+304,2012,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02604651163,0,0.07,6.21,6.37,2150,5.75,56
+305,2012,May,Kegiatan yang belum jelas batasannya,0.026213796129999998,0,0.07,6.21,6.37,52377,5.75,1373
+306,2012,Jun,Pertanian Perburuan dan Kehutanan,0.03363659995,0,0.62,6.21,6.37,38470,5.75,1294
+307,2012,Jun,Perikanan,0.062088102670000006,0,0.62,6.21,6.37,2883,5.75,179
+308,2012,Jun,Pertambangan dan Penggalian,0.04924023851,0,0.62,6.21,6.37,5199,5.75,256
+309,2012,Jun,Industri Pengolahan,0.03931044432,0,0.62,6.21,6.37,55456,5.75,2180
+310,2012,Jun,Listrik gas dan air,0.02662037037,0,0.62,6.21,6.37,1728,5.75,46
+311,2012,Jun,Konstruksi,0.05502459592,0,0.62,6.21,6.37,28460,5.75,1566
+312,2012,Jun,Perdagangan Besar dan Eceran,0.03903977346,0,0.62,6.21,6.37,233070,5.75,9099
+313,2012,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.031482590469999995,0,0.62,6.21,6.37,11689,5.75,368
+314,2012,Jun,Transportasi pergudangan dan komunikasi,0.025500526869999998,0,0.62,6.21,6.37,18980,5.75,484
+315,2012,Jun,Perantara Keuangan,0.01134297971,0,0.62,6.21,6.37,13753,5.75,156
+316,2012,Jun,Real Estate Usaha Persewaan,0.028695313260000004,0,0.62,6.21,6.37,20526,5.75,589
+317,2012,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02576112412,0,0.62,6.21,6.37,427,5.75,11
+318,2012,Jun,Jasa Pendidikan,0.015303430080000001,0,0.62,6.21,6.37,1895,5.75,29
+319,2012,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.09584569733,0,0.62,6.21,6.37,3370,5.75,323
+320,2012,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.024621353430000003,0,0.62,6.21,6.37,26806,5.75,660
+321,2012,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.04746835443,0,0.62,6.21,6.37,632,5.75,30
+322,2012,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.62,6.21,6.37,9,5.75,0
+323,2012,Jun,Kegiatan yang belum jelas batasannya,0.022902901969999997,0,0.62,6.21,6.37,42833,5.75,981
+324,2012,Jul,Pertanian Perburuan dan Kehutanan,0.03488772832,0,0.7,5.94,6.37,37721,5.75,1316
+325,2012,Jul,Perikanan,0.06336088154,0,0.7,5.94,6.37,2904,5.75,184
+326,2012,Jul,Pertambangan dan Penggalian,0.050358280250000005,0,0.7,5.94,6.37,5024,5.75,253
+327,2012,Jul,Industri Pengolahan,0.039367936,0,0.7,5.94,6.37,55121,5.75,2170
+328,2012,Jul,Listrik gas dan air,0.023849140319999997,0,0.7,5.94,6.37,1803,5.75,43
+329,2012,Jul,Konstruksi,0.059455954129999995,0,0.7,5.94,6.37,29299,5.75,1742
+330,2012,Jul,Perdagangan Besar dan Eceran,0.03918300542,0,0.7,5.94,6.37,233392,5.75,9145
+331,2012,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.02956766606,0,0.7,5.94,6.37,12074,5.75,357
+332,2012,Jul,Transportasi pergudangan dan komunikasi,0.0260819868,0,0.7,5.94,6.37,19247,5.75,502
+333,2012,Jul,Perantara Keuangan,0.01297754447,0,0.7,5.94,6.37,13716,5.75,178
+334,2012,Jul,Real Estate Usaha Persewaan,0.027893254660000002,0,0.7,5.94,6.37,22371,5.75,624
+335,2012,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0404040404,0,0.7,5.94,6.37,297,5.75,12
+336,2012,Jul,Jasa Pendidikan,0.01510248112,0,0.7,5.94,6.37,1854,5.75,28
+337,2012,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.09314434481,0,0.7,5.94,6.37,3457,5.75,322
+338,2012,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.0336058129,0,0.7,5.94,6.37,27525,5.75,925
+339,2012,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.07030129125,0,0.7,5.94,6.37,697,5.75,49
+340,2012,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.028322440089999998,0,0.7,5.94,6.37,459,5.75,13
+341,2012,Jul,Kegiatan yang belum jelas batasannya,0.02461298296,0,0.7,5.94,6.37,38435,5.75,946
+342,2012,Aug,Pertanian Perburuan dan Kehutanan,0.04115480925,0,0.95,5.94,6.13,33945,5.75,1397
+343,2012,Aug,Perikanan,0.08402452218,0,0.95,5.94,6.13,2773,5.75,233
+344,2012,Aug,Pertambangan dan Penggalian,0.05338149709,0,0.95,5.94,6.13,4983,5.75,266
+345,2012,Aug,Industri Pengolahan,0.04011183998,0,0.95,5.94,6.13,55794,5.75,2238
+346,2012,Aug,Listrik gas dan air,0.023602484469999997,0,0.95,5.94,6.13,1610,5.75,38
+347,2012,Aug,Konstruksi,0.058349495079999994,0,0.95,5.94,6.13,29906,5.75,1745
+348,2012,Aug,Perdagangan Besar dan Eceran,0.03992416393,0,0.95,5.94,6.13,226805,5.75,9055
+349,2012,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.028688182799999996,0,0.95,5.94,6.13,11991,5.75,344
+350,2012,Aug,Transportasi pergudangan dan komunikasi,0.027597575239999998,0,0.95,5.94,6.13,18806,5.75,519
+351,2012,Aug,Perantara Keuangan,0.01272550341,0,0.95,5.94,6.13,13359,5.75,170
+352,2012,Aug,Real Estate Usaha Persewaan,0.03640987886,0,0.95,5.94,6.13,29882,5.75,1088
+353,2012,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.05381165919,0,0.95,5.94,6.13,223,5.75,12
+354,2012,Aug,Jasa Pendidikan,0.01756511205,0,0.95,5.94,6.13,1651,5.75,29
+355,2012,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.09262976770999999,0,0.95,5.94,6.13,3487,5.75,323
+356,2012,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03669379144,0,0.95,5.94,6.13,26544,5.75,974
+357,2012,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.08485856905,0,0.95,5.94,6.13,601,5.75,51
+358,2012,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0288248337,0,0.95,5.94,6.13,451,5.75,13
+359,2012,Aug,Kegiatan yang belum jelas batasannya,0.02983231768,0,0.95,5.94,6.13,25107,5.75,749
+360,2012,Sep,Pertanian Perburuan dan Kehutanan,0.03970859018,0,0.01,5.94,6.13,37473,5.75,1488
+361,2012,Sep,Perikanan,0.08356643357,0,0.01,5.94,6.13,2860,5.75,239
+362,2012,Sep,Pertambangan dan Penggalian,0.03239466441,0,0.01,5.94,6.13,4723,5.75,153
+363,2012,Sep,Industri Pengolahan,0.035489711289999996,0,0.01,5.94,6.13,51367,5.75,1823
+364,2012,Sep,Listrik gas dan air,0.011735639280000001,0,0.01,5.94,6.13,1619,5.75,19
+365,2012,Sep,Konstruksi,0.05025920688999999,0,0.01,5.94,6.13,29706,5.75,1493
+366,2012,Sep,Perdagangan Besar dan Eceran,0.03910244477,0,0.01,5.94,6.13,230983,5.75,9032
+367,2012,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.0272172291,0,0.01,5.94,6.13,11794,5.75,321
+368,2012,Sep,Transportasi pergudangan dan komunikasi,0.02685386372,0,0.01,5.94,6.13,17949,5.75,482
+369,2012,Sep,Perantara Keuangan,0.0105923627,0,0.01,5.94,6.13,14822,5.75,157
+370,2012,Sep,Real Estate Usaha Persewaan,0.02640310295,0,0.01,5.94,6.13,21399,5.75,565
+371,2012,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.04545454545,0,0.01,5.94,6.13,242,5.75,11
+372,2012,Sep,Jasa Pendidikan,0.015228426399999998,0,0.01,5.94,6.13,1773,5.75,27
+373,2012,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.032691720130000004,0,0.01,5.94,6.13,3273,5.75,107
+374,2012,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03695644018,0,0.01,5.94,6.13,26653,5.75,985
+375,2012,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.08372093022999999,0,0.01,5.94,6.13,645,5.75,54
+376,2012,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.025056947609999998,0,0.01,5.94,6.13,439,5.75,11
+377,2012,Sep,Kegiatan yang belum jelas batasannya,0.028466257669999998,0,0.01,5.94,6.13,28525,5.75,812
+378,2012,Oct,Pertanian Perburuan dan Kehutanan,0.0384665673,0,0.16,5.87,6.13,38241,5.75,1471
+379,2012,Oct,Perikanan,0.08362248438999999,0,0.16,5.87,6.13,2882,5.75,241
+380,2012,Oct,Pertambangan dan Penggalian,0.038200862599999996,0,0.16,5.87,6.13,4869,5.75,186
+381,2012,Oct,Industri Pengolahan,0.03401165019,0,0.16,5.87,6.13,52188,5.75,1775
+382,2012,Oct,Listrik gas dan air,0.011097410600000001,0,0.16,5.87,6.13,1622,5.75,18
+383,2012,Oct,Konstruksi,0.050885523610000004,0,0.16,5.87,6.13,31168,5.75,1586
+384,2012,Oct,Perdagangan Besar dan Eceran,0.03894840992,0,0.16,5.87,6.13,235491,5.75,9172
+385,2012,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.02593925195,0,0.16,5.87,6.13,11951,5.75,310
+386,2012,Oct,Transportasi pergudangan dan komunikasi,0.027549540839999997,0,0.16,5.87,6.13,18621,5.75,513
+387,2012,Oct,Perantara Keuangan,0.011854583770000001,0,0.16,5.87,6.13,15184,5.75,180
+388,2012,Oct,Real Estate Usaha Persewaan,0.02637392363,0,0.16,5.87,6.13,22181,5.75,585
+389,2012,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.05531914893999999,0,0.16,5.87,6.13,235,5.75,13
+390,2012,Oct,Jasa Pendidikan,0.0138427464,0,0.16,5.87,6.13,1806,5.75,25
+391,2012,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.02821975383,0,0.16,5.87,6.13,3331,5.75,94
+392,2012,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04019574881,0,0.16,5.87,6.13,26769,5.75,1076
+393,2012,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.07738095237999999,0,0.16,5.87,6.13,672,5.75,52
+394,2012,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.025821596239999998,0,0.16,5.87,6.13,426,5.75,11
+395,2012,Oct,Kegiatan yang belum jelas batasannya,0.026015983680000004,0,0.16,5.87,6.13,29405,5.75,765
+396,2012,Nov,Pertanian Perburuan dan Kehutanan,0.040353574169999996,0,0.07,5.87,6.13,39030,5.75,1575
+397,2012,Nov,Perikanan,0.08238446082,0,0.07,5.87,6.13,2986,5.75,246
+398,2012,Nov,Pertambangan dan Penggalian,0.03520456708,0,0.07,5.87,6.13,5255,5.75,185
+399,2012,Nov,Industri Pengolahan,0.0303061487,0,0.07,5.87,6.13,58305,5.75,1767
+400,2012,Nov,Listrik gas dan air,0.012612612609999999,0,0.07,5.87,6.13,1665,5.75,21
+401,2012,Nov,Konstruksi,0.049521405930000005,0,0.07,5.87,6.13,32491,5.75,1609
+402,2012,Nov,Perdagangan Besar dan Eceran,0.037946650330000005,0,0.07,5.87,6.13,241576,5.75,9167
+403,2012,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.02453940238,0,0.07,5.87,6.13,12918,5.75,317
+404,2012,Nov,Transportasi pergudangan dan komunikasi,0.023045105380000003,0,0.07,5.87,6.13,20308,5.75,468
+405,2012,Nov,Perantara Keuangan,0.01368406126,0,0.07,5.87,6.13,14104,5.75,193
+406,2012,Nov,Real Estate Usaha Persewaan,0.02450689751,0,0.07,5.87,6.13,25299,5.75,620
+407,2012,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.056277056279999994,0,0.07,5.87,6.13,231,5.75,13
+408,2012,Nov,Jasa Pendidikan,0.014348785869999998,0,0.07,5.87,6.13,1812,5.75,26
+409,2012,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.030787104269999997,0,0.07,5.87,6.13,3443,5.75,106
+410,2012,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04041544367,0,0.07,5.87,6.13,26574,5.75,1074
+411,2012,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.07407407407000001,0,0.07,5.87,6.13,675,5.75,50
+412,2012,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02619047619,0,0.07,5.87,6.13,420,5.75,11
+413,2012,Nov,Kegiatan yang belum jelas batasannya,0.02632569922,0,0.07,5.87,6.13,29211,5.75,769
+414,2012,Dec,Pertanian Perburuan dan Kehutanan,0.03665037215,0,0.54,5.87,6.13,40709,5.75,1492
+415,2012,Dec,Perikanan,0.05620689655,0,0.54,5.87,6.13,2900,5.75,163
+416,2012,Dec,Pertambangan dan Penggalian,0.02819237148,0,0.54,5.87,6.13,5427,5.75,153
+417,2012,Dec,Industri Pengolahan,0.030218487389999996,0,0.54,5.87,6.13,59500,5.75,1798
+418,2012,Dec,Listrik gas dan air,0.009497964721999999,0,0.54,5.87,6.13,1474,5.75,14
+419,2012,Dec,Konstruksi,0.048931162970000004,0,0.54,5.87,6.13,30594,5.75,1497
+420,2012,Dec,Perdagangan Besar dan Eceran,0.03398561498,0,0.54,5.87,6.13,248870,5.75,8458
+421,2012,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.022094210299999997,0,0.54,5.87,6.13,13714,5.75,303
+422,2012,Dec,Transportasi pergudangan dan komunikasi,0.02345487958,0,0.54,5.87,6.13,20678,5.75,485
+423,2012,Dec,Perantara Keuangan,0.0113805047,0,0.54,5.87,6.13,14147,5.75,161
+424,2012,Dec,Real Estate Usaha Persewaan,0.026644495150000003,0,0.54,5.87,6.13,25859,5.75,689
+425,2012,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02183406114,0,0.54,5.87,6.13,229,5.75,5
+426,2012,Dec,Jasa Pendidikan,0.01165254237,0,0.54,5.87,6.13,1888,5.75,22
+427,2012,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.0281409892,0,0.54,5.87,6.13,3518,5.75,99
+428,2012,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.033778148460000004,0,0.54,5.87,6.13,26378,5.75,891
+429,2012,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.059523809520000005,0,0.54,5.87,6.13,672,5.75,40
+430,2012,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0193236715,0,0.54,5.87,6.13,414,5.75,8
+431,2012,Dec,Kegiatan yang belum jelas batasannya,0.024842820730000003,0,0.54,5.87,6.13,29425,5.75,731
+432,2013,Jan,Pertanian Perburuan dan Kehutanan,0.03992585547,0,1.03,5.54,6.13,41001,5.75,1637
+433,2013,Jan,Perikanan,0.057447540420000005,0,1.03,5.54,6.13,2907,5.75,167
+434,2013,Jan,Pertambangan dan Penggalian,0.05091059603,0,1.03,5.54,6.13,4832,5.75,246
+435,2013,Jan,Industri Pengolahan,0.03224584754,0,1.03,5.54,6.13,55449,5.75,1788
+436,2013,Jan,Listrik gas dan air,0.010240963859999999,0,1.03,5.54,6.13,1660,5.75,17
+437,2013,Jan,Konstruksi,0.05466856972,0,1.03,5.54,6.13,30127,5.75,1647
+438,2013,Jan,Perdagangan Besar dan Eceran,0.038365024680000005,0,1.03,5.54,6.13,241496,5.75,9265
+439,2013,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.025723227230000003,0,1.03,5.54,6.13,13101,5.75,337
+440,2013,Jan,Transportasi pergudangan dan komunikasi,0.02222222222,0,1.03,5.54,6.13,19890,5.75,442
+441,2013,Jan,Perantara Keuangan,0.01364922207,0,1.03,5.54,6.13,14140,5.75,193
+442,2013,Jan,Real Estate Usaha Persewaan,0.030326763260000004,0,1.03,5.54,6.13,22983,5.75,697
+443,2013,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02325581395,0,1.03,5.54,6.13,215,5.75,5
+444,2013,Jan,Jasa Pendidikan,0.019715224530000002,0,1.03,5.54,6.13,1826,5.75,36
+445,2013,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.02897693672,0,1.03,5.54,6.13,3382,5.75,98
+446,2013,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03703409992,0,1.03,5.54,6.13,25220,5.75,934
+447,2013,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.058910162,0,1.03,5.54,6.13,679,5.75,40
+448,2013,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.020833333330000002,0,1.03,5.54,6.13,384,5.75,8
+449,2013,Jan,Kegiatan yang belum jelas batasannya,0.026013243109999997,0,1.03,5.54,6.13,27486,5.75,715
+450,2013,Feb,Pertanian Perburuan dan Kehutanan,0.0407552272,0,0.75,5.54,5.88,41418,5.75,1688
+451,2013,Feb,Perikanan,0.060129825760000005,0,0.75,5.54,5.88,2927,5.75,176
+452,2013,Feb,Pertambangan dan Penggalian,0.053578412199999995,0,0.75,5.54,5.88,5114,5.75,274
+453,2013,Feb,Industri Pengolahan,0.03332785478,0,0.75,5.54,5.88,54759,5.75,1825
+454,2013,Feb,Listrik gas dan air,0.013299556680000001,0,0.75,5.54,5.88,1579,5.75,21
+455,2013,Feb,Konstruksi,0.05314434669,0,0.75,5.54,5.88,30690,5.75,1631
+456,2013,Feb,Perdagangan Besar dan Eceran,0.03900192126,0,0.75,5.54,5.88,246193,5.75,9602
+457,2013,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.02533620626,0,0.75,5.54,5.88,13459,5.75,341
+458,2013,Feb,Transportasi pergudangan dan komunikasi,0.02220824463,0,0.75,5.54,5.88,20668,5.75,459
+459,2013,Feb,Perantara Keuangan,0.01588419405,0,0.75,5.54,5.88,12780,5.75,203
+460,2013,Feb,Real Estate Usaha Persewaan,0.030330214869999997,0,0.75,5.54,5.88,23409,5.75,710
+461,2013,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.023584905660000002,0,0.75,5.54,5.88,212,5.75,5
+462,2013,Feb,Jasa Pendidikan,0.019709543569999998,0,0.75,5.54,5.88,1928,5.75,38
+463,2013,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.027249503260000002,0,0.75,5.54,5.88,3523,5.75,96
+464,2013,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03620797989,0,0.75,5.54,5.88,25464,5.75,922
+465,2013,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.05750350631,0,0.75,5.54,5.88,713,5.75,41
+466,2013,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.021447721180000004,0,0.75,5.54,5.88,373,5.75,8
+467,2013,Feb,Kegiatan yang belum jelas batasannya,0.025497491209999997,0,0.75,5.54,5.88,29297,5.75,747
+468,2013,Mar,Pertanian Perburuan dan Kehutanan,0.04129251544,0,0.63,5.54,5.88,43543,5.75,1798
+469,2013,Mar,Perikanan,0.0718503937,0,0.63,5.54,5.88,3048,5.75,219
+470,2013,Mar,Pertambangan dan Penggalian,0.05477245267999999,0,0.63,5.54,5.88,4966,5.75,272
+471,2013,Mar,Industri Pengolahan,0.03232495731,0,0.63,5.54,5.88,57386,5.75,1855
+472,2013,Mar,Listrik gas dan air,0.011557177620000001,0,0.63,5.54,5.88,1644,5.75,19
+473,2013,Mar,Konstruksi,0.05352472288,0,0.63,5.54,5.88,32116,5.75,1719
+474,2013,Mar,Perdagangan Besar dan Eceran,0.03734444664,0,0.63,5.54,5.88,257709,5.75,9624
+475,2013,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.023921370240000003,0,0.63,5.54,5.88,13837,5.75,331
+476,2013,Mar,Transportasi pergudangan dan komunikasi,0.021558794580000002,0,0.63,5.54,5.88,21337,5.75,460
+477,2013,Mar,Perantara Keuangan,0.01715744953,0,0.63,5.54,5.88,12531,5.75,215
+478,2013,Mar,Real Estate Usaha Persewaan,0.028818923870000002,0,0.63,5.54,5.88,24012,5.75,692
+479,2013,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02314814815,0,0.63,5.54,5.88,216,5.75,5
+480,2013,Mar,Jasa Pendidikan,0.023124357659999997,0,0.63,5.54,5.88,1946,5.75,45
+481,2013,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.026192445550000002,0,0.63,5.54,5.88,3627,5.75,95
+482,2013,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03484924333,0,0.63,5.54,5.88,25969,5.75,905
+483,2013,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.05119047619,0,0.63,5.54,5.88,840,5.75,43
+484,2013,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02493074792,0,0.63,5.54,5.88,361,5.75,9
+485,2013,Mar,Kegiatan yang belum jelas batasannya,0.028573774530000002,0,0.63,5.54,5.88,24358,5.75,696
+486,2013,Apr,Pertanian Perburuan dan Kehutanan,0.04044760197,0,-0.1,5.59,5.88,44057,5.75,1782
+487,2013,Apr,Perikanan,0.07007575758,0,-0.1,5.59,5.88,3168,5.75,222
+488,2013,Apr,Pertambangan dan Penggalian,0.049754178960000006,0,-0.1,5.59,5.88,5085,5.75,253
+489,2013,Apr,Industri Pengolahan,0.03299970613,0,-0.1,5.59,5.88,57849,5.75,1909
+490,2013,Apr,Listrik gas dan air,0.010265700479999999,0,-0.1,5.59,5.88,1656,5.75,17
+491,2013,Apr,Konstruksi,0.054125810829999996,0,-0.1,5.59,5.88,33145,5.75,1794
+492,2013,Apr,Perdagangan Besar dan Eceran,0.037356311,0,-0.1,5.59,5.88,265069,5.75,9902
+493,2013,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.03788676068,0,-0.1,5.59,5.88,14253,5.75,540
+494,2013,Apr,Transportasi pergudangan dan komunikasi,0.021228794130000003,0,-0.1,5.59,5.88,21810,5.75,463
+495,2013,Apr,Perantara Keuangan,0.01683528296,0,-0.1,5.59,5.88,12652,5.75,213
+496,2013,Apr,Real Estate Usaha Persewaan,0.0299322521,0,-0.1,5.59,5.88,24355,5.75,729
+497,2013,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01639344262,0,-0.1,5.59,5.88,244,5.75,4
+498,2013,Apr,Jasa Pendidikan,0.022017409109999997,0,-0.1,5.59,5.88,1953,5.75,43
+499,2013,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.021534320319999998,0,-0.1,5.59,5.88,3715,5.75,80
+500,2013,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03476435795,0,-0.1,5.59,5.88,26205,5.75,911
+501,2013,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.04689331769999999,0,-0.1,5.59,5.88,853,5.75,40
+502,2013,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02608695652,0,-0.1,5.59,5.88,345,5.75,9
+503,2013,Apr,Kegiatan yang belum jelas batasannya,0.026824961490000004,0,-0.1,5.59,5.88,26617,5.75,714
+504,2013,May,Pertanian Perburuan dan Kehutanan,0.03928587114,0,-0.03,5.59,5.88,45538,5.75,1789
+505,2013,May,Perikanan,0.06709362611,0,-0.03,5.59,5.88,3279,5.75,220
+506,2013,May,Pertambangan dan Penggalian,0.0343049772,0,-0.03,5.59,5.88,5043,5.75,173
+507,2013,May,Industri Pengolahan,0.032442430099999996,0,-0.03,5.59,5.88,60014,5.75,1947
+508,2013,May,Listrik gas dan air,0.01022864019,0,-0.03,5.59,5.88,1662,5.75,17
+509,2013,May,Konstruksi,0.057632756050000004,0,-0.03,5.59,5.88,34876,5.75,2010
+510,2013,May,Perdagangan Besar dan Eceran,0.03743272137,0,-0.03,5.59,5.88,271260,5.75,10154
+511,2013,May,Penyediaan akomodasi dan penyediaan makan minum,0.03737191079,0,-0.03,5.59,5.88,14931,5.75,558
+512,2013,May,Transportasi pergudangan dan komunikasi,0.02224664761,0,-0.03,5.59,5.88,22745,5.75,506
+513,2013,May,Perantara Keuangan,0.01625111309,0,-0.03,5.59,5.88,13476,5.75,219
+514,2013,May,Real Estate Usaha Persewaan,0.029293284839999996,0,-0.03,5.59,5.88,25569,5.75,749
+515,2013,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01646090535,0,-0.03,5.59,5.88,243,5.75,4
+516,2013,May,Jasa Pendidikan,0.021201413430000003,0,-0.03,5.59,5.88,1981,5.75,42
+517,2013,May,Jasa Kesehatan dan Kegiatan Sosial,0.019864087819999997,0,-0.03,5.59,5.88,3826,5.75,76
+518,2013,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03500409622,0,-0.03,5.59,5.88,26854,5.75,940
+519,2013,May,Jasa Perorangan yang Melayani Rumah Tangga,0.04269662921,0,-0.03,5.59,5.88,890,5.75,38
+520,2013,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02431610942,0,-0.03,5.59,5.88,329,5.75,8
+521,2013,May,Kegiatan yang belum jelas batasannya,0.027019755550000003,0,-0.03,5.59,5.88,26018,5.75,703
+522,2013,Jun,Pertanian Perburuan dan Kehutanan,0.03616068288,0,1.03,5.59,5.88,42643,6.0,1542
+523,2013,Jun,Perikanan,0.056548491060000004,0,1.03,5.59,5.88,3413,6.0,193
+524,2013,Jun,Pertambangan dan Penggalian,0.03545647558,0,1.03,5.59,5.88,4710,6.0,167
+525,2013,Jun,Industri Pengolahan,0.02835342591,0,1.03,5.59,5.88,65530,6.0,1858
+526,2013,Jun,Listrik gas dan air,0.012283640420000002,0,1.03,5.59,5.88,1791,6.0,22
+527,2013,Jun,Konstruksi,0.05080905286,0,1.03,5.59,5.88,37513,6.0,1906
+528,2013,Jun,Perdagangan Besar dan Eceran,0.035070058939999996,0,1.03,5.59,5.88,307955,6.0,10800
+529,2013,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.02331442974,0,1.03,5.59,5.88,15870,6.0,370
+530,2013,Jun,Transportasi pergudangan dan komunikasi,0.02220828105,0,1.03,5.59,5.88,23910,6.0,531
+531,2013,Jun,Perantara Keuangan,0.01626280696,0,1.03,5.59,5.88,12298,6.0,200
+532,2013,Jun,Real Estate Usaha Persewaan,0.02778951474,0,1.03,5.59,5.88,30767,6.0,855
+533,2013,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01176470588,0,1.03,5.59,5.88,255,6.0,3
+534,2013,Jun,Jasa Pendidikan,0.01797637391,0,1.03,5.59,5.88,1947,6.0,35
+535,2013,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.01712415009,0,1.03,5.59,5.88,3971,6.0,68
+536,2013,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.0331144141,0,1.03,5.59,5.88,28930,6.0,958
+537,2013,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.0363797693,0,1.03,5.59,5.88,1127,6.0,41
+538,2013,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.029220779219999996,0,1.03,5.59,5.88,308,6.0,9
+539,2013,Jun,Kegiatan yang belum jelas batasannya,0.016189290159999998,0,1.03,5.59,5.88,803,6.0,13
+540,2013,Jul,Pertanian Perburuan dan Kehutanan,0.03636280264,0,3.29,5.52,5.88,43616,6.5,1586
+541,2013,Jul,Perikanan,0.040983606560000004,0,3.29,5.52,5.88,3416,6.5,140
+542,2013,Jul,Pertambangan dan Penggalian,0.042971147939999996,0,3.29,5.52,5.88,4887,6.5,210
+543,2013,Jul,Industri Pengolahan,0.03201780669,0,3.29,5.52,5.88,58405,6.5,1870
+544,2013,Jul,Listrik gas dan air,0.01384881708,0,3.29,5.52,5.88,1733,6.5,24
+545,2013,Jul,Konstruksi,0.0509057971,0,3.29,5.52,5.88,38640,6.5,1967
+546,2013,Jul,Perdagangan Besar dan Eceran,0.03590568405,0,3.29,5.52,5.88,310870,6.5,11162
+547,2013,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.023477394449999998,0,3.29,5.52,5.88,16058,6.5,377
+548,2013,Jul,Transportasi pergudangan dan komunikasi,0.02470296607,0,3.29,5.52,5.88,23398,6.5,578
+549,2013,Jul,Perantara Keuangan,0.01602539875,0,3.29,5.52,5.88,13229,6.5,212
+550,2013,Jul,Real Estate Usaha Persewaan,0.02848782997,0,3.29,5.52,5.88,31101,6.5,886
+551,2013,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01083032491,0,3.29,5.52,5.88,277,6.5,3
+552,2013,Jul,Jasa Pendidikan,0.01713709677,0,3.29,5.52,5.88,1984,6.5,34
+553,2013,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.018015794669999998,0,3.29,5.52,5.88,4052,6.5,73
+554,2013,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03290472816,0,3.29,5.52,5.88,29631,6.5,975
+555,2013,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.028451882850000002,0,3.29,5.52,5.88,1195,6.5,34
+556,2013,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03146853147,0,3.29,5.52,5.88,286,6.5,9
+557,2013,Jul,Kegiatan yang belum jelas batasannya,0.008196721311,0,3.29,5.52,5.88,1708,6.5,14
+558,2013,Aug,Pertanian Perburuan dan Kehutanan,0.03839118306,0,1.12,5.52,6.17,43734,7.0,1679
+559,2013,Aug,Perikanan,0.04540128881,0,1.12,5.52,6.17,3414,7.0,155
+560,2013,Aug,Pertambangan dan Penggalian,0.04130476742,0,1.12,5.52,6.17,5181,7.0,214
+561,2013,Aug,Industri Pengolahan,0.03329210293,0,1.12,5.52,6.17,57401,7.0,1911
+562,2013,Aug,Listrik gas dan air,0.0147579693,0,1.12,5.52,6.17,1694,7.0,25
+563,2013,Aug,Konstruksi,0.05406674842999999,0,1.12,5.52,6.17,38323,7.0,2072
+564,2013,Aug,Perdagangan Besar dan Eceran,0.03714132953,0,1.12,5.52,6.17,308605,7.0,11462
+565,2013,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.023875,0,1.12,5.52,6.17,16000,7.0,382
+566,2013,Aug,Transportasi pergudangan dan komunikasi,0.026460955010000002,0,1.12,5.52,6.17,23204,7.0,614
+567,2013,Aug,Perantara Keuangan,0.02303248556,0,1.12,5.52,6.17,13329,7.0,307
+568,2013,Aug,Real Estate Usaha Persewaan,0.029164737779999998,0,1.12,5.52,6.17,30242,7.0,882
+569,2013,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01063829787,0,1.12,5.52,6.17,282,7.0,3
+570,2013,Aug,Jasa Pendidikan,0.01924050633,0,1.12,5.52,6.17,1975,7.0,38
+571,2013,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.01900765243,0,1.12,5.52,6.17,4051,7.0,77
+572,2013,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03411406997,0,1.12,5.52,6.17,29929,7.0,1021
+573,2013,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.030278884460000006,0,1.12,5.52,6.17,1255,7.0,38
+574,2013,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02898550725,0,1.12,5.52,6.17,276,7.0,8
+575,2013,Aug,Kegiatan yang belum jelas batasannya,0.009803921569,0,1.12,5.52,6.17,408,7.0,4
+576,2013,Sep,Pertanian Perburuan dan Kehutanan,0.03669887815,0,-0.35,5.52,6.17,45015,7.25,1652
+577,2013,Sep,Perikanan,0.03929384966,0,-0.35,5.52,6.17,3512,7.25,138
+578,2013,Sep,Pertambangan dan Penggalian,0.04095238095,0,-0.35,5.52,6.17,5250,7.25,215
+579,2013,Sep,Industri Pengolahan,0.0324130897,0,-0.35,5.52,6.17,57847,7.25,1875
+580,2013,Sep,Listrik gas dan air,0.013706793799999999,0,-0.35,5.52,6.17,1678,7.25,23
+581,2013,Sep,Konstruksi,0.05188595715,0,-0.35,5.52,6.17,39529,7.25,2051
+582,2013,Sep,Perdagangan Besar dan Eceran,0.03584295848,0,-0.35,5.52,6.17,312809,7.25,11212
+583,2013,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.022523055099999998,0,-0.35,5.52,6.17,16916,7.25,381
+584,2013,Sep,Transportasi pergudangan dan komunikasi,0.02737758249,0,-0.35,5.52,6.17,23669,7.25,648
+585,2013,Sep,Perantara Keuangan,0.023245549509999998,0,-0.35,5.52,6.17,13594,7.25,316
+586,2013,Sep,Real Estate Usaha Persewaan,0.029173841010000003,0,-0.35,5.52,6.17,30781,7.25,898
+587,2013,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.014705882350000001,0,-0.35,5.52,6.17,272,7.25,4
+588,2013,Sep,Jasa Pendidikan,0.02180527383,0,-0.35,5.52,6.17,1972,7.25,43
+589,2013,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.01855015865,0,-0.35,5.52,6.17,4097,7.25,76
+590,2013,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.033822948230000004,0,-0.35,5.52,6.17,30364,7.25,1027
+591,2013,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.028744326780000003,0,-0.35,5.52,6.17,1322,7.25,38
+592,2013,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.031007751939999998,0,-0.35,5.52,6.17,258,7.25,8
+593,2013,Sep,Kegiatan yang belum jelas batasannya,0.008421052632000001,0,-0.35,5.52,6.17,475,7.25,4
+594,2013,Oct,Pertanian Perburuan dan Kehutanan,0.03613483932,0,0.09,5.58,6.17,45773,7.25,1654
+595,2013,Oct,Perikanan,0.05091012514,0,0.09,5.58,6.17,3516,7.25,179
+596,2013,Oct,Pertambangan dan Penggalian,0.08281882052,0,0.09,5.58,6.17,4697,7.25,389
+597,2013,Oct,Industri Pengolahan,0.03336761911,0,0.09,5.58,6.17,57361,7.25,1914
+598,2013,Oct,Listrik gas dan air,0.014251781469999999,0,0.09,5.58,6.17,1684,7.25,24
+599,2013,Oct,Konstruksi,0.051865513550000006,0,0.09,5.58,6.17,40123,7.25,2081
+600,2013,Oct,Perdagangan Besar dan Eceran,0.03599143228,0,0.09,5.58,6.17,313269,7.25,11275
+601,2013,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.02241943017,0,0.09,5.58,6.17,17128,7.25,384
+602,2013,Oct,Transportasi pergudangan dan komunikasi,0.02995795375,0,0.09,5.58,6.17,22832,7.25,684
+603,2013,Oct,Perantara Keuangan,0.02419829362,0,0.09,5.58,6.17,13596,7.25,329
+604,2013,Oct,Real Estate Usaha Persewaan,0.0305896359,0,0.09,5.58,6.17,30239,7.25,925
+605,2013,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.007407407407,0,0.09,5.58,6.17,270,7.25,2
+606,2013,Oct,Jasa Pendidikan,0.020833333330000002,0,0.09,5.58,6.17,2016,7.25,42
+607,2013,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.01764137264,0,0.09,5.58,6.17,4138,7.25,73
+608,2013,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03392663979,0,0.09,5.58,6.17,30507,7.25,1035
+609,2013,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.02968863143,0,0.09,5.58,6.17,1381,7.25,41
+610,2013,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03238866397,0,0.09,5.58,6.17,247,7.25,8
+611,2013,Oct,Kegiatan yang belum jelas batasannya,0.002212389381,0,0.09,5.58,6.17,452,7.25,1
+612,2013,Nov,Pertanian Perburuan dan Kehutanan,0.03494917068,0,0.12,5.58,6.17,46725,7.5,1633
+613,2013,Nov,Perikanan,0.04947192885,0,0.12,5.58,6.17,3598,7.5,178
+614,2013,Nov,Pertambangan dan Penggalian,0.04257507199,0,0.12,5.58,6.17,4862,7.5,207
+615,2013,Nov,Industri Pengolahan,0.0313672417,0,0.12,5.58,6.17,58373,7.5,1831
+616,2013,Nov,Listrik gas dan air,0.014108352140000002,0,0.12,5.58,6.17,1772,7.5,25
+617,2013,Nov,Konstruksi,0.05183409136,0,0.12,5.58,6.17,40456,7.5,2097
+618,2013,Nov,Perdagangan Besar dan Eceran,0.03531225171,0,0.12,5.58,6.17,314650,7.5,11111
+619,2013,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.021147177530000002,0,0.12,5.58,6.17,17591,7.5,372
+620,2013,Nov,Transportasi pergudangan dan komunikasi,0.028262074260000006,0,0.12,5.58,6.17,23459,7.5,663
+621,2013,Nov,Perantara Keuangan,0.02442382954,0,0.12,5.58,6.17,13798,7.5,337
+622,2013,Nov,Real Estate Usaha Persewaan,0.032694069900000004,0,0.12,5.58,6.17,30556,7.5,999
+623,2013,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.007352941176,0,0.12,5.58,6.17,272,7.5,2
+624,2013,Nov,Jasa Pendidikan,0.02035749752,0,0.12,5.58,6.17,2014,7.5,41
+625,2013,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.016774502759999997,0,0.12,5.58,6.17,4173,7.5,70
+626,2013,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03278424293,0,0.12,5.58,6.17,31021,7.5,1017
+627,2013,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.02837370242,0,0.12,5.58,6.17,1445,7.5,41
+628,2013,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03333333333,0,0.12,5.58,6.17,240,7.5,8
+629,2013,Nov,Kegiatan yang belum jelas batasannya,0.005434782609,0,0.12,5.58,6.17,368,7.5,2
+630,2013,Dec,Pertanian Perburuan dan Kehutanan,0.03351109082,0,0.55,5.58,6.17,48193,7.5,1615
+631,2013,Dec,Perikanan,0.046128945240000004,0,0.55,5.58,6.17,3707,7.5,171
+632,2013,Dec,Pertambangan dan Penggalian,0.03871239217,0,0.55,5.58,6.17,4753,7.5,184
+633,2013,Dec,Industri Pengolahan,0.028891440739999996,0,0.55,5.58,6.17,60087,7.5,1736
+634,2013,Dec,Listrik gas dan air,0.012571428570000001,0,0.55,5.58,6.17,1750,7.5,22
+635,2013,Dec,Konstruksi,0.0480917999,0,0.55,5.58,6.17,38780,7.5,1865
+636,2013,Dec,Perdagangan Besar dan Eceran,0.03287665296,0,0.55,5.58,6.17,323056,7.5,10621
+637,2013,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.01968894772,0,0.55,5.58,6.17,18132,7.5,357
+638,2013,Dec,Transportasi pergudangan dan komunikasi,0.026853904900000003,0,0.55,5.58,6.17,24354,7.5,654
+639,2013,Dec,Perantara Keuangan,0.02699992838,0,0.55,5.58,6.17,13963,7.5,377
+640,2013,Dec,Real Estate Usaha Persewaan,0.02790447232,0,0.55,5.58,6.17,31572,7.5,881
+641,2013,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.014084507040000001,0,0.55,5.58,6.17,284,7.5,4
+642,2013,Dec,Jasa Pendidikan,0.01755965781,0,0.55,5.58,6.17,2221,7.5,39
+643,2013,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.01699315553,0,0.55,5.58,6.17,4237,7.5,72
+644,2013,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02781040668,0,0.55,5.58,6.17,31499,7.5,876
+645,2013,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.02201467645,0,0.55,5.58,6.17,1499,7.5,33
+646,2013,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.02666666667,0,0.55,5.58,6.17,225,7.5,6
+647,2013,Dec,Kegiatan yang belum jelas batasannya,0.001964636542,0,0.55,5.58,6.17,509,7.5,1
+648,2014,Jan,Pertanian Perburuan dan Kehutanan,0.038632924160000005,0,1.07,5.12,6.17,47576,7.5,1838
+649,2014,Jan,Perikanan,0.05270419426,0,1.07,5.12,6.17,3624,7.5,191
+650,2014,Jan,Pertambangan dan Penggalian,0.046385017419999994,0,1.07,5.12,6.17,4592,7.5,213
+651,2014,Jan,Industri Pengolahan,0.03191904124,0,1.07,5.12,6.17,58993,7.5,1883
+652,2014,Jan,Listrik gas dan air,0.01457725948,0,1.07,5.12,6.17,1715,7.5,25
+653,2014,Jan,Konstruksi,0.006101907559,0,1.07,5.12,6.17,35071,7.5,214
+654,2014,Jan,Perdagangan Besar dan Eceran,0.0372548647,0,1.07,5.12,6.17,315744,7.5,11763
+655,2014,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.02316795378,0,1.07,5.12,6.17,17999,7.5,417
+656,2014,Jan,Transportasi pergudangan dan komunikasi,0.03196555008,0,1.07,5.12,6.17,24151,7.5,772
+657,2014,Jan,Perantara Keuangan,0.029027159069999996,0,1.07,5.12,6.17,13918,7.5,404
+658,2014,Jan,Real Estate Usaha Persewaan,0.03163032658,0,1.07,5.12,6.17,31141,7.5,985
+659,2014,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01915708812,0,1.07,5.12,6.17,261,7.5,5
+660,2014,Jan,Jasa Pendidikan,0.01844532279,0,1.07,5.12,6.17,2277,7.5,42
+661,2014,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.01656020819,0,1.07,5.12,6.17,4227,7.5,70
+662,2014,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02978682604,0,1.07,5.12,6.17,31289,7.5,932
+663,2014,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.024918032790000003,0,1.07,5.12,6.17,1525,7.5,38
+664,2014,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.027649769589999998,0,1.07,5.12,6.17,217,7.5,6
+665,2014,Jan,Kegiatan yang belum jelas batasannya,0.004938271605,0,1.07,5.12,6.17,405,7.5,2
+666,2014,Feb,Pertanian Perburuan dan Kehutanan,0.042098525830000004,0,0.26,5.12,5.7,48434,7.5,2039
+667,2014,Feb,Perikanan,0.05510092744,0,0.26,5.12,5.7,3666,7.5,202
+668,2014,Feb,Pertambangan dan Penggalian,0.04841875682,0,0.26,5.12,5.7,4585,7.5,222
+669,2014,Feb,Industri Pengolahan,0.03182037904,0,0.26,5.12,5.7,59993,7.5,1909
+670,2014,Feb,Listrik gas dan air,0.014392630969999999,0,0.26,5.12,5.7,1737,7.5,25
+671,2014,Feb,Konstruksi,0.06343854480000001,0,0.26,5.12,5.7,35294,7.5,2239
+672,2014,Feb,Perdagangan Besar dan Eceran,0.03801809941,0,0.26,5.12,5.7,321005,7.5,12204
+673,2014,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.02294095525,0,0.26,5.12,5.7,18613,7.5,427
+674,2014,Feb,Transportasi pergudangan dan komunikasi,0.03285496937,0,0.26,5.12,5.7,24319,7.5,799
+675,2014,Feb,Perantara Keuangan,0.02911288108,0,0.26,5.12,5.7,14564,7.5,424
+676,2014,Feb,Real Estate Usaha Persewaan,0.030718560980000004,0,0.26,5.12,5.7,31577,7.5,970
+677,2014,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01976284585,0,0.26,5.12,5.7,253,7.5,5
+678,2014,Feb,Jasa Pendidikan,0.01656495205,0,0.26,5.12,5.7,2294,7.5,38
+679,2014,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.01805973605,0,0.26,5.12,5.7,4319,7.5,78
+680,2014,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.0303030303,0,0.26,5.12,5.7,31977,7.5,969
+681,2014,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.028177833439999994,0,0.26,5.12,5.7,1597,7.5,45
+682,2014,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0297029703,0,0.26,5.12,5.7,202,7.5,6
+683,2014,Feb,Kegiatan yang belum jelas batasannya,0.005361930294999999,0,0.26,5.12,5.7,373,7.5,2
+684,2014,Mar,Pertanian Perburuan dan Kehutanan,0.04155775738,0,0.08,5.12,5.7,49353,7.5,2051
+685,2014,Mar,Perikanan,0.05265971665,0,0.08,5.12,5.7,3741,7.5,197
+686,2014,Mar,Pertambangan dan Penggalian,0.07588666535000001,0,0.08,5.12,5.7,5047,7.5,383
+687,2014,Mar,Industri Pengolahan,0.029102466230000002,0,0.08,5.12,5.7,64187,7.5,1868
+688,2014,Mar,Listrik gas dan air,0.014423076919999998,0,0.08,5.12,5.7,1664,7.5,24
+689,2014,Mar,Konstruksi,0.0602797819,0,0.08,5.12,5.7,36314,7.5,2189
+690,2014,Mar,Perdagangan Besar dan Eceran,0.03686113018,0,0.08,5.12,5.7,327825,7.5,12084
+691,2014,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.025241035640000003,0,0.08,5.12,5.7,18462,7.5,466
+692,2014,Mar,Transportasi pergudangan dan komunikasi,0.032684027069999996,0,0.08,5.12,5.7,24385,7.5,797
+693,2014,Mar,Perantara Keuangan,0.026786916140000002,0,0.08,5.12,5.7,14858,7.5,398
+694,2014,Mar,Real Estate Usaha Persewaan,0.03234884898,0,0.08,5.12,5.7,31624,7.5,1023
+695,2014,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.027667984189999998,0,0.08,5.12,5.7,253,7.5,7
+696,2014,Mar,Jasa Pendidikan,0.015306122450000001,0,0.08,5.12,5.7,2352,7.5,36
+697,2014,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.018872214640000003,0,0.08,5.12,5.7,4398,7.5,83
+698,2014,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03006623729,0,0.08,5.12,5.7,32761,7.5,985
+699,2014,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.02562538133,0,0.08,5.12,5.7,1639,7.5,42
+700,2014,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.030927835049999998,0,0.08,5.12,5.7,194,7.5,6
+701,2014,Mar,Kegiatan yang belum jelas batasannya,0.002915451895,0,0.08,5.12,5.7,343,7.5,1
+702,2014,Apr,Pertanian Perburuan dan Kehutanan,0.03986145473,0,-0.02,4.94,5.7,50525,7.5,2014
+703,2014,Apr,Perikanan,0.05429981812999999,0,-0.02,4.94,5.7,3849,7.5,209
+704,2014,Apr,Pertambangan dan Penggalian,0.05554408425,0,-0.02,4.94,5.7,4843,7.5,269
+705,2014,Apr,Industri Pengolahan,0.030249384239999996,0,-0.02,4.94,5.7,64960,7.5,1965
+706,2014,Apr,Listrik gas dan air,0.017579445569999998,0,-0.02,4.94,5.7,1479,7.5,26
+707,2014,Apr,Konstruksi,0.06682857829,0,-0.02,4.94,5.7,37469,7.5,2504
+708,2014,Apr,Perdagangan Besar dan Eceran,0.0376089499,0,-0.02,4.94,5.7,332607,7.5,12509
+709,2014,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.02616123865,0,-0.02,4.94,5.7,18730,7.5,490
+710,2014,Apr,Transportasi pergudangan dan komunikasi,0.03236742271,0,-0.02,4.94,5.7,24778,7.5,802
+711,2014,Apr,Perantara Keuangan,0.027830832200000002,0,-0.02,4.94,5.7,14660,7.5,408
+712,2014,Apr,Real Estate Usaha Persewaan,0.03356348293,0,-0.02,4.94,5.7,31284,7.5,1050
+713,2014,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.024590163930000002,0,-0.02,4.94,5.7,244,7.5,6
+714,2014,Apr,Jasa Pendidikan,0.015552753259999998,0,-0.02,4.94,5.7,2379,7.5,37
+715,2014,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.02157953281,0,-0.02,4.94,5.7,4495,7.5,97
+716,2014,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03166218948999999,0,-0.02,4.94,5.7,33131,7.5,1049
+717,2014,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.024590163930000002,0,-0.02,4.94,5.7,1708,7.5,42
+718,2014,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.026881720430000002,0,-0.02,4.94,5.7,186,7.5,5
+719,2014,Apr,Kegiatan yang belum jelas batasannya,0.035897435899999997,0,-0.02,4.94,5.7,195,7.5,7
+720,2014,May,Pertanian Perburuan dan Kehutanan,0.04126047629,0,0.16,4.94,5.7,51187,7.5,2112
+721,2014,May,Perikanan,0.054914036439999994,0,0.16,4.94,5.7,3897,7.5,214
+722,2014,May,Pertambangan dan Penggalian,0.05744176865,0,0.16,4.94,5.7,5066,7.5,291
+723,2014,May,Industri Pengolahan,0.03202992488,0,0.16,4.94,5.7,66032,7.5,2115
+724,2014,May,Listrik gas dan air,0.016219588269999998,0,0.16,4.94,5.7,1603,7.5,26
+725,2014,May,Konstruksi,0.007197048431000001,0,0.16,4.94,5.7,38488,7.5,277
+726,2014,May,Perdagangan Besar dan Eceran,0.03989335587,0,0.16,4.94,5.7,336071,7.5,13407
+727,2014,May,Penyediaan akomodasi dan penyediaan makan minum,0.02750758289,0,0.16,4.94,5.7,19122,7.5,526
+728,2014,May,Transportasi pergudangan dan komunikasi,0.035536059239999994,0,0.16,4.94,5.7,24848,7.5,883
+729,2014,May,Perantara Keuangan,0.029591906960000004,0,0.16,4.94,5.7,14531,7.5,430
+730,2014,May,Real Estate Usaha Persewaan,0.03442477315,0,0.16,4.94,5.7,31518,7.5,1085
+731,2014,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01612903226,0,0.16,4.94,5.7,248,7.5,4
+732,2014,May,Jasa Pendidikan,0.015107007969999997,0,0.16,4.94,5.7,2383,7.5,36
+733,2014,May,Jasa Kesehatan dan Kegiatan Sosial,0.027364792069999998,0,0.16,4.94,5.7,4641,7.5,127
+734,2014,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.034631263179999996,0,0.16,4.94,5.7,33669,7.5,1166
+735,2014,May,Jasa Perorangan yang Melayani Rumah Tangga,0.02873239437,0,0.16,4.94,5.7,1775,7.5,51
+736,2014,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03296703297,0,0.16,4.94,5.7,182,7.5,6
+737,2014,May,Kegiatan yang belum jelas batasannya,0.01807228916,0,0.16,4.94,5.7,166,7.5,3
+738,2014,Jun,Pertanian Perburuan dan Kehutanan,0.004058270641000001,0,0.43,4.94,5.7,52239,7.5,212
+739,2014,Jun,Perikanan,0.04862685815000001,0,0.43,4.94,5.7,3969,7.5,193
+740,2014,Jun,Pertambangan dan Penggalian,0.04880016132,0,0.43,4.94,5.7,4959,7.5,242
+741,2014,Jun,Industri Pengolahan,0.03334218132,0,0.43,4.94,5.7,67812,7.5,2261
+742,2014,Jun,Listrik gas dan air,0.01662404092,0,0.43,4.94,5.7,1564,7.5,26
+743,2014,Jun,Konstruksi,0.06771472201,0,0.43,4.94,5.7,39947,7.5,2705
+744,2014,Jun,Perdagangan Besar dan Eceran,0.039012627960000004,0,0.43,4.94,5.7,344632,7.5,13445
+745,2014,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.02736305732,0,0.43,4.94,5.7,19625,7.5,537
+746,2014,Jun,Transportasi pergudangan dan komunikasi,0.03633985892,0,0.43,4.94,5.7,25234,7.5,917
+747,2014,Jun,Perantara Keuangan,0.02413886629,0,0.43,4.94,5.7,14748,7.5,356
+748,2014,Jun,Real Estate Usaha Persewaan,0.03189051954,0,0.43,4.94,5.7,32298,7.5,1030
+749,2014,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01593625498,0,0.43,4.94,5.7,251,7.5,4
+750,2014,Jun,Jasa Pendidikan,0.02118126273,0,0.43,4.94,5.7,2455,7.5,52
+751,2014,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.02760671055,0,0.43,4.94,5.7,4709,7.5,130
+752,2014,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.033967823,0,0.43,4.94,5.7,34621,7.5,1176
+753,2014,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.026486486490000002,0,0.43,4.94,5.7,1850,7.5,49
+754,2014,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.04046242775,0,0.43,4.94,5.7,173,7.5,7
+755,2014,Jun,Kegiatan yang belum jelas batasannya,0.01030927835,0,0.43,4.94,5.7,194,7.5,2
+756,2014,Jul,Pertanian Perburuan dan Kehutanan,0.04145156105,0,0.93,4.93,5.7,52881,7.5,2192
+757,2014,Jul,Perikanan,0.057445200300000006,0,0.93,4.93,5.7,3969,7.5,228
+758,2014,Jul,Pertambangan dan Penggalian,0.05724040972,0,0.93,4.93,5.7,4979,7.5,285
+759,2014,Jul,Industri Pengolahan,0.03595174701000001,0,0.93,4.93,5.7,67229,7.5,2417
+760,2014,Jul,Listrik gas dan air,0.018099547509999998,0,0.93,4.93,5.7,1547,7.5,28
+761,2014,Jul,Konstruksi,0.07175344849,0,0.93,4.93,5.7,40235,7.5,2887
+762,2014,Jul,Perdagangan Besar dan Eceran,0.04089603777,0,0.93,4.93,5.7,342307,7.5,13999
+763,2014,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.027801432650000003,0,0.93,4.93,5.7,19963,7.5,555
+764,2014,Jul,Transportasi pergudangan dan komunikasi,0.03766594628,0,0.93,4.93,5.7,25912,7.5,976
+765,2014,Jul,Perantara Keuangan,0.02384630886,0,0.93,4.93,5.7,14887,7.5,355
+766,2014,Jul,Real Estate Usaha Persewaan,0.033923987999999995,0,0.93,4.93,5.7,32337,7.5,1097
+767,2014,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01587301587,0,0.93,4.93,5.7,252,7.5,4
+768,2014,Jul,Jasa Pendidikan,0.022679546409999998,0,0.93,4.93,5.7,2381,7.5,54
+769,2014,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.03063596028,0,0.93,4.93,5.7,4733,7.5,145
+770,2014,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03501757968,0,0.93,4.93,5.7,35268,7.5,1235
+771,2014,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.03315789474,0,0.93,4.93,5.7,1900,7.5,63
+772,2014,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.04191616766,0,0.93,4.93,5.7,167,7.5,7
+773,2014,Jul,Kegiatan yang belum jelas batasannya,0.008547008547000001,0,0.93,4.93,5.7,234,7.5,2
+774,2014,Aug,Pertanian Perburuan dan Kehutanan,0.044146494749999994,0,0.47,4.93,5.94,52507,7.5,2318
+775,2014,Aug,Perikanan,0.05523033851,0,0.47,4.93,5.94,3929,7.5,217
+776,2014,Aug,Pertambangan dan Penggalian,0.05284552846,0,0.47,4.93,5.94,5166,7.5,273
+777,2014,Aug,Industri Pengolahan,0.04179803483,0,0.47,4.93,5.94,65338,7.5,2731
+778,2014,Aug,Listrik gas dan air,0.01773700306,0,0.47,4.93,5.94,1635,7.5,29
+779,2014,Aug,Konstruksi,0.07055961071,0,0.47,4.93,5.94,411,7.5,29
+780,2014,Aug,Perdagangan Besar dan Eceran,0.04186504968,0,0.47,4.93,5.94,340881,7.5,14271
+781,2014,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.028023377789999995,0,0.47,4.93,5.94,20019,7.5,561
+782,2014,Aug,Transportasi pergudangan dan komunikasi,0.04012878907,0,0.47,4.93,5.94,25468,7.5,1022
+783,2014,Aug,Perantara Keuangan,0.02585684466,0,0.47,4.93,5.94,14851,7.5,384
+784,2014,Aug,Real Estate Usaha Persewaan,0.036909236549999995,0,0.47,4.93,5.94,32458,7.5,1198
+785,2014,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01619433198,0,0.47,4.93,5.94,247,7.5,4
+786,2014,Aug,Jasa Pendidikan,0.02245322245,0,0.47,4.93,5.94,2405,7.5,54
+787,2014,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.034009156310000004,0,0.47,4.93,5.94,4587,7.5,156
+788,2014,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03551044508,0,0.47,4.93,5.94,35567,7.5,1263
+789,2014,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.0318537859,0,0.47,4.93,5.94,1915,7.5,61
+790,2014,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03773584906000001,0,0.47,4.93,5.94,159,7.5,6
+791,2014,Aug,Kegiatan yang belum jelas batasannya,0.007389162562,0,0.47,4.93,5.94,406,7.5,3
+792,2014,Sep,Pertanian Perburuan dan Kehutanan,0.04248236206,0,0.27,4.93,5.94,52869,7.5,2246
+793,2014,Sep,Perikanan,0.047040971169999994,0,0.27,4.93,5.94,3954,7.5,186
+794,2014,Sep,Pertambangan dan Penggalian,0.07036294812,0,0.27,4.93,5.94,4491,7.5,316
+795,2014,Sep,Industri Pengolahan,0.040198897680000005,0,0.27,4.93,5.94,66768,7.5,2684
+796,2014,Sep,Listrik gas dan air,0.017758726269999997,0,0.27,4.93,5.94,1633,7.5,29
+797,2014,Sep,Konstruksi,0.06880831462999999,0,0.27,4.93,5.94,42335,7.5,2913
+798,2014,Sep,Perdagangan Besar dan Eceran,0.04051524763,0,0.27,4.93,5.94,344611,7.5,13962
+799,2014,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.2906234659,0,0.27,4.93,5.94,2037,7.5,592
+800,2014,Sep,Transportasi pergudangan dan komunikasi,0.04212075411999999,0,0.27,4.93,5.94,25142,7.5,1059
+801,2014,Sep,Perantara Keuangan,0.02434723635,0,0.27,4.93,5.94,14745,7.5,359
+802,2014,Sep,Real Estate Usaha Persewaan,0.03848650654,0,0.27,4.93,5.94,32349,7.5,1245
+803,2014,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01646090535,0,0.27,4.93,5.94,243,7.5,4
+804,2014,Sep,Jasa Pendidikan,0.020491803280000002,0,0.27,4.93,5.94,2440,7.5,50
+805,2014,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.02767406106,0,0.27,4.93,5.94,4553,7.5,126
+806,2014,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.034001097689999996,0,0.27,4.93,5.94,36440,7.5,1239
+807,2014,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.03110657828,0,0.27,4.93,5.94,1961,7.5,61
+808,2014,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.03921568627,0,0.27,4.93,5.94,153,7.5,6
+809,2014,Sep,Kegiatan yang belum jelas batasannya,0.005253940455,0,0.27,4.93,5.94,571,7.5,3
+810,2014,Oct,Pertanian Perburuan dan Kehutanan,0.04121621622,0,0.47,5.05,5.94,53280,7.5,2196
+811,2014,Oct,Perikanan,0.05074101984,0,0.47,5.05,5.94,3981,7.5,202
+812,2014,Oct,Pertambangan dan Penggalian,0.05969836615,0,0.47,5.05,5.94,4774,7.5,285
+813,2014,Oct,Industri Pengolahan,0.03336392841,0,0.47,5.05,5.94,65370,7.5,2181
+814,2014,Oct,Listrik gas dan air,0.0170212766,0,0.47,5.05,5.94,1645,7.5,28
+815,2014,Oct,Konstruksi,0.07119474341,0,0.47,5.05,5.94,42461,7.5,3023
+816,2014,Oct,Perdagangan Besar dan Eceran,0.0402191819,0,0.47,5.05,5.94,344189,7.5,13843
+817,2014,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.028883460269999998,0,0.47,5.05,5.94,20877,7.5,603
+818,2014,Oct,Transportasi pergudangan dan komunikasi,0.040807156569999996,0,0.47,5.05,5.94,24481,7.5,999
+819,2014,Oct,Perantara Keuangan,0.02459635864,0,0.47,5.05,5.94,14555,7.5,358
+820,2014,Oct,Real Estate Usaha Persewaan,0.038141300360000005,0,0.47,5.05,5.94,32668,7.5,1246
+821,2014,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.017316017319999998,0,0.47,5.05,5.94,231,7.5,4
+822,2014,Oct,Jasa Pendidikan,0.023819301850000002,0,0.47,5.05,5.94,2435,7.5,58
+823,2014,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.027850877189999994,0,0.47,5.05,5.94,4560,7.5,127
+824,2014,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.034758102400000004,0,0.47,5.05,5.94,36193,7.5,1258
+825,2014,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.029470529469999996,0,0.47,5.05,5.94,2002,7.5,59
+826,2014,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.040540540539999996,0,0.47,5.05,5.94,148,7.5,6
+827,2014,Oct,Kegiatan yang belum jelas batasannya,0.0059790732440000004,0,0.47,5.05,5.94,669,7.5,4
+828,2014,Nov,Pertanian Perburuan dan Kehutanan,0.041477051099999995,0,1.5,5.05,5.94,53837,7.75,2233
+829,2014,Nov,Perikanan,0.04293869447,0,1.5,5.05,5.94,4029,7.75,173
+830,2014,Nov,Pertambangan dan Penggalian,0.06603773585,0,1.5,5.05,5.94,4558,7.75,301
+831,2014,Nov,Industri Pengolahan,0.0341520217,0,1.5,5.05,5.94,65267,7.75,2229
+832,2014,Nov,Listrik gas dan air,0.01514269074,0,1.5,5.05,5.94,1717,7.75,26
+833,2014,Nov,Konstruksi,0.07906385382999999,0,1.5,5.05,5.94,42472,7.75,3358
+834,2014,Nov,Perdagangan Besar dan Eceran,0.03970879832,0,1.5,5.05,5.94,348487,7.75,13838
+835,2014,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.028311965810000003,0,1.5,5.05,5.94,20592,7.75,583
+836,2014,Nov,Transportasi pergudangan dan komunikasi,0.043777386460000005,0,1.5,5.05,5.94,24419,7.75,1069
+837,2014,Nov,Perantara Keuangan,0.02430886559,0,1.5,5.05,5.94,14686,7.75,357
+838,2014,Nov,Real Estate Usaha Persewaan,0.03810651606,0,1.5,5.05,5.94,32934,7.75,1255
+839,2014,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.017621145369999997,0,1.5,5.05,5.94,227,7.75,4
+840,2014,Nov,Jasa Pendidikan,0.019934906430000003,0,1.5,5.05,5.94,2458,7.75,49
+841,2014,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.03147908581,0,1.5,5.05,5.94,4638,7.75,146
+842,2014,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03086634392,0,1.5,5.05,5.94,37387,7.75,1154
+843,2014,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.02768334143,0,1.5,5.05,5.94,2059,7.75,57
+844,2014,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.041958041960000005,0,1.5,5.05,5.94,143,7.75,6
+845,2014,Nov,Kegiatan yang belum jelas batasannya,0.005319148936,0,1.5,5.05,5.94,940,7.75,5
+846,2014,Dec,Pertanian Perburuan dan Kehutanan,0.03937181228,0,2.46,5.05,5.94,54506,7.75,2146
+847,2014,Dec,Perikanan,0.03780399711,0,2.46,5.05,5.94,4153,7.75,157
+848,2014,Dec,Pertambangan dan Penggalian,0.05416754147000001,0,2.46,5.05,5.94,4763,7.75,258
+849,2014,Dec,Industri Pengolahan,0.003167648539,0,2.46,5.05,5.94,67558,7.75,214
+850,2014,Dec,Listrik gas dan air,0.01188843164,0,2.46,5.05,5.94,2187,7.75,26
+851,2014,Dec,Konstruksi,0.007361993401,0,2.46,5.05,5.94,40614,7.75,299
+852,2014,Dec,Perdagangan Besar dan Eceran,0.0366105665,0,2.46,5.05,5.94,355198,7.75,13004
+853,2014,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.026012107450000002,0,2.46,5.05,5.94,21144,7.75,550
+854,2014,Dec,Transportasi pergudangan dan komunikasi,0.0390948171,0,2.46,5.05,5.94,24658,7.75,964
+855,2014,Dec,Perantara Keuangan,0.030662642339999997,0,2.46,5.05,5.94,14578,7.75,447
+856,2014,Dec,Real Estate Usaha Persewaan,0.03553284323000001,0,2.46,5.05,5.94,33462,7.75,1189
+857,2014,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.018099547509999998,0,2.46,5.05,5.94,221,7.75,4
+858,2014,Dec,Jasa Pendidikan,0.020425901780000002,0,2.46,5.05,5.94,2301,7.75,47
+859,2014,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.02540079117,0,2.46,5.05,5.94,4803,7.75,122
+860,2014,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.027673286860000004,0,2.46,5.05,5.94,38015,7.75,1052
+861,2014,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.024880382779999998,0,2.46,5.05,5.94,2090,7.75,52
+862,2014,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.04285714286,0,2.46,5.05,5.94,140,7.75,6
+863,2014,Dec,Kegiatan yang belum jelas batasannya,0.03759398496,0,2.46,5.05,5.94,133,7.75,5
+864,2015,Jan,Pertanian Perburuan dan Kehutanan,0.042320971150000004,0,-0.24,4.83,5.94,53874,7.75,2280
+865,2015,Jan,Perikanan,0.04010826772,0,-0.24,4.83,5.94,4064,7.75,163
+866,2015,Jan,Pertambangan dan Penggalian,0.052188552189999994,0,-0.24,4.83,5.94,4752,7.75,248
+867,2015,Jan,Industri Pengolahan,0.03399283566,0,-0.24,4.83,5.94,66161,7.75,2249
+868,2015,Jan,Listrik gas dan air,0.01653868872,0,-0.24,4.83,5.94,1693,7.75,28
+869,2015,Jan,Konstruksi,0.08656362116,0,-0.24,4.83,5.94,37071,7.75,3209
+870,2015,Jan,Perdagangan Besar dan Eceran,0.04086198502,0,-0.24,4.83,5.94,345064,7.75,14100
+871,2015,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.02773983893,0,-0.24,4.83,5.94,21233,7.75,589
+872,2015,Jan,Transportasi pergudangan dan komunikasi,0.042941736720000005,0,-0.24,4.83,5.94,24149,7.75,1037
+873,2015,Jan,Perantara Keuangan,0.03385782523,0,-0.24,4.83,5.94,14236,7.75,482
+874,2015,Jan,Real Estate Usaha Persewaan,0.04006798653,0,-0.24,4.83,5.94,31771,7.75,1273
+875,2015,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01960784314,0,-0.24,4.83,5.94,204,7.75,4
+876,2015,Jan,Jasa Pendidikan,0.02188183807,0,-0.24,4.83,5.94,2285,7.75,50
+877,2015,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.02425876011,0,-0.24,4.83,5.94,4823,7.75,117
+878,2015,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.030184343829999998,0,-0.24,4.83,5.94,38298,7.75,1156
+879,2015,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.02612826603,0,-0.24,4.83,5.94,2105,7.75,55
+880,2015,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.04255319149,0,-0.24,4.83,5.94,141,7.75,6
+881,2015,Jan,Kegiatan yang belum jelas batasannya,0.0044411547,0,-0.24,4.83,5.94,1351,7.75,6
+882,2015,Feb,Pertanian Perburuan dan Kehutanan,0.04565864114,0,-0.36,4.83,5.81,54119,7.5,2471
+883,2015,Feb,Perikanan,0.045851528380000006,0,-0.36,4.83,5.81,4122,7.5,189
+884,2015,Feb,Pertambangan dan Penggalian,0.05531204341,0,-0.36,4.83,5.81,4791,7.5,265
+885,2015,Feb,Industri Pengolahan,0.034278490689999996,0,-0.36,4.83,5.81,68031,7.5,2332
+886,2015,Feb,Listrik gas dan air,0.01522566612,0,-0.36,4.83,5.81,1839,7.5,28
+887,2015,Feb,Konstruksi,0.09936348933,0,-0.36,4.83,5.81,38334,7.5,3809
+888,2015,Feb,Perdagangan Besar dan Eceran,0.04344039943,0,-0.36,4.83,5.81,349099,7.5,15165
+889,2015,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.029054459789999997,0,-0.36,4.83,5.81,21649,7.5,629
+890,2015,Feb,Transportasi pergudangan dan komunikasi,0.04512205145,0,-0.36,4.83,5.81,24334,7.5,1098
+891,2015,Feb,Perantara Keuangan,0.031832460730000005,0,-0.36,4.83,5.81,14325,7.5,456
+892,2015,Feb,Real Estate Usaha Persewaan,0.042279696449999994,0,-0.36,4.83,5.81,32285,7.5,1365
+893,2015,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03465346535,0,-0.36,4.83,5.81,202,7.5,7
+894,2015,Feb,Jasa Pendidikan,0.025106382979999998,0,-0.36,4.83,5.81,2350,7.5,59
+895,2015,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.02646936223,0,-0.36,4.83,5.81,4798,7.5,127
+896,2015,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.031434083599999996,0,-0.36,4.83,5.81,38875,7.5,1222
+897,2015,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.030927835049999998,0,-0.36,4.83,5.81,2134,7.5,66
+898,2015,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.04316546763,0,-0.36,4.83,5.81,139,7.5,6
+899,2015,Feb,Kegiatan yang belum jelas batasannya,0.006482982171999999,0,-0.36,4.83,5.81,1234,7.5,8
+900,2015,Mar,Pertanian Perburuan dan Kehutanan,0.04602822433999999,0,0.17,4.83,5.81,54988,7.5,2531
+901,2015,Mar,Perikanan,0.048318332539999995,0,0.17,4.83,5.81,4222,7.5,204
+902,2015,Mar,Pertambangan dan Penggalian,0.05583126551,0,0.17,4.83,5.81,4836,7.5,270
+903,2015,Mar,Industri Pengolahan,0.0326625387,0,0.17,4.83,5.81,71060,7.5,2321
+904,2015,Mar,Listrik gas dan air,0.015215110180000001,0,0.17,4.83,5.81,1906,7.5,29
+905,2015,Mar,Konstruksi,0.08796777218,0,0.17,4.83,5.81,39469,7.5,3472
+906,2015,Mar,Perdagangan Besar dan Eceran,0.04130003898,0,0.17,4.83,5.81,361743,7.5,14940
+907,2015,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.027003953989999996,0,0.17,4.83,5.81,22256,7.5,601
+908,2015,Mar,Transportasi pergudangan dan komunikasi,0.04404072669,0,0.17,4.83,5.81,25045,7.5,1103
+909,2015,Mar,Perantara Keuangan,0.028992526989999996,0,0.17,4.83,5.81,14452,7.5,419
+910,2015,Mar,Real Estate Usaha Persewaan,0.04044008326,0,0.17,4.83,5.81,33630,7.5,1360
+911,2015,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03608247423,0,0.17,4.83,5.81,194,7.5,7
+912,2015,Mar,Jasa Pendidikan,0.02518139138,0,0.17,4.83,5.81,2343,7.5,59
+913,2015,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.02745901639,0,0.17,4.83,5.81,4880,7.5,134
+914,2015,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.030602023439999997,0,0.17,4.83,5.81,39932,7.5,1222
+915,2015,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.02970749543,0,0.17,4.83,5.81,2188,7.5,65
+916,2015,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.09090909091,0,0.17,4.83,5.81,22,7.5,2
+917,2015,Mar,Kegiatan yang belum jelas batasannya,0.006818181818000001,0,0.17,4.83,5.81,1320,7.5,9
+918,2015,Apr,Pertanian Perburuan dan Kehutanan,0.04744702647,0,0.36,4.74,5.81,55641,7.5,2640
+919,2015,Apr,Perikanan,0.05274411974,0,0.36,4.74,5.81,4209,7.5,222
+920,2015,Apr,Pertambangan dan Penggalian,0.062406176279999996,0,0.36,4.74,5.81,4663,7.5,291
+921,2015,Apr,Industri Pengolahan,0.033641586099999995,0,0.36,4.74,5.81,71370,7.5,2401
+922,2015,Apr,Listrik gas dan air,0.01672962763,0,0.36,4.74,5.81,1853,7.5,31
+923,2015,Apr,Konstruksi,0.09099072134,0,0.36,4.74,5.81,40092,7.5,3648
+924,2015,Apr,Perdagangan Besar dan Eceran,0.04342388355000001,0,0.36,4.74,5.81,363003,7.5,15763
+925,2015,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.02979320014,0,0.36,4.74,5.81,22824,7.5,680
+926,2015,Apr,Transportasi pergudangan dan komunikasi,0.0480804462,0,0.36,4.74,5.81,24563,7.5,1181
+927,2015,Apr,Perantara Keuangan,0.02634688912,0,0.36,4.74,5.81,14385,7.5,379
+928,2015,Apr,Real Estate Usaha Persewaan,0.04524726088000001,0,0.36,4.74,5.81,33770,7.5,1528
+929,2015,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.043010752689999994,0,0.36,4.74,5.81,186,7.5,8
+930,2015,Apr,Jasa Pendidikan,0.0243804956,0,0.36,4.74,5.81,2502,7.5,61
+931,2015,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.028163265310000005,0,0.36,4.74,5.81,4900,7.5,138
+932,2015,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03162172146,0,0.36,4.74,5.81,40605,7.5,1284
+933,2015,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.02811078958,0,0.36,4.74,5.81,2419,7.5,68
+934,2015,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.08823529412,0,0.36,4.74,5.81,34,7.5,3
+935,2015,Apr,Kegiatan yang belum jelas batasannya,0.00859375,0,0.36,4.74,5.81,1280,7.5,11
+936,2015,May,Pertanian Perburuan dan Kehutanan,0.047993034389999994,0,0.5,4.74,5.81,57425,7.5,2756
+937,2015,May,Perikanan,0.05615292712,0,0.5,4.74,5.81,4185,7.5,235
+938,2015,May,Pertambangan dan Penggalian,0.07216282895,0,0.5,4.74,5.81,4864,7.5,351
+939,2015,May,Industri Pengolahan,0.035468693450000005,0,0.5,4.74,5.81,71838,7.5,2548
+940,2015,May,Listrik gas dan air,0.01726764855,0,0.5,4.74,5.81,1969,7.5,34
+941,2015,May,Konstruksi,0.09070812583999999,0,0.5,4.74,5.81,41165,7.5,3734
+942,2015,May,Perdagangan Besar dan Eceran,0.045452055539999994,0,0.5,4.74,5.81,365110,7.5,16595
+943,2015,May,Penyediaan akomodasi dan penyediaan makan minum,0.03045706963,0,0.5,4.74,5.81,23410,7.5,713
+944,2015,May,Transportasi pergudangan dan komunikasi,0.05190085344,0,0.5,4.74,5.81,24489,7.5,1271
+945,2015,May,Perantara Keuangan,0.02837273992,0,0.5,4.74,5.81,14380,7.5,408
+946,2015,May,Real Estate Usaha Persewaan,0.04750440399,0,0.5,4.74,5.81,34060,7.5,1618
+947,2015,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.04081632653,0,0.5,4.74,5.81,196,7.5,8
+948,2015,May,Jasa Pendidikan,0.023754789269999996,0,0.5,4.74,5.81,2610,7.5,62
+949,2015,May,Jasa Kesehatan dan Kegiatan Sosial,0.02641435048,0,0.5,4.74,5.81,5073,7.5,134
+950,2015,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03384891824,0,0.5,4.74,5.81,41183,7.5,1394
+951,2015,May,Jasa Perorangan yang Melayani Rumah Tangga,0.02682926829,0,0.5,4.74,5.81,2460,7.5,66
+952,2015,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.08823529412,0,0.5,4.74,5.81,34,7.5,3
+953,2015,May,Kegiatan yang belum jelas batasannya,0.041493775930000004,0,0.5,4.74,5.81,241,7.5,10
+954,2015,Jun,Pertanian Perburuan dan Kehutanan,0.04362201181,0,0.54,4.74,5.81,57769,7.5,2520
+955,2015,Jun,Perikanan,0.05467455621,0,0.54,4.74,5.81,4225,7.5,231
+956,2015,Jun,Pertambangan dan Penggalian,0.0784122018,0,0.54,4.74,5.81,5114,7.5,401
+957,2015,Jun,Industri Pengolahan,0.035487737539999994,0,0.54,4.74,5.81,74251,7.5,2635
+958,2015,Jun,Listrik gas dan air,0.0158405723,0,0.54,4.74,5.81,1957,7.5,31
+959,2015,Jun,Konstruksi,0.08749304138,0,0.54,4.74,5.81,43112,7.5,3772
+960,2015,Jun,Perdagangan Besar dan Eceran,0.043686240710000004,0,0.54,4.74,5.81,373573,7.5,16320
+961,2015,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.030154986519999996,0,0.54,4.74,5.81,23744,7.5,716
+962,2015,Jun,Transportasi pergudangan dan komunikasi,0.05284652454,0,0.54,4.74,5.81,24486,7.5,1294
+963,2015,Jun,Perantara Keuangan,0.026323024049999998,0,0.54,4.74,5.81,14550,7.5,383
+964,2015,Jun,Real Estate Usaha Persewaan,0.044001023279999996,0,0.54,4.74,5.81,35181,7.5,1548
+965,2015,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.053398058250000005,0,0.54,4.74,5.81,206,7.5,11
+966,2015,Jun,Jasa Pendidikan,0.02313624679,0,0.54,4.74,5.81,2723,7.5,63
+967,2015,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.028095330360000004,0,0.54,4.74,5.81,5161,7.5,145
+968,2015,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03236215242,0,0.54,4.74,5.81,42148,7.5,1364
+969,2015,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.02614641995,0,0.54,4.74,5.81,2486,7.5,65
+970,2015,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.09677419355,0,0.54,4.74,5.81,31,7.5,3
+971,2015,Jun,Kegiatan yang belum jelas batasannya,0.04117647059,0,0.54,4.74,5.81,170,7.5,7
+972,2015,Jul,Pertanian Perburuan dan Kehutanan,0.04548120041,0,0.93,4.78,5.81,57980,7.5,2637
+973,2015,Jul,Perikanan,0.051802339460000006,0,0.93,4.78,5.81,4189,7.5,217
+974,2015,Jul,Pertambangan dan Penggalian,0.08256302521,0,0.93,4.78,5.81,4760,7.5,393
+975,2015,Jul,Industri Pengolahan,0.03779449161,0,0.93,4.78,5.81,74323,7.5,2809
+976,2015,Jul,Listrik gas dan air,0.039598997489999996,0,0.93,4.78,5.81,1995,7.5,79
+977,2015,Jul,Konstruksi,0.08936199690999999,0,0.93,4.78,5.81,43307,7.5,3870
+978,2015,Jul,Perdagangan Besar dan Eceran,0.04587884484,0,0.93,4.78,5.81,370236,7.5,16986
+979,2015,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.03274810111,0,0.93,4.78,5.81,24093,7.5,789
+980,2015,Jul,Transportasi pergudangan dan komunikasi,0.05474422442000001,0,0.93,4.78,5.81,24240,7.5,1327
+981,2015,Jul,Perantara Keuangan,0.02597313124,0,0.93,4.78,5.81,14515,7.5,377
+982,2015,Jul,Real Estate Usaha Persewaan,0.046178613789999996,0,0.93,4.78,5.81,35406,7.5,1635
+983,2015,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0447761194,0,0.93,4.78,5.81,201,7.5,9
+984,2015,Jul,Jasa Pendidikan,0.02420856611,0,0.93,4.78,5.81,2685,7.5,65
+985,2015,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.027598020560000002,0,0.93,4.78,5.81,5254,7.5,145
+986,2015,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03349608,0,0.93,4.78,5.81,42602,7.5,1427
+987,2015,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.028669234060000003,0,0.93,4.78,5.81,2337,7.5,67
+988,2015,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.09090909091,0,0.93,4.78,5.81,33,7.5,3
+989,2015,Jul,Kegiatan yang belum jelas batasannya,0.046052631579999996,0,0.93,4.78,5.81,152,7.5,7
+990,2015,Aug,Pertanian Perburuan dan Kehutanan,0.04553879198,0,0.39,4.78,6.18,57731,7.5,2629
+991,2015,Aug,Perikanan,0.04740459825,0,0.39,4.78,6.18,4219,7.5,200
+992,2015,Aug,Pertambangan dan Penggalian,0.08627616832,0,0.39,4.78,6.18,4729,7.5,408
+993,2015,Aug,Industri Pengolahan,0.03678238098,0,0.39,4.78,6.18,74465,7.5,2739
+994,2015,Aug,Listrik gas dan air,0.042424242419999994,0,0.39,4.78,6.18,1980,7.5,84
+995,2015,Aug,Konstruksi,0.08588227220000001,0,0.39,4.78,6.18,43711,7.5,3754
+996,2015,Aug,Perdagangan Besar dan Eceran,0.04584383007,0,0.39,4.78,6.18,371544,7.5,17033
+997,2015,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.031015275550000002,0,0.39,4.78,6.18,23698,7.5,735
+998,2015,Aug,Transportasi pergudangan dan komunikasi,0.05420427951,0,0.39,4.78,6.18,23928,7.5,1297
+999,2015,Aug,Perantara Keuangan,0.02566572628,0,0.39,4.78,6.18,14533,7.5,373
+1000,2015,Aug,Real Estate Usaha Persewaan,0.04456753302,0,0.39,4.78,6.18,35205,7.5,1569
+1001,2015,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.04347826087,0,0.39,4.78,6.18,207,7.5,9
+1002,2015,Aug,Jasa Pendidikan,0.022107590269999998,0,0.39,4.78,6.18,2714,7.5,60
+1003,2015,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.027047054460000004,0,0.39,4.78,6.18,5398,7.5,146
+1004,2015,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04342525933,0,0.39,4.78,6.18,43477,7.5,1888
+1005,2015,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.02842596521,0,0.39,4.78,6.18,2357,7.5,67
+1006,2015,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.1,0,0.39,4.78,6.18,30,7.5,3
+1007,2015,Aug,Kegiatan yang belum jelas batasannya,0.04651162791,0,0.39,4.78,6.18,172,7.5,8
+1008,2015,Sep,Pertanian Perburuan dan Kehutanan,0.04370294319,0,-0.05,4.78,6.18,58440,7.5,2554
+1009,2015,Sep,Perikanan,0.04464918498,0,-0.05,4.78,6.18,4233,7.5,189
+1010,2015,Sep,Pertambangan dan Penggalian,0.08853251318,0,-0.05,4.78,6.18,4552,7.5,403
+1011,2015,Sep,Industri Pengolahan,0.0370674254,0,-0.05,4.78,6.18,75565,7.5,2801
+1012,2015,Sep,Listrik gas dan air,0.04314105671,0,-0.05,4.78,6.18,2063,7.5,89
+1013,2015,Sep,Konstruksi,0.0822967794,0,-0.05,4.78,6.18,44619,7.5,3672
+1014,2015,Sep,Perdagangan Besar dan Eceran,0.044235715030000004,0,-0.05,4.78,6.18,376777,7.5,16667
+1015,2015,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.02986548192,0,-0.05,4.78,6.18,24309,7.5,726
+1016,2015,Sep,Transportasi pergudangan dan komunikasi,0.05185031185,0,-0.05,4.78,6.18,24050,7.5,1247
+1017,2015,Sep,Perantara Keuangan,0.024011591800000003,0,-0.05,4.78,6.18,14493,7.5,348
+1018,2015,Sep,Real Estate Usaha Persewaan,0.04357608727,0,-0.05,4.78,6.18,35111,7.5,1530
+1019,2015,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.04306220096,0,-0.05,4.78,6.18,209,7.5,9
+1020,2015,Sep,Jasa Pendidikan,0.021517140770000002,0,-0.05,4.78,6.18,2742,7.5,59
+1021,2015,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.02729116725,0,-0.05,4.78,6.18,5423,7.5,148
+1022,2015,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04628456436000001,0,-0.05,4.78,6.18,40251,7.5,1863
+1023,2015,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.02579281184,0,-0.05,4.78,6.18,2365,7.5,61
+1024,2015,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0625,0,-0.05,4.78,6.18,32,7.5,2
+1025,2015,Sep,Kegiatan yang belum jelas batasannya,0.058823529410000006,0,-0.05,4.78,6.18,119,7.5,7
+1026,2015,Oct,Pertanian Perburuan dan Kehutanan,0.044927830860000004,0,-0.08,5.15,6.18,59028,7.5,2652
+1027,2015,Oct,Perikanan,0.04908407703,0,-0.08,5.15,6.18,4258,7.5,209
+1028,2015,Oct,Pertambangan dan Penggalian,0.0878243513,0,-0.08,5.15,6.18,4509,7.5,396
+1029,2015,Oct,Industri Pengolahan,0.038581608860000005,0,-0.08,5.15,6.18,75917,7.5,2929
+1030,2015,Oct,Listrik gas dan air,0.04298535664,0,-0.08,5.15,6.18,2117,7.5,91
+1031,2015,Oct,Konstruksi,0.08714889925000001,0,-0.08,5.15,6.18,46105,7.5,4018
+1032,2015,Oct,Perdagangan Besar dan Eceran,0.04339654651000001,0,-0.08,5.15,6.18,377242,7.5,16371
+1033,2015,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.03097040606,0,-0.08,5.15,6.18,24701,7.5,765
+1034,2015,Oct,Transportasi pergudangan dan komunikasi,0.05663476940000001,0,-0.08,5.15,6.18,24349,7.5,1379
+1035,2015,Oct,Perantara Keuangan,0.0240337997,0,-0.08,5.15,6.18,14438,7.5,347
+1036,2015,Oct,Real Estate Usaha Persewaan,0.04505557138999999,0,-0.08,5.15,6.18,35090,7.5,1581
+1037,2015,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.04109589041,0,-0.08,5.15,6.18,219,7.5,9
+1038,2015,Oct,Jasa Pendidikan,0.02281226627,0,-0.08,5.15,6.18,2674,7.5,61
+1039,2015,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.022353593199999997,0,-0.08,5.15,6.18,5413,7.5,121
+1040,2015,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.0443388967,0,-0.08,5.15,6.18,37687,7.5,1671
+1041,2015,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.02489451477,0,-0.08,5.15,6.18,2370,7.5,59
+1042,2015,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.06896551724,0,-0.08,5.15,6.18,29,7.5,2
+1043,2015,Oct,Kegiatan yang belum jelas batasannya,0.035,0,-0.08,5.15,6.18,200,7.5,7
+1044,2015,Nov,Pertanian Perburuan dan Kehutanan,0.04890382192,0,0.21,5.15,6.18,59525,7.5,2911
+1045,2015,Nov,Perikanan,0.046964490260000005,0,0.21,5.15,6.18,4365,7.5,205
+1046,2015,Nov,Pertambangan dan Penggalian,0.08805031447,0,0.21,5.15,6.18,4611,7.5,406
+1047,2015,Nov,Industri Pengolahan,0.04163753697,0,0.21,5.15,6.18,74380,7.5,3097
+1048,2015,Nov,Listrik gas dan air,0.04271933853999999,0,0.21,5.15,6.18,2177,7.5,93
+1049,2015,Nov,Konstruksi,0.08492953445,0,0.21,5.15,6.18,45838,7.5,3893
+1050,2015,Nov,Perdagangan Besar dan Eceran,0.04311420938999999,0,0.21,5.15,6.18,383725,7.5,16544
+1051,2015,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.031142834360000003,0,0.21,5.15,6.18,25078,7.5,781
+1052,2015,Nov,Transportasi pergudangan dan komunikasi,0.05520247698,0,0.21,5.15,6.18,24546,7.5,1355
+1053,2015,Nov,Perantara Keuangan,0.025314685309999998,0,0.21,5.15,6.18,14300,7.5,362
+1054,2015,Nov,Real Estate Usaha Persewaan,0.04565161216,0,0.21,5.15,6.18,34829,7.5,1590
+1055,2015,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03225806452,0,0.21,5.15,6.18,217,7.5,7
+1056,2015,Nov,Jasa Pendidikan,0.02285092492,0,0.21,5.15,6.18,2757,7.5,63
+1057,2015,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.02030644268,0,0.21,5.15,6.18,5417,7.5,110
+1058,2015,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04385349803,0,0.21,5.15,6.18,37078,7.5,1626
+1059,2015,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.024769101600000003,0,0.21,5.15,6.18,2382,7.5,59
+1060,2015,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.07142857142999999,0,0.21,5.15,6.18,28,7.5,2
+1061,2015,Nov,Kegiatan yang belum jelas batasannya,0.037383177569999995,0,0.21,5.15,6.18,214,7.5,8
+1062,2015,Dec,Pertanian Perburuan dan Kehutanan,0.041255341089999994,0,0.96,5.15,6.18,61083,7.5,2520
+1063,2015,Dec,Perikanan,0.04047672588,0,0.96,5.15,6.18,4447,7.5,180
+1064,2015,Dec,Pertambangan dan Penggalian,0.08867300537,0,0.96,5.15,6.18,4838,7.5,429
+1065,2015,Dec,Industri Pengolahan,0.03605687551,0,0.96,5.15,6.18,76518,7.5,2759
+1066,2015,Dec,Listrik gas dan air,0.04761904762,0,0.96,5.15,6.18,2079,7.5,99
+1067,2015,Dec,Konstruksi,0.07392591222,0,0.96,5.15,6.18,43246,7.5,3197
+1068,2015,Dec,Perdagangan Besar dan Eceran,0.038209593199999996,0,0.96,5.15,6.18,395843,7.5,15125
+1069,2015,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.029193733280000002,0,0.96,5.15,6.18,26170,7.5,764
+1070,2015,Dec,Transportasi pergudangan dan komunikasi,0.04947916666999999,0,0.96,5.15,6.18,26112,7.5,1292
+1071,2015,Dec,Perantara Keuangan,0.02364016736,0,0.96,5.15,6.18,14340,7.5,339
+1072,2015,Dec,Real Estate Usaha Persewaan,0.0400336098,0,0.96,5.15,6.18,36894,7.5,1477
+1073,2015,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.03433476395,0,0.96,5.15,6.18,233,7.5,8
+1074,2015,Dec,Jasa Pendidikan,0.018583450209999998,0,0.96,5.15,6.18,2852,7.5,53
+1075,2015,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.01501340483,0,0.96,5.15,6.18,5595,7.5,84
+1076,2015,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03819736663,0,0.96,5.15,6.18,36835,7.5,1407
+1077,2015,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.021775544390000002,0,0.96,5.15,6.18,2388,7.5,52
+1078,2015,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.08333333333,0,0.96,5.15,6.18,24,7.5,2
+1079,2015,Dec,Kegiatan yang belum jelas batasannya,0.02310231023,0,0.96,5.15,6.18,303,7.5,7
+1080,2016,Jan,Pertanian Perburuan dan Kehutanan,0.046075197889999996,0,0.51,4.94,6.18,60640,7.25,2794
+1081,2016,Jan,Perikanan,0.04384328358,0,0.51,4.94,6.18,4288,7.25,188
+1082,2016,Jan,Pertambangan dan Penggalian,0.0900092081,0,0.51,4.94,6.18,4344,7.25,391
+1083,2016,Jan,Industri Pengolahan,0.03903795021,0,0.51,4.94,6.18,74466,7.25,2907
+1084,2016,Jan,Listrik gas dan air,0.0505,0,0.51,4.94,6.18,2000,7.25,101
+1085,2016,Jan,Konstruksi,0.0901088719,0,0.51,4.94,6.18,38853,7.25,3501
+1086,2016,Jan,Perdagangan Besar dan Eceran,0.04320586873,0,0.51,4.94,6.18,386591,7.25,16703
+1087,2016,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.03087465353,0,0.51,4.94,6.18,25976,7.25,802
+1088,2016,Jan,Transportasi pergudangan dan komunikasi,0.051549273279999995,0,0.51,4.94,6.18,25044,7.25,1291
+1089,2016,Jan,Perantara Keuangan,0.02673130194,0,0.51,4.94,6.18,14440,7.25,386
+1090,2016,Jan,Real Estate Usaha Persewaan,0.043591320880000006,0,0.51,4.94,6.18,35764,7.25,1559
+1091,2016,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0350877193,0,0.51,4.94,6.18,228,7.25,8
+1092,2016,Jan,Jasa Pendidikan,0.03051216854,0,0.51,4.94,6.18,2753,7.25,84
+1093,2016,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.015545914680000002,0,0.51,4.94,6.18,5532,7.25,86
+1094,2016,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04264924431,0,0.51,4.94,6.18,35663,7.25,1521
+1095,2016,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.026507054300000003,0,0.51,4.94,6.18,2339,7.25,62
+1096,2016,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.06896551724,0,0.51,4.94,6.18,29,7.25,2
+1097,2016,Jan,Kegiatan yang belum jelas batasannya,0.020080321289999998,0,0.51,4.94,6.18,249,7.25,5
+1098,2016,Feb,Pertanian Perburuan dan Kehutanan,0.045735839199999996,0,-0.09,4.94,5.5,61243,7.0,2801
+1099,2016,Feb,Perikanan,0.04565267263,0,-0.09,4.94,5.5,4359,7.0,199
+1100,2016,Feb,Pertambangan dan Penggalian,0.08894625675000001,0,-0.09,4.94,5.5,4261,7.0,379
+1101,2016,Feb,Industri Pengolahan,0.039152410580000005,0,-0.09,4.94,5.5,77160,7.0,3021
+1102,2016,Feb,Listrik gas dan air,0.05607966457000001,0,-0.09,4.94,5.5,1908,7.0,107
+1103,2016,Feb,Konstruksi,0.0895052164,0,-0.09,4.94,5.5,38724,7.0,3466
+1104,2016,Feb,Perdagangan Besar dan Eceran,0.04450642489,0,-0.09,4.94,5.5,393314,7.0,17505
+1105,2016,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.03558732612,0,-0.09,4.94,5.5,25880,7.0,921
+1106,2016,Feb,Transportasi pergudangan dan komunikasi,0.04881261225,0,-0.09,4.94,5.5,25055,7.0,1223
+1107,2016,Feb,Perantara Keuangan,0.028900930939999996,0,-0.09,4.94,5.5,14394,7.0,416
+1108,2016,Feb,Real Estate Usaha Persewaan,0.04653460199,0,-0.09,4.94,5.5,38466,7.0,1790
+1109,2016,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02714932127,0,-0.09,4.94,5.5,221,7.0,6
+1110,2016,Feb,Jasa Pendidikan,0.032663316580000004,0,-0.09,4.94,5.5,2786,7.0,91
+1111,2016,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.02147239264,0,-0.09,4.94,5.5,5542,7.0,119
+1112,2016,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04406298166,0,-0.09,4.94,5.5,33089,7.0,1458
+1113,2016,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.029488291410000003,0,-0.09,4.94,5.5,2306,7.0,68
+1114,2016,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.07142857142999999,0,-0.09,4.94,5.5,28,7.0,2
+1115,2016,Feb,Kegiatan yang belum jelas batasannya,0.02155172414,0,-0.09,4.94,5.5,232,7.0,5
+1116,2016,Mar,Pertanian Perburuan dan Kehutanan,0.04406139544,0,0.19,4.94,5.5,61959,6.75,2730
+1117,2016,Mar,Perikanan,0.04482991665,0,0.19,4.94,5.5,4439,6.75,199
+1118,2016,Mar,Pertambangan dan Penggalian,0.06765899865,0,0.19,4.94,5.5,4434,6.75,300
+1119,2016,Mar,Industri Pengolahan,0.038933781089999994,0,0.19,4.94,5.5,76232,6.75,2968
+1120,2016,Mar,Listrik gas dan air,0.028481012660000003,0,0.19,4.94,5.5,1896,6.75,54
+1121,2016,Mar,Konstruksi,0.08704230981000001,0,0.19,4.94,5.5,40038,6.75,3485
+1122,2016,Mar,Perdagangan Besar dan Eceran,0.04278743619,0,0.19,4.94,5.5,399019,6.75,17073
+1123,2016,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.03619378995,0,0.19,4.94,5.5,26441,6.75,957
+1124,2016,Mar,Transportasi pergudangan dan komunikasi,0.04571471893,0,0.19,4.94,5.5,26381,6.75,1206
+1125,2016,Mar,Perantara Keuangan,0.030331211099999998,0,0.19,4.94,5.5,13979,6.75,424
+1126,2016,Mar,Real Estate Usaha Persewaan,0.04502326549,0,0.19,4.94,5.5,38469,6.75,1732
+1127,2016,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02127659574,0,0.19,4.94,5.5,235,6.75,5
+1128,2016,Mar,Jasa Pendidikan,0.02932761087,0,0.19,4.94,5.5,2796,6.75,82
+1129,2016,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.01747747748,0,0.19,4.94,5.5,5550,6.75,97
+1130,2016,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04101387979,0,0.19,4.94,5.5,33574,6.75,1377
+1131,2016,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.03093239063,0,0.19,4.94,5.5,2263,6.75,70
+1132,2016,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.07142857142999999,0,0.19,4.94,5.5,28,6.75,2
+1133,2016,Mar,Kegiatan yang belum jelas batasannya,0.01901140684,0,0.19,4.94,5.5,263,6.75,5
+1134,2016,Apr,Pertanian Perburuan dan Kehutanan,0.04582248973999999,0,-0.45,5.21,5.5,62633,6.75,2870
+1135,2016,Apr,Perikanan,0.0420979021,0,-0.45,5.21,5.5,7150,6.75,301
+1136,2016,Apr,Pertambangan dan Penggalian,0.0754141238,0,-0.45,5.21,5.5,4588,6.75,346
+1137,2016,Apr,Industri Pengolahan,0.040883720330000005,0,-0.45,5.21,5.5,77219,6.75,3157
+1138,2016,Apr,Listrik gas dan air,0.029059829060000004,0,-0.45,5.21,5.5,1755,6.75,51
+1139,2016,Apr,Konstruksi,0.08543952657,0,-0.45,5.21,5.5,40555,6.75,3465
+1140,2016,Apr,Perdagangan Besar dan Eceran,0.04420917994,0,-0.45,5.21,5.5,403423,6.75,17835
+1141,2016,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.03891022125,0,-0.45,5.21,5.5,27345,6.75,1064
+1142,2016,Apr,Transportasi pergudangan dan komunikasi,0.04769047344,0,-0.45,5.21,5.5,26001,6.75,1240
+1143,2016,Apr,Perantara Keuangan,0.03233904312,0,-0.45,5.21,5.5,13544,6.75,438
+1144,2016,Apr,Real Estate Usaha Persewaan,0.04657694233,0,-0.45,5.21,5.5,35962,6.75,1675
+1145,2016,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0447761194,0,-0.45,5.21,5.5,1005,6.75,45
+1146,2016,Apr,Jasa Pendidikan,0.029160739689999996,0,-0.45,5.21,5.5,2812,6.75,82
+1147,2016,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.02279151943,0,-0.45,5.21,5.5,5660,6.75,129
+1148,2016,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.043483494330000004,0,-0.45,5.21,5.5,33231,6.75,1445
+1149,2016,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.031011235960000005,0,-0.45,5.21,5.5,2225,6.75,69
+1150,2016,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.04545454545,0,-0.45,5.21,5.5,22,6.75,1
+1151,2016,Apr,Kegiatan yang belum jelas batasannya,0.027972027969999997,0,-0.45,5.21,5.5,143,6.75,4
+1152,2016,May,Pertanian Perburuan dan Kehutanan,0.04742893643999999,0,0.24,5.21,5.5,62620,6.75,2970
+1153,2016,May,Perikanan,0.04648044693,0,0.24,5.21,5.5,4475,6.75,208
+1154,2016,May,Pertambangan dan Penggalian,0.0625,0,0.24,5.21,5.5,4912,6.75,307
+1155,2016,May,Industri Pengolahan,0.04310154454,0,0.24,5.21,5.5,76981,6.75,3318
+1156,2016,May,Listrik gas dan air,0.01801385681,0,0.24,5.21,5.5,2165,6.75,39
+1157,2016,May,Konstruksi,0.08418096429,0,0.24,5.21,5.5,42373,6.75,3567
+1158,2016,May,Perdagangan Besar dan Eceran,0.04448407246,0,0.24,5.21,5.5,410484,6.75,18260
+1159,2016,May,Penyediaan akomodasi dan penyediaan makan minum,0.037384531789999995,0,0.24,5.21,5.5,27605,6.75,1032
+1160,2016,May,Transportasi pergudangan dan komunikasi,0.05017649068,0,0.24,5.21,5.5,26347,6.75,1322
+1161,2016,May,Perantara Keuangan,0.03322480391,0,0.24,5.21,5.5,13514,6.75,449
+1162,2016,May,Real Estate Usaha Persewaan,0.045510141680000005,0,0.24,5.21,5.5,39244,6.75,1786
+1163,2016,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0170212766,0,0.24,5.21,5.5,235,6.75,4
+1164,2016,May,Jasa Pendidikan,0.02900069881,0,0.24,5.21,5.5,2862,6.75,83
+1165,2016,May,Jasa Kesehatan dan Kegiatan Sosial,0.022636252830000002,0,0.24,5.21,5.5,5743,6.75,130
+1166,2016,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.043680243089999994,0,0.24,5.21,5.5,34226,6.75,1495
+1167,2016,May,Jasa Perorangan yang Melayani Rumah Tangga,0.0303030303,0,0.24,5.21,5.5,2244,6.75,68
+1168,2016,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.008695652174,0,0.24,5.21,5.5,115,6.75,1
+1169,2016,May,Kegiatan yang belum jelas batasannya,0.02702702703,0,0.24,5.21,5.5,185,6.75,5
+1170,2016,Jun,Pertanian Perburuan dan Kehutanan,0.043797779749999995,0,0.66,5.21,5.5,64227,6.5,2813
+1171,2016,Jun,Perikanan,0.04309779042,0,0.66,5.21,5.5,4571,6.5,197
+1172,2016,Jun,Pertambangan dan Penggalian,0.06367495452000001,0,0.66,5.21,5.5,4947,6.5,315
+1173,2016,Jun,Industri Pengolahan,0.04013098836,0,0.66,5.21,5.5,79091,6.5,3174
+1174,2016,Jun,Listrik gas dan air,0.015116811730000002,0,0.66,5.21,5.5,2183,6.5,33
+1175,2016,Jun,Konstruksi,0.07548255711,0,0.66,5.21,5.5,45176,6.5,3410
+1176,2016,Jun,Perdagangan Besar dan Eceran,0.0414366418,0,0.66,5.21,5.5,419701,6.5,17391
+1177,2016,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.038757746180000004,0,0.66,5.21,5.5,27917,6.5,1082
+1178,2016,Jun,Transportasi pergudangan dan komunikasi,0.04475173802,0,0.66,5.21,5.5,26323,6.5,1178
+1179,2016,Jun,Perantara Keuangan,0.031791483110000004,0,0.66,5.21,5.5,13620,6.5,433
+1180,2016,Jun,Real Estate Usaha Persewaan,0.04187370471,0,0.66,5.21,5.5,40049,6.5,1677
+1181,2016,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.008474576271000001,0,0.66,5.21,5.5,236,6.5,2
+1182,2016,Jun,Jasa Pendidikan,0.02567567568,0,0.66,5.21,5.5,2960,6.5,76
+1183,2016,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.02055362175,0,0.66,5.21,5.5,6033,6.5,124
+1184,2016,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04353827572,0,0.66,5.21,5.5,34774,6.5,1514
+1185,2016,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.02864698105,0,0.66,5.21,5.5,2269,6.5,65
+1186,2016,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.008547008547000001,0,0.66,5.21,5.5,117,6.5,1
+1187,2016,Jun,Kegiatan yang belum jelas batasannya,0.0365535248,0,0.66,5.21,5.5,383,6.5,14
+1188,2016,Jul,Pertanian Perburuan dan Kehutanan,0.04526961475,0,0.69,5.03,5.5,63906,6.5,2893
+1189,2016,Jul,Perikanan,0.04216600089,0,0.69,5.03,5.5,4506,6.5,190
+1190,2016,Jul,Pertambangan dan Penggalian,0.06241699867000001,0,0.69,5.03,5.5,5271,6.5,329
+1191,2016,Jul,Industri Pengolahan,0.04224988379,0,0.69,5.03,5.5,77444,6.5,3272
+1192,2016,Jul,Listrik gas dan air,0.023625624720000002,0,0.69,5.03,5.5,2201,6.5,52
+1193,2016,Jul,Konstruksi,0.07888413142,0,0.69,5.03,5.5,45776,6.5,3611
+1194,2016,Jul,Perdagangan Besar dan Eceran,0.043968615610000004,0,0.69,5.03,5.5,413454,6.5,18179
+1195,2016,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.043380942230000004,0,0.69,5.03,5.5,28146,6.5,1221
+1196,2016,Jul,Transportasi pergudangan dan komunikasi,0.04868395773,0,0.69,5.03,5.5,26025,6.5,1267
+1197,2016,Jul,Perantara Keuangan,0.03343853321,0,0.69,5.03,5.5,13308,6.5,445
+1198,2016,Jul,Real Estate Usaha Persewaan,0.04359289408,0,0.69,5.03,5.5,39066,6.5,1703
+1199,2016,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.008810572687,0,0.69,5.03,5.5,227,6.5,2
+1200,2016,Jul,Jasa Pendidikan,0.02819293478,0,0.69,5.03,5.5,2944,6.5,83
+1201,2016,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.021380773619999998,0,0.69,5.03,5.5,6127,6.5,131
+1202,2016,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04655668408,0,0.69,5.03,5.5,34066,6.5,1586
+1203,2016,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.029438001780000004,0,0.69,5.03,5.5,2242,6.5,66
+1204,2016,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.07692307692000001,0,0.69,5.03,5.5,13,6.5,1
+1205,2016,Jul,Kegiatan yang belum jelas batasannya,0.04481792717,0,0.69,5.03,5.5,357,6.5,16
+1206,2016,Aug,Pertanian Perburuan dan Kehutanan,0.04494822103,0,-0.02,5.03,5.61,63829,5.25,2869
+1207,2016,Aug,Perikanan,0.04153778171,0,-0.02,5.03,5.61,4526,5.25,188
+1208,2016,Aug,Pertambangan dan Penggalian,0.06223588167000001,0,-0.02,5.03,5.61,5206,5.25,324
+1209,2016,Aug,Industri Pengolahan,0.042638994129999996,0,-0.02,5.03,5.61,77863,5.25,3320
+1210,2016,Aug,Listrik gas dan air,0.02690397351,0,-0.02,5.03,5.61,2416,5.25,65
+1211,2016,Aug,Konstruksi,0.07689373874,0,-0.02,5.03,5.61,47195,5.25,3629
+1212,2016,Aug,Perdagangan Besar dan Eceran,0.04427020478,0,-0.02,5.03,5.61,418453,5.25,18525
+1213,2016,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.042424242419999994,0,-0.02,5.03,5.61,28380,5.25,1204
+1214,2016,Aug,Transportasi pergudangan dan komunikasi,0.04714546007,0,-0.02,5.03,5.61,26344,5.25,1242
+1215,2016,Aug,Perantara Keuangan,0.03618962165,0,-0.02,5.03,5.61,13374,5.25,484
+1216,2016,Aug,Real Estate Usaha Persewaan,0.04214289311000001,0,-0.02,5.03,5.61,39722,5.25,1674
+1217,2016,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.017621145369999997,0,-0.02,5.03,5.61,227,5.25,4
+1218,2016,Aug,Jasa Pendidikan,0.028040540539999995,0,-0.02,5.03,5.61,2960,5.25,83
+1219,2016,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.02204040741,0,-0.02,5.03,5.61,5989,5.25,132
+1220,2016,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04340670643999999,0,-0.02,5.03,5.61,34027,5.25,1477
+1221,2016,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.030561797749999998,0,-0.02,5.03,5.61,2225,5.25,68
+1222,2016,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.07692307692000001,0,-0.02,5.03,5.61,13,5.25,1
+1223,2016,Aug,Kegiatan yang belum jelas batasannya,0.09937888198999999,0,-0.02,5.03,5.61,161,5.25,16
+1224,2016,Sep,Pertanian Perburuan dan Kehutanan,0.04247345409,0,0.22,5.03,5.61,64040,5.0,2720
+1225,2016,Sep,Perikanan,0.04072790295,0,0.22,5.03,5.61,4616,5.0,188
+1226,2016,Sep,Pertambangan dan Penggalian,0.06104453991,0,0.22,5.03,5.61,4423,5.0,270
+1227,2016,Sep,Industri Pengolahan,0.0436330581,0,0.22,5.03,5.61,79206,5.0,3456
+1228,2016,Sep,Listrik gas dan air,0.03280103582,0,0.22,5.03,5.61,2317,5.0,76
+1229,2016,Sep,Konstruksi,0.06885762158,0,0.22,5.03,5.61,49537,5.0,3411
+1230,2016,Sep,Perdagangan Besar dan Eceran,0.042365172189999994,0,0.22,5.03,5.61,423225,5.0,17930
+1231,2016,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.04071335973,0,0.22,5.03,5.61,28541,5.0,1162
+1232,2016,Sep,Transportasi pergudangan dan komunikasi,0.047495876439999994,0,0.22,5.03,5.61,26676,5.0,1267
+1233,2016,Sep,Perantara Keuangan,0.03527707352,0,0.22,5.03,5.61,13805,5.0,487
+1234,2016,Sep,Real Estate Usaha Persewaan,0.03878829911,0,0.22,5.03,5.61,40373,5.0,1566
+1235,2016,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02314814815,0,0.22,5.03,5.61,216,5.0,5
+1236,2016,Sep,Jasa Pendidikan,0.02779732583,0,0.22,5.03,5.61,2842,5.0,79
+1237,2016,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.02077351799,0,0.22,5.03,5.61,5921,5.0,123
+1238,2016,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.038959886400000004,0,0.22,5.03,5.61,33804,5.0,1317
+1239,2016,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.02781577747,0,0.22,5.03,5.61,2193,5.0,61
+1240,2016,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.125,0,0.22,5.03,5.61,8,5.0,1
+1241,2016,Sep,Kegiatan yang belum jelas batasannya,0.09316770186000001,0,0.22,5.03,5.61,161,5.0,15
+1242,2016,Oct,Pertanian Perburuan dan Kehutanan,0.04518076791,0,0.14,4.94,5.61,66909,4.75,3023
+1243,2016,Oct,Perikanan,0.03830339753,0,0.14,4.94,5.61,4621,4.75,177
+1244,2016,Oct,Pertambangan dan Penggalian,0.05071442946,0,0.14,4.94,5.61,4969,4.75,252
+1245,2016,Oct,Industri Pengolahan,0.045962135779999996,0,0.14,4.94,5.61,81132,4.75,3729
+1246,2016,Oct,Listrik gas dan air,0.0330472103,0,0.14,4.94,5.61,2330,4.75,77
+1247,2016,Oct,Konstruksi,0.075304824,0,0.14,4.94,5.61,50767,4.75,3823
+1248,2016,Oct,Perdagangan Besar dan Eceran,0.0424444895,0,0.14,4.94,5.61,424154,4.75,18003
+1249,2016,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.03586720242,0,0.14,4.94,5.61,30362,4.75,1089
+1250,2016,Oct,Transportasi pergudangan dan komunikasi,0.04498193812,0,0.14,4.94,5.61,31835,4.75,1432
+1251,2016,Oct,Perantara Keuangan,0.033527904330000004,0,0.14,4.94,5.61,14048,4.75,471
+1252,2016,Oct,Real Estate Usaha Persewaan,0.03792826284,0,0.14,4.94,5.61,39812,4.75,1510
+1253,2016,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.023364485980000002,0,0.14,4.94,5.61,214,4.75,5
+1254,2016,Oct,Jasa Pendidikan,0.03206270039,0,0.14,4.94,5.61,2807,4.75,90
+1255,2016,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.0202680067,0,0.14,4.94,5.61,5970,4.75,121
+1256,2016,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03850137611,0,0.14,4.94,5.61,33791,4.75,1301
+1257,2016,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.02850678733,0,0.14,4.94,5.61,2210,4.75,63
+1258,2016,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.20238095239999998,0,0.14,4.94,5.61,168,4.75,34
+1259,2016,Oct,Kegiatan yang belum jelas batasannya,0.05761316872,0,0.14,4.94,5.61,243,4.75,14
+1260,2016,Nov,Pertanian Perburuan dan Kehutanan,0.04125835767,0,0.47,4.94,5.61,67453,4.75,2783
+1261,2016,Nov,Perikanan,0.034898750539999995,0,0.47,4.94,5.61,4642,4.75,162
+1262,2016,Nov,Pertambangan dan Penggalian,0.06430868167,0,0.47,4.94,5.61,4976,4.75,320
+1263,2016,Nov,Industri Pengolahan,0.0430007067,0,0.47,4.94,5.61,83487,4.75,3590
+1264,2016,Nov,Listrik gas dan air,0.03186582809,0,0.47,4.94,5.61,2385,4.75,76
+1265,2016,Nov,Konstruksi,0.07175073366000001,0,0.47,4.94,5.61,50773,4.75,3643
+1266,2016,Nov,Perdagangan Besar dan Eceran,0.0404459491,0,0.47,4.94,5.61,428300,4.75,17323
+1267,2016,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.031999480739999996,0,0.47,4.94,5.61,30813,4.75,986
+1268,2016,Nov,Transportasi pergudangan dan komunikasi,0.042144302089999995,0,0.47,4.94,5.61,32626,4.75,1375
+1269,2016,Nov,Perantara Keuangan,0.030261447349999998,0,0.47,4.94,5.61,13846,4.75,419
+1270,2016,Nov,Real Estate Usaha Persewaan,0.03756745538,0,0.47,4.94,5.61,38544,4.75,1448
+1271,2016,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01860465116,0,0.47,4.94,5.61,215,4.75,4
+1272,2016,Nov,Jasa Pendidikan,0.031696273080000004,0,0.47,4.94,5.61,2871,4.75,91
+1273,2016,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.02056168506,0,0.47,4.94,5.61,5982,4.75,123
+1274,2016,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03633881369,0,0.47,4.94,5.61,34426,4.75,1251
+1275,2016,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.02507836991,0,0.47,4.94,5.61,2233,4.75,56
+1276,2016,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.19767441859999998,0,0.47,4.94,5.61,172,4.75,34
+1277,2016,Nov,Kegiatan yang belum jelas batasannya,0.0407523511,0,0.47,4.94,5.61,319,4.75,13
+1278,2016,Dec,Pertanian Perburuan dan Kehutanan,0.038603873819999995,0,0.42,4.94,5.61,67014,4.75,2587
+1279,2016,Dec,Perikanan,0.03149937001,0,0.42,4.94,5.61,4762,4.75,150
+1280,2016,Dec,Pertambangan dan Penggalian,0.06506485222,0,0.42,4.94,5.61,4703,4.75,306
+1281,2016,Dec,Industri Pengolahan,0.03773338401,0,0.42,4.94,5.61,84196,4.75,3177
+1282,2016,Dec,Listrik gas dan air,0.02878848461,0,0.42,4.94,5.61,2501,4.75,72
+1283,2016,Dec,Konstruksi,0.0680016601,0,0.42,4.94,5.61,48190,4.75,3277
+1284,2016,Dec,Perdagangan Besar dan Eceran,0.038272147220000004,0,0.42,4.94,5.61,432560,4.75,16555
+1285,2016,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.035614931749999995,0,0.42,4.94,5.61,30914,4.75,1101
+1286,2016,Dec,Transportasi pergudangan dan komunikasi,0.047549538370000005,0,0.42,4.94,5.61,27403,4.75,1303
+1287,2016,Dec,Perantara Keuangan,0.0258991756,0,0.42,4.94,5.61,13707,4.75,355
+1288,2016,Dec,Real Estate Usaha Persewaan,0.03635985872,0,0.42,4.94,5.61,38504,4.75,1400
+1289,2016,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01351351351,0,0.42,4.94,5.61,222,4.75,3
+1290,2016,Dec,Jasa Pendidikan,0.02556131261,0,0.42,4.94,5.61,2895,4.75,74
+1291,2016,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.01852770885,0,0.42,4.94,5.61,6045,4.75,112
+1292,2016,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03253032251,0,0.42,4.94,5.61,35782,4.75,1164
+1293,2016,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.024477080550000002,0,0.42,4.94,5.61,2247,4.75,55
+1294,2016,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.18787878789999998,0,0.42,4.94,5.61,165,4.75,31
+1295,2016,Dec,Kegiatan yang belum jelas batasannya,0.04513888888999999,0,0.42,4.94,5.61,288,4.75,13
+1296,2017,Jan,Pertanian Perburuan dan Kehutanan,0.03877074881,0,0.97,5.01,5.61,67293,4.75,2609
+1297,2017,Jan,Perikanan,0.04091199659,0,0.97,5.01,5.61,4693,4.75,192
+1298,2017,Jan,Pertambangan dan Penggalian,0.05734607691000001,0,0.97,5.01,5.61,4499,4.75,258
+1299,2017,Jan,Industri Pengolahan,0.04233206907,0,0.97,5.01,5.61,80152,4.75,3393
+1300,2017,Jan,Listrik gas dan air,0.028234302569999998,0,0.97,5.01,5.61,2373,4.75,67
+1301,2017,Jan,Konstruksi,0.09012905476,0,0.97,5.01,5.61,43005,4.75,3876
+1302,2017,Jan,Perdagangan Besar dan Eceran,0.04172455837,0,0.97,5.01,5.61,423204,4.75,17658
+1303,2017,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.040619971760000005,0,0.97,5.01,5.61,30453,4.75,1237
+1304,2017,Jan,Transportasi pergudangan dan komunikasi,0.052751182800000004,0,0.97,5.01,5.61,26843,4.75,1416
+1305,2017,Jan,Perantara Keuangan,0.027464258839999995,0,0.97,5.01,5.61,13290,4.75,365
+1306,2017,Jan,Real Estate Usaha Persewaan,0.03667272533,0,0.97,5.01,5.61,37412,4.75,1372
+1307,2017,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.04484304933,0,0.97,5.01,5.61,223,4.75,10
+1308,2017,Jan,Jasa Pendidikan,0.02745915885,0,0.97,5.01,5.61,2877,4.75,79
+1309,2017,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.027994036769999998,0,0.97,5.01,5.61,6037,4.75,169
+1310,2017,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04174476061,0,0.97,5.01,5.61,35214,4.75,1470
+1311,2017,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.02822580645,0,0.97,5.01,5.61,2232,4.75,63
+1312,2017,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.2403846154,0,0.97,5.01,5.61,104,4.75,25
+1313,2017,Jan,Kegiatan yang belum jelas batasannya,0.047101449280000006,0,0.97,5.01,5.61,276,4.75,13
+1314,2017,Feb,Pertanian Perburuan dan Kehutanan,0.042501221299999996,0,0.23,5.01,5.33,67551,4.75,2871
+1315,2017,Feb,Perikanan,0.04131711409,0,0.23,5.01,5.33,4768,4.75,197
+1316,2017,Feb,Pertambangan dan Penggalian,0.14351257109999999,0,0.23,5.01,5.33,5449,4.75,782
+1317,2017,Feb,Industri Pengolahan,0.04211473779,0,0.23,5.01,5.33,84436,4.75,3556
+1318,2017,Feb,Listrik gas dan air,0.052180395080000004,0,0.23,5.01,5.33,2683,4.75,140
+1319,2017,Feb,Konstruksi,0.09270148737,0,0.23,5.01,5.33,43365,4.75,4020
+1320,2017,Feb,Perdagangan Besar dan Eceran,0.0446097353,0,0.23,5.01,5.33,425647,4.75,18988
+1321,2017,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.05180929016,0,0.23,5.01,5.33,30979,4.75,1605
+1322,2017,Feb,Transportasi pergudangan dan komunikasi,0.05789862464,0,0.23,5.01,5.33,28429,4.75,1646
+1323,2017,Feb,Perantara Keuangan,0.03992282576,0,0.23,5.01,5.33,13476,4.75,538
+1324,2017,Feb,Real Estate Usaha Persewaan,0.036852616160000004,0,0.23,5.01,5.33,37555,4.75,1384
+1325,2017,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.08264462809999999,0,0.23,5.01,5.33,121,4.75,10
+1326,2017,Feb,Jasa Pendidikan,0.02259475219,0,0.23,5.01,5.33,2744,4.75,62
+1327,2017,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.02733065057,0,0.23,5.01,5.33,5964,4.75,163
+1328,2017,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04577484961,0,0.23,5.01,5.33,34910,4.75,1598
+1329,2017,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.030456852789999996,0,0.23,5.01,5.33,2167,4.75,66
+1330,2017,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.23,5.01,5.33,53,4.75,0
+1331,2017,Feb,Kegiatan yang belum jelas batasannya,0.06278026906,0,0.23,5.01,5.33,223,4.75,14
+1332,2017,Mar,Pertanian Perburuan dan Kehutanan,0.04254380158,0,-0.02,5.01,5.33,67977,4.75,2892
+1333,2017,Mar,Perikanan,0.03818472611,0,-0.02,5.01,5.33,5002,4.75,191
+1334,2017,Mar,Pertambangan dan Penggalian,0.1584457419,0,-0.02,5.01,5.33,4967,4.75,787
+1335,2017,Mar,Industri Pengolahan,0.042023198330000004,0,-0.02,5.01,5.33,84144,4.75,3536
+1336,2017,Mar,Listrik gas dan air,0.050200072750000005,0,-0.02,5.01,5.33,2749,4.75,138
+1337,2017,Mar,Konstruksi,0.1001418251,0,-0.02,5.01,5.33,45126,4.75,4519
+1338,2017,Mar,Perdagangan Besar dan Eceran,0.04411245736,0,-0.02,5.01,5.33,433551,4.75,19125
+1339,2017,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.04277953825,0,-0.02,5.01,5.33,30926,4.75,1323
+1340,2017,Mar,Transportasi pergudangan dan komunikasi,0.05491703315,0,-0.02,5.01,5.33,27059,4.75,1486
+1341,2017,Mar,Perantara Keuangan,0.03916660532,0,-0.02,5.01,5.33,13583,4.75,532
+1342,2017,Mar,Real Estate Usaha Persewaan,0.03568585832,0,-0.02,5.01,5.33,37690,4.75,1345
+1343,2017,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.08130081301,0,-0.02,5.01,5.33,123,4.75,10
+1344,2017,Mar,Jasa Pendidikan,0.027312454480000005,0,-0.02,5.01,5.33,2746,4.75,75
+1345,2017,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.026228967340000003,0,-0.02,5.01,5.33,6062,4.75,159
+1346,2017,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04481856444,0,-0.02,5.01,5.33,35164,4.75,1576
+1347,2017,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.031992687389999996,0,-0.02,5.01,5.33,2188,4.75,70
+1348,2017,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.243902439,0,-0.02,5.01,5.33,123,4.75,30
+1349,2017,Mar,Kegiatan yang belum jelas batasannya,0.057142857139999996,0,-0.02,5.01,5.33,210,4.75,12
+1350,2017,Apr,Pertanian Perburuan dan Kehutanan,0.03747863124,0,0.09,5.01,5.33,69026,4.75,2587
+1351,2017,Apr,Perikanan,0.040760337060000006,0,0.09,5.01,5.33,5103,4.75,208
+1352,2017,Apr,Pertambangan dan Penggalian,0.1535113749,0,0.09,5.01,5.33,5055,4.75,776
+1353,2017,Apr,Industri Pengolahan,0.040491857310000004,0,0.09,5.01,5.33,87993,4.75,3563
+1354,2017,Apr,Listrik gas dan air,0.05366922234,0,0.09,5.01,5.33,2739,4.75,147
+1355,2017,Apr,Konstruksi,0.09772998805,0,0.09,5.01,5.33,46035,4.75,4499
+1356,2017,Apr,Perdagangan Besar dan Eceran,0.04402417302,0,0.09,5.01,5.33,434534,4.75,19130
+1357,2017,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.04677700912,0,0.09,5.01,5.33,30934,4.75,1447
+1358,2017,Apr,Transportasi pergudangan dan komunikasi,0.05465765501,0,0.09,5.01,5.33,27224,4.75,1488
+1359,2017,Apr,Perantara Keuangan,0.03734615928999999,0,0.09,5.01,5.33,14138,4.75,528
+1360,2017,Apr,Real Estate Usaha Persewaan,0.0357748569,0,0.09,5.01,5.33,37736,4.75,1350
+1361,2017,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.08474576270999999,0,0.09,5.01,5.33,118,4.75,10
+1362,2017,Apr,Jasa Pendidikan,0.023462495559999998,0,0.09,5.01,5.33,2813,4.75,66
+1363,2017,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.023918741809999998,0,0.09,5.01,5.33,6104,4.75,146
+1364,2017,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.045600858370000004,0,0.09,5.01,5.33,35416,4.75,1615
+1365,2017,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.03233151184,0,0.09,5.01,5.33,2196,4.75,71
+1366,2017,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.11111111109999999,0,0.09,5.01,5.33,81,4.75,9
+1367,2017,Apr,Kegiatan yang belum jelas batasannya,0.06153846154,0,0.09,5.01,5.33,195,4.75,12
+1368,2017,May,Pertanian Perburuan dan Kehutanan,0.03825315806,0,0.39,5.01,5.33,70138,4.75,2683
+1369,2017,May,Perikanan,0.04566297287,0,0.39,5.01,5.33,5234,4.75,239
+1370,2017,May,Pertambangan dan Penggalian,0.1477272727,0,0.39,5.01,5.33,4928,4.75,728
+1371,2017,May,Industri Pengolahan,0.04079182105,0,0.39,5.01,5.33,87444,4.75,3567
+1372,2017,May,Listrik gas dan air,0.046361682530000003,0,0.39,5.01,5.33,3257,4.75,151
+1373,2017,May,Konstruksi,0.08312839212999999,0,0.39,5.01,5.33,47168,4.75,3921
+1374,2017,May,Perdagangan Besar dan Eceran,0.044304227189999996,0,0.39,5.01,5.33,441854,4.75,19576
+1375,2017,May,Penyediaan akomodasi dan penyediaan makan minum,0.06172408319,0,0.39,5.01,5.33,31495,4.75,1944
+1376,2017,May,Transportasi pergudangan dan komunikasi,0.054278230499999996,0,0.39,5.01,5.33,27488,4.75,1492
+1377,2017,May,Perantara Keuangan,0.03537646613999999,0,0.39,5.01,5.33,15858,4.75,561
+1378,2017,May,Real Estate Usaha Persewaan,0.03658472252,0,0.39,5.01,5.33,37912,4.75,1387
+1379,2017,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.09401709402000001,0,0.39,5.01,5.33,117,4.75,11
+1380,2017,May,Jasa Pendidikan,0.02358324534,0,0.39,5.01,5.33,2841,4.75,67
+1381,2017,May,Jasa Kesehatan dan Kegiatan Sosial,0.01951219512,0,0.39,5.01,5.33,6150,4.75,120
+1382,2017,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.044133566490000005,0,0.39,5.01,5.33,36027,4.75,1590
+1383,2017,May,Jasa Perorangan yang Melayani Rumah Tangga,0.03045454545,0,0.39,5.01,5.33,2200,4.75,67
+1384,2017,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.1625,0,0.39,5.01,5.33,80,4.75,13
+1385,2017,May,Kegiatan yang belum jelas batasannya,0.06632653061,0,0.39,5.01,5.33,196,4.75,13
+1386,2017,Jun,Pertanian Perburuan dan Kehutanan,0.03683792953,0,0.69,5.01,5.33,73104,4.75,2693
+1387,2017,Jun,Perikanan,0.04269998135,0,0.69,5.01,5.33,5363,4.75,229
+1388,2017,Jun,Pertambangan dan Penggalian,0.1426291642,0,0.69,5.01,5.33,5013,4.75,715
+1389,2017,Jun,Industri Pengolahan,0.037911317769999994,0,0.69,5.01,5.33,89894,4.75,3408
+1390,2017,Jun,Listrik gas dan air,0.042679632630000006,0,0.69,5.01,5.33,3702,4.75,158
+1391,2017,Jun,Konstruksi,0.08141768387000001,0,0.69,5.01,5.33,48417,4.75,3942
+1392,2017,Jun,Perdagangan Besar dan Eceran,0.043741246680000005,0,0.69,5.01,5.33,443403,4.75,19395
+1393,2017,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.06052252365,0,0.69,5.01,5.33,31922,4.75,1932
+1394,2017,Jun,Transportasi pergudangan dan komunikasi,0.05351036741,0,0.69,5.01,5.33,27490,4.75,1471
+1395,2017,Jun,Perantara Keuangan,0.033546928010000004,0,0.69,5.01,5.33,15918,4.75,534
+1396,2017,Jun,Real Estate Usaha Persewaan,0.03636315413,0,0.69,5.01,5.33,37703,4.75,1371
+1397,2017,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.09243697479,0,0.69,5.01,5.33,119,4.75,11
+1398,2017,Jun,Jasa Pendidikan,0.02507062147,0,0.69,5.01,5.33,2832,4.75,71
+1399,2017,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.01811478038,0,0.69,5.01,5.33,6238,4.75,113
+1400,2017,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.04307450726,0,0.69,5.01,5.33,36936,4.75,1591
+1401,2017,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.029266096349999996,0,0.69,5.01,5.33,2221,4.75,65
+1402,2017,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.1772151899,0,0.69,5.01,5.33,79,4.75,14
+1403,2017,Jun,Kegiatan yang belum jelas batasannya,0.006711409396000001,0,0.69,5.01,5.33,447,4.75,3
+1404,2017,Jul,Pertanian Perburuan dan Kehutanan,0.03686617019,0,0.22,5.06,5.33,73048,4.75,2693
+1405,2017,Jul,Perikanan,0.042242990650000006,0,0.22,5.06,5.33,5350,4.75,226
+1406,2017,Jul,Pertambangan dan Penggalian,0.13271667,0,0.22,5.06,5.33,4973,4.75,660
+1407,2017,Jul,Industri Pengolahan,0.03790275269,0,0.22,5.06,5.33,86933,4.75,3295
+1408,2017,Jul,Listrik gas dan air,0.052369077310000005,0,0.22,5.06,5.33,3208,4.75,168
+1409,2017,Jul,Konstruksi,0.08214228680999999,0,0.22,5.06,5.33,50096,4.75,4115
+1410,2017,Jul,Perdagangan Besar dan Eceran,0.043978112939999994,0,0.22,5.06,5.33,441174,4.75,19402
+1411,2017,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.06110642024,0,0.22,5.06,5.33,31977,4.75,1954
+1412,2017,Jul,Transportasi pergudangan dan komunikasi,0.0527806563,0,0.22,5.06,5.33,28950,4.75,1528
+1413,2017,Jul,Perantara Keuangan,0.035312180139999996,0,0.22,5.06,5.33,15632,4.75,552
+1414,2017,Jul,Real Estate Usaha Persewaan,0.038336703199999995,0,0.22,5.06,5.33,37588,4.75,1441
+1415,2017,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.09243697479,0,0.22,5.06,5.33,119,4.75,11
+1416,2017,Jul,Jasa Pendidikan,0.024695776659999998,0,0.22,5.06,5.33,2794,4.75,69
+1417,2017,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.021441238109999997,0,0.22,5.06,5.33,6203,4.75,133
+1418,2017,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.042829314519999995,0,0.22,5.06,5.33,37988,4.75,1627
+1419,2017,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.03120759837,0,0.22,5.06,5.33,2211,4.75,69
+1420,2017,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.1857142857,0,0.22,5.06,5.33,70,4.75,13
+1421,2017,Jul,Kegiatan yang belum jelas batasannya,0.0037243947859999997,0,0.22,5.06,5.33,537,4.75,2
+1422,2017,Aug,Pertanian Perburuan dan Kehutanan,0.0314335151,0,-0.07,5.06,5.5,76288,4.5,2398
+1423,2017,Aug,Perikanan,0.040575433419999994,0,-0.07,5.06,5.5,5422,4.5,220
+1424,2017,Aug,Pertambangan dan Penggalian,0.1321162152,0,-0.07,5.06,5.5,5094,4.5,673
+1425,2017,Aug,Industri Pengolahan,0.03592343228,0,-0.07,5.06,5.5,88967,4.5,3196
+1426,2017,Aug,Listrik gas dan air,0.04280866614,0,-0.07,5.06,5.5,3831,4.5,164
+1427,2017,Aug,Konstruksi,0.07870326097,0,-0.07,5.06,5.5,52285,4.5,4115
+1428,2017,Aug,Perdagangan Besar dan Eceran,0.041339141319999995,0,-0.07,5.06,5.5,443986,4.5,18354
+1429,2017,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.061136588990000004,0,-0.07,5.06,5.5,32272,4.5,1973
+1430,2017,Aug,Transportasi pergudangan dan komunikasi,0.05226304039,0,-0.07,5.06,5.5,29562,4.5,1545
+1431,2017,Aug,Perantara Keuangan,0.03194751042,0,-0.07,5.06,5.5,16308,4.5,521
+1432,2017,Aug,Real Estate Usaha Persewaan,0.037370757250000004,0,-0.07,5.06,5.5,37623,4.5,1406
+1433,2017,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0780141844,0,-0.07,5.06,5.5,141,4.5,11
+1434,2017,Aug,Jasa Pendidikan,0.02470007057,0,-0.07,5.06,5.5,2834,4.5,70
+1435,2017,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.021148527740000003,0,-0.07,5.06,5.5,6147,4.5,130
+1436,2017,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03807687363,0,-0.07,5.06,5.5,38895,4.5,1481
+1437,2017,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.025664115260000002,0,-0.07,5.06,5.5,2221,4.5,57
+1438,2017,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.22058823530000002,0,-0.07,5.06,5.5,68,4.5,15
+1439,2017,Aug,Kegiatan yang belum jelas batasannya,0.005597014925,0,-0.07,5.06,5.5,536,4.5,3
+1440,2017,Sep,Pertanian Perburuan dan Kehutanan,0.034167744689999995,0,0.13,5.06,5.5,74983,4.25,2562
+1441,2017,Sep,Perikanan,0.04527051895,0,0.13,5.06,5.5,5434,4.25,246
+1442,2017,Sep,Pertambangan dan Penggalian,0.1310661062,0,0.13,5.06,5.5,5234,4.25,686
+1443,2017,Sep,Industri Pengolahan,0.03647571994,0,0.13,5.06,5.5,89868,4.25,3278
+1444,2017,Sep,Listrik gas dan air,0.055335968379999996,0,0.13,5.06,5.5,3036,4.25,168
+1445,2017,Sep,Konstruksi,0.07559607814,0,0.13,5.06,5.5,53852,4.25,4071
+1446,2017,Sep,Perdagangan Besar dan Eceran,0.04222742693,0,0.13,5.06,5.5,447458,4.25,18895
+1447,2017,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.05059700097,0,0.13,5.06,5.5,32077,4.25,1623
+1448,2017,Sep,Transportasi pergudangan dan komunikasi,0.058231634770000006,0,0.13,5.06,5.5,29417,4.25,1713
+1449,2017,Sep,Perantara Keuangan,0.033744533650000005,0,0.13,5.06,5.5,15321,4.25,517
+1450,2017,Sep,Real Estate Usaha Persewaan,0.03599280144,0,0.13,5.06,5.5,38341,4.25,1380
+1451,2017,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.06918238994,0,0.13,5.06,5.5,159,4.25,11
+1452,2017,Sep,Jasa Pendidikan,0.02319044273,0,0.13,5.06,5.5,2846,4.25,66
+1453,2017,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.02030375699,0,0.13,5.06,5.5,6255,4.25,127
+1454,2017,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03787743434,0,0.13,5.06,5.5,39179,4.25,1484
+1455,2017,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.027564392230000002,0,0.13,5.06,5.5,2213,4.25,61
+1456,2017,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.22058823530000002,0,0.13,5.06,5.5,68,4.25,15
+1457,2017,Sep,Kegiatan yang belum jelas batasannya,0.007220216605999999,0,0.13,5.06,5.5,554,4.25,4
+1458,2017,Oct,Pertanian Perburuan dan Kehutanan,0.03252729286,0,0.01,5.19,5.5,75844,4.25,2467
+1459,2017,Oct,Perikanan,0.04237891738,0,0.01,5.19,5.5,5616,4.25,238
+1460,2017,Oct,Pertambangan dan Penggalian,0.1278138115,0,0.01,5.19,5.5,5242,4.25,670
+1461,2017,Oct,Industri Pengolahan,0.03702481883,0,0.01,5.19,5.5,90939,4.25,3367
+1462,2017,Oct,Listrik gas dan air,0.03707890572,0,0.01,5.19,5.5,4423,4.25,164
+1463,2017,Oct,Konstruksi,0.07430164524,0,0.01,5.19,5.5,54521,4.25,4051
+1464,2017,Oct,Perdagangan Besar dan Eceran,0.04170230493,0,0.01,5.19,5.5,451294,4.25,18820
+1465,2017,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.05464315904,0,0.01,5.19,5.5,33124,4.25,1810
+1466,2017,Oct,Transportasi pergudangan dan komunikasi,0.08774345858999999,0,0.01,5.19,5.5,30498,4.25,2676
+1467,2017,Oct,Perantara Keuangan,0.03505387788,0,0.01,5.19,5.5,15034,4.25,527
+1468,2017,Oct,Real Estate Usaha Persewaan,0.03823171836,0,0.01,5.19,5.5,38659,4.25,1478
+1469,2017,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.07058823529,0,0.01,5.19,5.5,170,4.25,12
+1470,2017,Oct,Jasa Pendidikan,0.02347582341,0,0.01,5.19,5.5,2854,4.25,67
+1471,2017,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.01894301178,0,0.01,5.19,5.5,6282,4.25,119
+1472,2017,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03529031134,0,0.01,5.19,5.5,40181,4.25,1418
+1473,2017,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.02633928571,0,0.01,5.19,5.5,2240,4.25,59
+1474,2017,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.3384615385,0,0.01,5.19,5.5,65,4.25,22
+1475,2017,Oct,Kegiatan yang belum jelas batasannya,0.007326007326,0,0.01,5.19,5.5,546,4.25,4
+1476,2017,Nov,Pertanian Perburuan dan Kehutanan,0.030954406039999997,0,0.2,5.19,5.5,77598,4.25,2402
+1477,2017,Nov,Perikanan,0.04131944444,0,0.2,5.19,5.5,5760,4.25,238
+1478,2017,Nov,Pertambangan dan Penggalian,0.1406131718,0,0.2,5.19,5.5,5284,4.25,743
+1479,2017,Nov,Industri Pengolahan,0.041019991580000005,0,0.2,5.19,5.5,92589,4.25,3798
+1480,2017,Nov,Listrik gas dan air,0.04647806005,0,0.2,5.19,5.5,3464,4.25,161
+1481,2017,Nov,Konstruksi,0.07078395705,0,0.2,5.19,5.5,56623,4.25,4008
+1482,2017,Nov,Perdagangan Besar dan Eceran,0.04046640731,0,0.2,5.19,5.5,457540,4.25,18515
+1483,2017,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.05032254211,0,0.2,5.19,5.5,33484,4.25,1685
+1484,2017,Nov,Transportasi pergudangan dan komunikasi,0.08493512347000001,0,0.2,5.19,5.5,31059,4.25,2638
+1485,2017,Nov,Perantara Keuangan,0.032780927460000005,0,0.2,5.19,5.5,13758,4.25,451
+1486,2017,Nov,Real Estate Usaha Persewaan,0.03753459119,0,0.2,5.19,5.5,39750,4.25,1492
+1487,2017,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.06043956044,0,0.2,5.19,5.5,182,4.25,11
+1488,2017,Nov,Jasa Pendidikan,0.023336816439999998,0,0.2,5.19,5.5,2871,4.25,67
+1489,2017,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.01590551181,0,0.2,5.19,5.5,6350,4.25,101
+1490,2017,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03244457187,0,0.2,5.19,5.5,41856,4.25,1358
+1491,2017,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.02196836555,0,0.2,5.19,5.5,2276,4.25,50
+1492,2017,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.223880597,0,0.2,5.19,5.5,67,4.25,15
+1493,2017,Nov,Kegiatan yang belum jelas batasannya,0.003418803419,0,0.2,5.19,5.5,585,4.25,2
+1494,2017,Dec,Pertanian Perburuan dan Kehutanan,0.030788380689999995,0,0.71,5.19,5.5,78731,4.25,2424
+1495,2017,Dec,Perikanan,0.03238866397,0,0.71,5.19,5.5,5928,4.25,192
+1496,2017,Dec,Pertambangan dan Penggalian,0.20743494420000003,0,0.71,5.19,5.5,5380,4.25,1116
+1497,2017,Dec,Industri Pengolahan,0.033506841960000006,0,0.71,5.19,5.5,93175,4.25,3122
+1498,2017,Dec,Listrik gas dan air,0.0469667319,0,0.71,5.19,5.5,3577,4.25,168
+1499,2017,Dec,Konstruksi,0.06440629368,0,0.71,5.19,5.5,55802,4.25,3594
+1500,2017,Dec,Perdagangan Besar dan Eceran,0.03781479008,0,0.71,5.19,5.5,462729,4.25,17498
+1501,2017,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.03295283869,0,0.71,5.19,5.5,33290,4.25,1097
+1502,2017,Dec,Transportasi pergudangan dan komunikasi,0.0835851277,0,0.71,5.19,5.5,31441,4.25,2628
+1503,2017,Dec,Perantara Keuangan,0.029765545360000003,0,0.71,5.19,5.5,14715,4.25,438
+1504,2017,Dec,Real Estate Usaha Persewaan,0.033084386119999996,0,0.71,5.19,5.5,42981,4.25,1422
+1505,2017,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0,0,0.71,5.19,5.5,176,4.25,0
+1506,2017,Dec,Jasa Pendidikan,0.020942408380000003,0,0.71,5.19,5.5,2865,4.25,60
+1507,2017,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.014146638269999998,0,0.71,5.19,5.5,6574,4.25,93
+1508,2017,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02967908175,0,0.71,5.19,5.5,42690,4.25,1267
+1509,2017,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.01862278042,0,0.71,5.19,5.5,2309,4.25,43
+1510,2017,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.21538461539999998,0,0.71,5.19,5.5,65,4.25,14
+1511,2017,Dec,Kegiatan yang belum jelas batasannya,0.001808318264,0,0.71,5.19,5.5,553,4.25,1
+1512,2018,Jan,Pertanian Perburuan dan Kehutanan,0.03237993813,0,0.62,5.06,5.5,78876,4.25,2554
+1513,2018,Jan,Perikanan,0.03602058319,0,0.62,5.06,5.5,5830,4.25,210
+1514,2018,Jan,Pertambangan dan Penggalian,0.21766314969999997,0,0.62,5.06,5.5,5118,4.25,1114
+1515,2018,Jan,Industri Pengolahan,0.038645136239999996,0,0.62,5.06,5.5,87566,4.25,3384
+1516,2018,Jan,Listrik gas dan air,0.08662832494999999,0,0.62,5.06,5.5,2782,4.25,241
+1517,2018,Jan,Konstruksi,0.1067173026,0,0.62,5.06,5.5,49767,4.25,5311
+1518,2018,Jan,Perdagangan Besar dan Eceran,0.040595575319999994,0,0.62,5.06,5.5,453276,4.25,18401
+1519,2018,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.03477916298,0,0.62,5.06,5.5,32807,4.25,1141
+1520,2018,Jan,Transportasi pergudangan dan komunikasi,0.08714068613,0,0.62,5.06,5.5,30927,4.25,2695
+1521,2018,Jan,Perantara Keuangan,0.030790861160000006,0,0.62,5.06,5.5,14225,4.25,438
+1522,2018,Jan,Real Estate Usaha Persewaan,0.036748243650000005,0,0.62,5.06,5.5,38859,4.25,1428
+1523,2018,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01129943503,0,0.62,5.06,5.5,177,4.25,2
+1524,2018,Jan,Jasa Pendidikan,0.0206077541,0,0.62,5.06,5.5,2863,4.25,59
+1525,2018,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.017476028459999998,0,0.62,5.06,5.5,6466,4.25,113
+1526,2018,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03145940608,0,0.62,5.06,5.5,42531,4.25,1338
+1527,2018,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.0227571116,0,0.62,5.06,5.5,2285,4.25,52
+1528,2018,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.24561403510000002,0,0.62,5.06,5.5,57,4.25,14
+1529,2018,Jan,Kegiatan yang belum jelas batasannya,0.0396432111,0,0.62,5.06,5.5,1009,4.25,40
+1530,2018,Feb,Pertanian Perburuan dan Kehutanan,0.03186617956,0,0.17,5.06,5.13,79928,4.25,2547
+1531,2018,Feb,Perikanan,0.03270482229,0,0.17,5.06,5.13,5993,4.25,196
+1532,2018,Feb,Pertambangan dan Penggalian,0.22940603699999998,0,0.17,5.06,5.13,5135,4.25,1178
+1533,2018,Feb,Industri Pengolahan,0.03899446662,0,0.17,5.06,5.13,88192,4.25,3439
+1534,2018,Feb,Listrik gas dan air,0.06979280262,0,0.17,5.06,5.13,2751,4.25,192
+1535,2018,Feb,Konstruksi,0.10575275890000001,0,0.17,5.06,5.13,50202,4.25,5309
+1536,2018,Feb,Perdagangan Besar dan Eceran,0.04200106892,0,0.17,5.06,5.13,456536,4.25,19175
+1537,2018,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.0342780027,0,0.17,5.06,5.13,33345,4.25,1143
+1538,2018,Feb,Transportasi pergudangan dan komunikasi,0.08108972309,0,0.17,5.06,5.13,31274,4.25,2536
+1539,2018,Feb,Perantara Keuangan,0.03198808426000001,0,0.17,5.06,5.13,14099,4.25,451
+1540,2018,Feb,Real Estate Usaha Persewaan,0.03768286145,0,0.17,5.06,5.13,39169,4.25,1476
+1541,2018,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.02366863905,0,0.17,5.06,5.13,169,4.25,4
+1542,2018,Feb,Jasa Pendidikan,0.02067539628,0,0.17,5.06,5.13,2902,4.25,60
+1543,2018,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.02019892884,0,0.17,5.06,5.13,6535,4.25,132
+1544,2018,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03275993795,0,0.17,5.06,5.13,43193,4.25,1415
+1545,2018,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.024186455580000002,0,0.17,5.06,5.13,2274,4.25,55
+1546,2018,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.2413793103,0,0.17,5.06,5.13,58,4.25,14
+1547,2018,Feb,Kegiatan yang belum jelas batasannya,0.03936269916,0,0.17,5.06,5.13,1067,4.25,42
+1548,2018,Mar,Pertanian Perburuan dan Kehutanan,0.03180016931,0,0.2,5.06,5.13,81509,4.25,2592
+1549,2018,Mar,Perikanan,0.03112840467,0,0.2,5.06,5.13,6168,4.25,192
+1550,2018,Mar,Pertambangan dan Penggalian,0.165838395,0,0.2,5.06,5.13,5433,4.25,901
+1551,2018,Mar,Industri Pengolahan,0.03902773023,0,0.2,5.06,5.13,90551,4.25,3534
+1552,2018,Mar,Listrik gas dan air,0.20480185129999998,0,0.2,5.06,5.13,3457,4.25,708
+1553,2018,Mar,Konstruksi,0.10141760300000001,0,0.2,5.06,5.13,51707,4.25,5244
+1554,2018,Mar,Perdagangan Besar dan Eceran,0.040851148389999994,0,0.2,5.06,5.13,462998,4.25,18914
+1555,2018,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.03462236909,0,0.2,5.06,5.13,33591,4.25,1163
+1556,2018,Mar,Transportasi pergudangan dan komunikasi,0.07838962855,0,0.2,5.06,5.13,31471,4.25,2467
+1557,2018,Mar,Perantara Keuangan,0.03191184888,0,0.2,5.06,5.13,13976,4.25,446
+1558,2018,Mar,Real Estate Usaha Persewaan,0.036481526789999996,0,0.2,5.06,5.13,40870,4.25,1491
+1559,2018,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.021390374330000003,0,0.2,5.06,5.13,187,4.25,4
+1560,2018,Mar,Jasa Pendidikan,0.01580507079,0,0.2,5.06,5.13,3037,4.25,48
+1561,2018,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.01648186994,0,0.2,5.06,5.13,6674,4.25,110
+1562,2018,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.0306742878,0,0.2,5.06,5.13,43913,4.25,1347
+1563,2018,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.02607158639,0,0.2,5.06,5.13,2263,4.25,59
+1564,2018,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.1960784314,0,0.2,5.06,5.13,51,4.25,10
+1565,2018,Mar,Kegiatan yang belum jelas batasannya,0.03730017762,0,0.2,5.06,5.13,1126,4.25,42
+1566,2018,Apr,Pertanian Perburuan dan Kehutanan,0.03058491209,0,0.1,5.27,5.13,82132,4.25,2512
+1567,2018,Apr,Perikanan,0.029749724539999998,0,0.1,5.27,5.13,6353,4.25,189
+1568,2018,Apr,Pertambangan dan Penggalian,0.07215862632999999,0,0.1,5.27,5.13,4892,4.25,353
+1569,2018,Apr,Industri Pengolahan,0.03805701938,0,0.1,5.27,5.13,90706,4.25,3452
+1570,2018,Apr,Listrik gas dan air,0.1854460094,0,0.1,5.27,5.13,3408,4.25,632
+1571,2018,Apr,Konstruksi,0.1009964938,0,0.1,5.27,5.13,54190,4.25,5473
+1572,2018,Apr,Perdagangan Besar dan Eceran,0.041002755099999996,0,0.1,5.27,5.13,472578,4.25,19377
+1573,2018,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.03937337439,0,0.1,5.27,5.13,33449,4.25,1317
+1574,2018,Apr,Transportasi pergudangan dan komunikasi,0.06973449147,0,0.1,5.27,5.13,32466,4.25,2264
+1575,2018,Apr,Perantara Keuangan,0.01732085487,0,0.1,5.27,5.13,14318,4.25,248
+1576,2018,Apr,Real Estate Usaha Persewaan,0.03709900342,0,0.1,5.27,5.13,41241,4.25,1530
+1577,2018,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.014778325119999998,0,0.1,5.27,5.13,203,4.25,3
+1578,2018,Apr,Jasa Pendidikan,0.02058150931,0,0.1,5.27,5.13,3061,4.25,63
+1579,2018,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.01801801802,0,0.1,5.27,5.13,6882,4.25,124
+1580,2018,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03368360123,0,0.1,5.27,5.13,44918,4.25,1513
+1581,2018,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.02664919179,0,0.1,5.27,5.13,2289,4.25,61
+1582,2018,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.3333333333,0,0.1,5.27,5.13,39,4.25,13
+1583,2018,Apr,Kegiatan yang belum jelas batasannya,0.01675977654,0,0.1,5.27,5.13,179,4.25,3
+1584,2018,May,Pertanian Perburuan dan Kehutanan,0.03021934955,0,0.21,5.27,5.13,82927,4.75,2506
+1585,2018,May,Perikanan,0.033390277989999995,0,0.21,5.27,5.13,6439,4.75,215
+1586,2018,May,Pertambangan dan Penggalian,0.1633362294,0,0.21,5.27,5.13,4604,4.75,752
+1587,2018,May,Industri Pengolahan,0.042253675539999994,0,0.21,5.27,5.13,91211,4.75,3854
+1588,2018,May,Listrik gas dan air,0.1891413396,0,0.21,5.27,5.13,3389,4.75,641
+1589,2018,May,Konstruksi,0.09821222094000001,0,0.21,5.27,5.13,56215,4.75,5521
+1590,2018,May,Perdagangan Besar dan Eceran,0.04180568204,0,0.21,5.27,5.13,479863,4.75,20061
+1591,2018,May,Penyediaan akomodasi dan penyediaan makan minum,0.04030801125,0,0.21,5.27,5.13,33765,4.75,1361
+1592,2018,May,Transportasi pergudangan dan komunikasi,0.06960097021,0,0.21,5.27,5.13,33807,4.75,2353
+1593,2018,May,Perantara Keuangan,0.01884057971,0,0.21,5.27,5.13,14490,4.75,273
+1594,2018,May,Real Estate Usaha Persewaan,0.03784539552,0,0.21,5.27,5.13,42198,4.75,1597
+1595,2018,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.012345679009999999,0,0.21,5.27,5.13,243,4.75,3
+1596,2018,May,Jasa Pendidikan,0.018404907980000003,0,0.21,5.27,5.13,3097,4.75,57
+1597,2018,May,Jasa Kesehatan dan Kegiatan Sosial,0.01809824763,0,0.21,5.27,5.13,6962,4.75,126
+1598,2018,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03204930663,0,0.21,5.27,5.13,45430,4.75,1456
+1599,2018,May,Jasa Perorangan yang Melayani Rumah Tangga,0.02850877193,0,0.21,5.27,5.13,2280,4.75,65
+1600,2018,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.4583333333,0,0.21,5.27,5.13,24,4.75,11
+1601,2018,May,Kegiatan yang belum jelas batasannya,0.01435406699,0,0.21,5.27,5.13,209,4.75,3
+1602,2018,Jun,Pertanian Perburuan dan Kehutanan,0.030189719439999995,0,0.59,5.27,5.13,83439,5.25,2519
+1603,2018,Jun,Perikanan,0.03295042322,0,0.59,5.27,5.13,6616,5.25,218
+1604,2018,Jun,Pertambangan dan Penggalian,0.07895315592999999,0,0.59,5.27,5.13,4547,5.25,359
+1605,2018,Jun,Industri Pengolahan,0.04087564622,0,0.59,5.27,5.13,93234,5.25,3811
+1606,2018,Jun,Listrik gas dan air,0.1995996568,0,0.59,5.27,5.13,3497,5.25,698
+1607,2018,Jun,Konstruksi,0.09505559007999999,0,0.59,5.27,5.13,57924,5.25,5506
+1608,2018,Jun,Perdagangan Besar dan Eceran,0.04140342115,0,0.59,5.27,5.13,480540,5.25,19896
+1609,2018,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.039211102989999996,0,0.59,5.27,5.13,34225,5.25,1342
+1610,2018,Jun,Transportasi pergudangan dan komunikasi,0.06979684238,0,0.59,5.27,5.13,34013,5.25,2374
+1611,2018,Jun,Perantara Keuangan,0.0235997685,0,0.59,5.27,5.13,15551,5.25,367
+1612,2018,Jun,Real Estate Usaha Persewaan,0.038010180039999994,0,0.59,5.27,5.13,42436,5.25,1613
+1613,2018,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01351351351,0,0.59,5.27,5.13,296,5.25,4
+1614,2018,Jun,Jasa Pendidikan,0.02080050425,0,0.59,5.27,5.13,3173,5.25,66
+1615,2018,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.014126289019999998,0,0.59,5.27,5.13,7079,5.25,100
+1616,2018,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03210479574,0,0.59,5.27,5.13,45040,5.25,1446
+1617,2018,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.027641551489999996,0,0.59,5.27,5.13,2243,5.25,62
+1618,2018,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.59,5.27,5.13,4,5.25,0
+1619,2018,Jun,Kegiatan yang belum jelas batasannya,0.01369863014,0,0.59,5.27,5.13,219,5.25,3
+1620,2018,Jul,Pertanian Perburuan dan Kehutanan,0.029643402769999997,1,0.28,5.17,5.13,84437,5.25,2503
+1621,2018,Jul,Perikanan,0.03244478294,1,0.28,5.17,5.13,6565,5.25,213
+1622,2018,Jul,Pertambangan dan Penggalian,0.06846805587,1,0.28,5.17,5.13,4367,5.25,299
+1623,2018,Jul,Industri Pengolahan,0.03992263224,1,0.28,5.17,5.13,92028,5.25,3674
+1624,2018,Jul,Listrik gas dan air,0.2014577259,1,0.28,5.17,5.13,3430,5.25,691
+1625,2018,Jul,Konstruksi,0.09423784638,1,0.28,5.17,5.13,59509,5.25,5608
+1626,2018,Jul,Perdagangan Besar dan Eceran,0.04027951096,1,0.28,5.17,5.13,478407,5.25,19270
+1627,2018,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.03714466567,1,0.28,5.17,5.13,34756,5.25,1291
+1628,2018,Jul,Transportasi pergudangan dan komunikasi,0.0396174039,1,0.28,5.17,5.13,33142,5.25,1313
+1629,2018,Jul,Perantara Keuangan,0.019176536940000002,1,0.28,5.17,5.13,14184,5.25,272
+1630,2018,Jul,Real Estate Usaha Persewaan,0.04208430913,1,0.28,5.17,5.13,42700,5.25,1797
+1631,2018,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.009389671362,1,0.28,5.17,5.13,426,5.25,4
+1632,2018,Jul,Jasa Pendidikan,0.021633839199999998,1,0.28,5.17,5.13,3097,5.25,67
+1633,2018,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.01451905626,1,0.28,5.17,5.13,7163,5.25,104
+1634,2018,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03167283011,1,0.28,5.17,5.13,45970,5.25,1456
+1635,2018,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.0273419991,1,0.28,5.17,5.13,2231,5.25,61
+1636,2018,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,1,0.28,5.17,5.13,4,5.25,0
+1637,2018,Jul,Kegiatan yang belum jelas batasannya,0.013157894740000002,1,0.28,5.17,5.13,228,5.25,3
+1638,2018,Aug,Pertanian Perburuan dan Kehutanan,0.027522827830000002,0,-0.05,5.17,5.34,84984,5.5,2339
+1639,2018,Aug,Perikanan,0.030399274049999998,0,-0.05,5.17,5.34,6612,5.5,201
+1640,2018,Aug,Pertambangan dan Penggalian,0.06491188936,0,-0.05,5.17,5.34,4483,5.5,291
+1641,2018,Aug,Industri Pengolahan,0.038322107339999995,0,-0.05,5.17,5.34,93236,5.5,3573
+1642,2018,Aug,Listrik gas dan air,0.03759398496,0,-0.05,5.17,5.34,2926,5.5,110
+1643,2018,Aug,Konstruksi,0.07283485001000001,0,-0.05,5.17,5.34,57802,5.5,4210
+1644,2018,Aug,Perdagangan Besar dan Eceran,0.04005432084,0,-0.05,5.17,5.34,479374,5.5,19201
+1645,2018,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.03950459727,0,-0.05,5.17,5.34,34477,5.5,1362
+1646,2018,Aug,Transportasi pergudangan dan komunikasi,0.03996402338,0,-0.05,5.17,5.34,33355,5.5,1333
+1647,2018,Aug,Perantara Keuangan,0.01946575732,0,-0.05,5.17,5.34,14076,5.5,274
+1648,2018,Aug,Real Estate Usaha Persewaan,0.04116363299,0,-0.05,5.17,5.34,43072,5.5,1773
+1649,2018,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.009803921569,0,-0.05,5.17,5.34,408,5.5,4
+1650,2018,Aug,Jasa Pendidikan,0.01908635795,0,-0.05,5.17,5.34,3196,5.5,61
+1651,2018,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.01565747541,0,-0.05,5.17,5.34,7217,5.5,113
+1652,2018,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.03156778744,0,-0.05,5.17,5.34,46218,5.5,1459
+1653,2018,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.02367128182,0,-0.05,5.17,5.34,2239,5.5,53
+1654,2018,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,-0.05,5.17,5.34,5,5.5,0
+1655,2018,Aug,Kegiatan yang belum jelas batasannya,0.01287553648,0,-0.05,5.17,5.34,233,5.5,3
+1656,2018,Sep,Pertanian Perburuan dan Kehutanan,0.026573359879999998,0,-0.18,5.17,5.34,83881,5.75,2229
+1657,2018,Sep,Perikanan,0.029137701519999996,0,-0.18,5.17,5.34,6761,5.75,197
+1658,2018,Sep,Pertambangan dan Penggalian,0.06302335831,0,-0.18,5.17,5.34,4538,5.75,286
+1659,2018,Sep,Industri Pengolahan,0.03845828755,0,-0.18,5.17,5.34,94648,5.75,3640
+1660,2018,Sep,Listrik gas dan air,0.04254583189,0,-0.18,5.17,5.34,2891,5.75,123
+1661,2018,Sep,Konstruksi,0.06738047809,0,-0.18,5.17,5.34,60240,5.75,4059
+1662,2018,Sep,Perdagangan Besar dan Eceran,0.0389258438,0,-0.18,5.17,5.34,487080,5.75,18960
+1663,2018,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.03856460445,0,-0.18,5.17,5.34,34332,5.75,1324
+1664,2018,Sep,Transportasi pergudangan dan komunikasi,0.037163273239999996,0,-0.18,5.17,5.34,33447,5.75,1243
+1665,2018,Sep,Perantara Keuangan,0.01994709373,0,-0.18,5.17,5.34,13987,5.75,279
+1666,2018,Sep,Real Estate Usaha Persewaan,0.040794743710000005,0,-0.18,5.17,5.34,44442,5.75,1813
+1667,2018,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.008676789588,0,-0.18,5.17,5.34,461,5.75,4
+1668,2018,Sep,Jasa Pendidikan,0.02022401991,0,-0.18,5.17,5.34,3214,5.75,65
+1669,2018,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.0147139714,0,-0.18,5.17,5.34,7272,5.75,107
+1670,2018,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.028053093480000003,0,-0.18,5.17,5.34,45806,5.75,1285
+1671,2018,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.02559497081,0,-0.18,5.17,5.34,2227,5.75,57
+1672,2018,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,-0.18,5.17,5.34,10,5.75,0
+1673,2018,Sep,Kegiatan yang belum jelas batasannya,0.014150943400000001,0,-0.18,5.17,5.34,212,5.75,3
+1674,2018,Oct,Pertanian Perburuan dan Kehutanan,0.026182402909999996,0,0.28,5.18,5.34,85821,5.75,2247
+1675,2018,Oct,Perikanan,0.028732313019999997,0,0.28,5.18,5.34,6926,5.75,199
+1676,2018,Oct,Pertambangan dan Penggalian,0.052786788560000006,0,0.28,5.18,5.34,6782,5.75,358
+1677,2018,Oct,Industri Pengolahan,0.03833696668,0,0.28,5.18,5.34,96330,5.75,3693
+1678,2018,Oct,Listrik gas dan air,0.03865267808,0,0.28,5.18,5.34,3622,5.75,140
+1679,2018,Oct,Konstruksi,0.06561741445000001,0,0.28,5.18,5.34,63855,5.75,4190
+1680,2018,Oct,Perdagangan Besar dan Eceran,0.03848937123,0,0.28,5.18,5.34,493331,5.75,18988
+1681,2018,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.036774071160000005,0,0.28,5.18,5.34,36901,5.75,1357
+1682,2018,Oct,Transportasi pergudangan dan komunikasi,0.03461411063,0,0.28,5.18,5.34,36228,5.75,1254
+1683,2018,Oct,Perantara Keuangan,0.02272727273,0,0.28,5.18,5.34,13904,5.75,316
+1684,2018,Oct,Real Estate Usaha Persewaan,0.03913675736,0,0.28,5.18,5.34,47449,5.75,1857
+1685,2018,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.005825242718,0,0.28,5.18,5.34,515,5.75,3
+1686,2018,Oct,Jasa Pendidikan,0.01991916859,0,0.28,5.18,5.34,3464,5.75,69
+1687,2018,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.01520962836,0,0.28,5.18,5.34,7561,5.75,115
+1688,2018,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02583358366,0,0.28,5.18,5.34,46606,5.75,1204
+1689,2018,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.02604400539,0,0.28,5.18,5.34,2227,5.75,58
+1690,2018,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.28,5.18,5.34,4,5.75,0
+1691,2018,Oct,Kegiatan yang belum jelas batasannya,0.008032128514,0,0.28,5.18,5.34,249,5.75,2
+1692,2018,Nov,Pertanian Perburuan dan Kehutanan,0.026335056969999996,0,0.27,5.18,5.34,87412,6.0,2302
+1693,2018,Nov,Perikanan,0.028195219689999995,0,0.27,5.18,5.34,6987,6.0,197
+1694,2018,Nov,Pertambangan dan Penggalian,0.04457271124,0,0.27,5.18,5.34,6237,6.0,278
+1695,2018,Nov,Industri Pengolahan,0.03810034327,0,0.27,5.18,5.34,97007,6.0,3696
+1696,2018,Nov,Listrik gas dan air,0.038660495510000004,0,0.27,5.18,5.34,3673,6.0,142
+1697,2018,Nov,Konstruksi,0.06569023252999999,0,0.27,5.18,5.34,63906,6.0,4198
+1698,2018,Nov,Perdagangan Besar dan Eceran,0.038262311349999995,0,0.27,5.18,5.34,495762,6.0,18969
+1699,2018,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.03613418186,0,0.27,5.18,5.34,37084,6.0,1340
+1700,2018,Nov,Transportasi pergudangan dan komunikasi,0.034921950550000004,0,0.27,5.18,5.34,36195,6.0,1264
+1701,2018,Nov,Perantara Keuangan,0.019702276709999998,0,0.27,5.18,5.34,13704,6.0,270
+1702,2018,Nov,Real Estate Usaha Persewaan,0.038322382099999996,0,0.27,5.18,5.34,48092,6.0,1843
+1703,2018,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.00625,0,0.27,5.18,5.34,480,6.0,3
+1704,2018,Nov,Jasa Pendidikan,0.02170087977,0,0.27,5.18,5.34,3410,6.0,74
+1705,2018,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.015661403049999998,0,0.27,5.18,5.34,7726,6.0,121
+1706,2018,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02540129781,0,0.27,5.18,5.34,46848,6.0,1190
+1707,2018,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.026777469989999997,0,0.27,5.18,5.34,2166,6.0,58
+1708,2018,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.27,5.18,5.34,4,6.0,0
+1709,2018,Nov,Kegiatan yang belum jelas batasannya,0.008547008547000001,0,0.27,5.18,5.34,234,6.0,2
+1710,2018,Dec,Pertanian Perburuan dan Kehutanan,0.023146493969999998,0,0.62,5.18,5.34,89560,6.0,2073
+1711,2018,Dec,Perikanan,0.02375,0,0.62,5.18,5.34,7200,6.0,171
+1712,2018,Dec,Pertambangan dan Penggalian,0.0411622276,0,0.62,5.18,5.34,6608,6.0,272
+1713,2018,Dec,Industri Pengolahan,0.03324312316,0,0.62,5.18,5.34,99028,6.0,3292
+1714,2018,Dec,Listrik gas dan air,0.031344323189999995,0,0.62,5.18,5.34,4307,6.0,135
+1715,2018,Dec,Konstruksi,0.06313078806,0,0.62,5.18,5.34,62521,6.0,3947
+1716,2018,Dec,Perdagangan Besar dan Eceran,0.03439172515,0,0.62,5.18,5.34,499248,6.0,17170
+1717,2018,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.03149668664,0,0.62,5.18,5.34,37877,6.0,1193
+1718,2018,Dec,Transportasi pergudangan dan komunikasi,0.03083607637,0,0.62,5.18,5.34,37975,6.0,1171
+1719,2018,Dec,Perantara Keuangan,0.020655314440000003,0,0.62,5.18,5.34,16267,6.0,336
+1720,2018,Dec,Real Estate Usaha Persewaan,0.03090694838,0,0.62,5.18,5.34,48371,6.0,1495
+1721,2018,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0037593984960000004,0,0.62,5.18,5.34,532,6.0,2
+1722,2018,Dec,Jasa Pendidikan,0.016611295680000002,0,0.62,5.18,5.34,3612,6.0,60
+1723,2018,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.014758332309999999,0,0.62,5.18,5.34,8131,6.0,120
+1724,2018,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.0199433893,0,0.62,5.18,5.34,46281,6.0,923
+1725,2018,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.021828103680000002,0,0.62,5.18,5.34,2199,6.0,48
+1726,2018,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.62,5.18,5.34,4,6.0,0
+1727,2018,Dec,Kegiatan yang belum jelas batasannya,0.04761904762,0,0.62,5.18,5.34,252,6.0,12
+1728,2019,Jan,Pertanian Perburuan dan Kehutanan,0.024935569169999998,0,0.32,5.07,5.34,89631,6.0,2235
+1729,2019,Jan,Perikanan,0.027291812460000002,0,0.32,5.07,5.34,7145,6.0,195
+1730,2019,Jan,Pertambangan dan Penggalian,0.03873075128,0,0.32,5.07,5.34,6429,6.0,249
+1731,2019,Jan,Industri Pengolahan,0.03656928592,0,0.32,5.07,5.34,97076,6.0,3550
+1732,2019,Jan,Listrik gas dan air,0.03361945637,0,0.32,5.07,5.34,4194,6.0,141
+1733,2019,Jan,Konstruksi,0.07543428672000001,0,0.32,5.07,5.34,56990,6.0,4299
+1734,2019,Jan,Perdagangan Besar dan Eceran,0.03811005565,0,0.32,5.07,5.34,493623,6.0,18812
+1735,2019,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.032663924510000004,0,0.32,5.07,5.34,37197,6.0,1215
+1736,2019,Jan,Transportasi pergudangan dan komunikasi,0.03276689377,0,0.32,5.07,5.34,37721,6.0,1236
+1737,2019,Jan,Perantara Keuangan,0.0198454887,0,0.32,5.07,5.34,14109,6.0,280
+1738,2019,Jan,Real Estate Usaha Persewaan,0.03394959377,0,0.32,5.07,5.34,48248,6.0,1638
+1739,2019,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0036101083029999996,0,0.32,5.07,5.34,554,6.0,2
+1740,2019,Jan,Jasa Pendidikan,0.02173913043,0,0.32,5.07,5.34,3496,6.0,76
+1741,2019,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.01593475533,0,0.32,5.07,5.34,7970,6.0,127
+1742,2019,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02305512901,0,0.32,5.07,5.34,46237,6.0,1066
+1743,2019,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.027239150510000004,0,0.32,5.07,5.34,2166,6.0,59
+1744,2019,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.32,5.07,5.34,4,6.0,0
+1745,2019,Jan,Kegiatan yang belum jelas batasannya,0.04918032787,0,0.32,5.07,5.34,244,6.0,12
+1746,2019,Feb,Pertanian Perburuan dan Kehutanan,0.025972743430000004,0,-0.08,5.07,5.01,91134,6.0,2367
+1747,2019,Feb,Perikanan,0.02866111642,0,-0.08,5.07,5.01,7327,6.0,210
+1748,2019,Feb,Pertambangan dan Penggalian,0.037283621839999996,0,-0.08,5.07,5.01,6759,6.0,252
+1749,2019,Feb,Industri Pengolahan,0.03783067152,0,-0.08,5.07,5.01,97302,6.0,3681
+1750,2019,Feb,Listrik gas dan air,0.03307436182,0,-0.08,5.07,5.01,4505,6.0,149
+1751,2019,Feb,Konstruksi,0.07940621638999999,0,-0.08,5.07,5.01,56721,6.0,4504
+1752,2019,Feb,Perdagangan Besar dan Eceran,0.03870838588,0,-0.08,5.07,5.01,499530,6.0,19336
+1753,2019,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.033233429700000004,0,-0.08,5.07,5.01,37703,6.0,1253
+1754,2019,Feb,Transportasi pergudangan dan komunikasi,0.03313017659,0,-0.08,5.07,5.01,38394,6.0,1272
+1755,2019,Feb,Perantara Keuangan,0.01910691284,0,-0.08,5.07,5.01,13974,6.0,267
+1756,2019,Feb,Real Estate Usaha Persewaan,0.03338159255,0,-0.08,5.07,5.01,48350,6.0,1614
+1757,2019,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.005110732538,0,-0.08,5.07,5.01,587,6.0,3
+1758,2019,Feb,Jasa Pendidikan,0.024034334759999998,0,-0.08,5.07,5.01,3495,6.0,84
+1759,2019,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.01674008811,0,-0.08,5.07,5.01,7945,6.0,133
+1760,2019,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02383785162,0,-0.08,5.07,5.01,47068,6.0,1122
+1761,2019,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.028531983430000005,0,-0.08,5.07,5.01,2173,6.0,62
+1762,2019,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,-0.08,5.07,5.01,3,6.0,0
+1763,2019,Feb,Kegiatan yang belum jelas batasannya,0.04858299595,0,-0.08,5.07,5.01,247,6.0,12
+1764,2019,Mar,Pertanian Perburuan dan Kehutanan,0.0253825169,0,0.11,5.07,5.01,92741,6.0,2354
+1765,2019,Mar,Perikanan,0.027280130289999996,0,0.11,5.07,5.01,7368,6.0,201
+1766,2019,Mar,Pertambangan dan Penggalian,0.03601108033,0,0.11,5.07,5.01,6859,6.0,247
+1767,2019,Mar,Industri Pengolahan,0.03582164834,0,0.11,5.07,5.01,99130,6.0,3551
+1768,2019,Mar,Listrik gas dan air,0.03323731442,0,0.11,5.07,5.01,4513,6.0,150
+1769,2019,Mar,Konstruksi,0.07407597097999999,0,0.11,5.07,5.01,58575,6.0,4339
+1770,2019,Mar,Perdagangan Besar dan Eceran,0.036475168100000004,0,0.11,5.07,5.01,508620,6.0,18552
+1771,2019,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.03403093244,0,0.11,5.07,5.01,38083,6.0,1296
+1772,2019,Mar,Transportasi pergudangan dan komunikasi,0.03253526595,0,0.11,5.07,5.01,38635,6.0,1257
+1773,2019,Mar,Perantara Keuangan,0.01812646038,0,0.11,5.07,5.01,14123,6.0,256
+1774,2019,Mar,Real Estate Usaha Persewaan,0.030494195010000003,0,0.11,5.07,5.01,48665,6.0,1484
+1775,2019,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.019108280249999998,0,0.11,5.07,5.01,157,6.0,3
+1776,2019,Mar,Jasa Pendidikan,0.02380277699,0,0.11,5.07,5.01,3529,6.0,84
+1777,2019,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.016955491830000002,0,0.11,5.07,5.01,8021,6.0,136
+1778,2019,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02217341724,0,0.11,5.07,5.01,47354,6.0,1050
+1779,2019,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.026399635869999997,0,0.11,5.07,5.01,2197,6.0,58
+1780,2019,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.11,5.07,5.01,4,6.0,0
+1781,2019,Mar,Kegiatan yang belum jelas batasannya,0.0404040404,0,0.11,5.07,5.01,297,6.0,12
+1782,2019,Apr,Pertanian Perburuan dan Kehutanan,0.02672095686,0,0.44,5.05,5.01,94308,6.0,2520
+1783,2019,Apr,Perikanan,0.027774086380000004,0,0.44,5.05,5.01,7525,6.0,209
+1784,2019,Apr,Pertambangan dan Penggalian,0.04543046358,0,0.44,5.05,5.01,7550,6.0,343
+1785,2019,Apr,Industri Pengolahan,0.03690166585,0,0.44,5.05,5.01,99589,6.0,3675
+1786,2019,Apr,Listrik gas dan air,0.032470288619999996,0,0.44,5.05,5.01,4712,6.0,153
+1787,2019,Apr,Konstruksi,0.07904362416,0,0.44,5.05,5.01,59600,6.0,4711
+1788,2019,Apr,Perdagangan Besar dan Eceran,0.037448393860000005,0,0.44,5.05,5.01,513747,6.0,19239
+1789,2019,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.0340833716,0,0.44,5.05,5.01,39198,6.0,1336
+1790,2019,Apr,Transportasi pergudangan dan komunikasi,0.03191678747,0,0.44,5.05,5.01,39321,6.0,1255
+1791,2019,Apr,Perantara Keuangan,0.017792302109999998,0,0.44,5.05,5.01,13770,6.0,245
+1792,2019,Apr,Real Estate Usaha Persewaan,0.03239354541,0,0.44,5.05,5.01,49763,6.0,1612
+1793,2019,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01630434783,0,0.44,5.05,5.01,184,6.0,3
+1794,2019,Apr,Jasa Pendidikan,0.027480076939999997,0,0.44,5.05,5.01,3639,6.0,100
+1795,2019,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.02396769571,0,0.44,5.05,5.01,7677,6.0,184
+1796,2019,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02378248801,0,0.44,5.05,5.01,47556,6.0,1131
+1797,2019,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.0274898603,0,0.44,5.05,5.01,2219,6.0,61
+1798,2019,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.44,5.05,5.01,4,6.0,0
+1799,2019,Apr,Kegiatan yang belum jelas batasannya,0.036789297660000005,0,0.44,5.05,5.01,299,6.0,11
+1800,2019,May,Pertanian Perburuan dan Kehutanan,0.02674661804,0,0.68,5.05,5.01,97059,6.0,2596
+1801,2019,May,Perikanan,0.031225905939999996,0,0.68,5.05,5.01,7782,6.0,243
+1802,2019,May,Pertambangan dan Penggalian,0.049534402479999996,0,0.68,5.05,5.01,7732,6.0,383
+1803,2019,May,Industri Pengolahan,0.037143740089999995,0,0.68,5.05,5.01,100313,6.0,3726
+1804,2019,May,Listrik gas dan air,0.03268663011,0,0.68,5.05,5.01,4742,6.0,155
+1805,2019,May,Konstruksi,0.07756833787,0,0.68,5.05,5.01,61752,6.0,4790
+1806,2019,May,Perdagangan Besar dan Eceran,0.03878386918,0,0.68,5.05,5.01,519056,6.0,20131
+1807,2019,May,Penyediaan akomodasi dan penyediaan makan minum,0.03367198109,0,0.68,5.05,5.01,39766,6.0,1339
+1808,2019,May,Transportasi pergudangan dan komunikasi,0.0340302775,0,0.68,5.05,5.01,39171,6.0,1333
+1809,2019,May,Perantara Keuangan,0.01676308178,0,0.68,5.05,5.01,15212,6.0,255
+1810,2019,May,Real Estate Usaha Persewaan,0.03405113603,0,0.68,5.05,5.01,50571,6.0,1722
+1811,2019,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01089918256,0,0.68,5.05,5.01,367,6.0,4
+1812,2019,May,Jasa Pendidikan,0.02657534247,0,0.68,5.05,5.01,3650,6.0,97
+1813,2019,May,Jasa Kesehatan dan Kegiatan Sosial,0.01596498004,0,0.68,5.05,5.01,7767,6.0,124
+1814,2019,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02499219644,0,0.68,5.05,5.01,48055,6.0,1201
+1815,2019,May,Jasa Perorangan yang Melayani Rumah Tangga,0.027890238419999998,0,0.68,5.05,5.01,2223,6.0,62
+1816,2019,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.68,5.05,5.01,3,6.0,0
+1817,2019,May,Kegiatan yang belum jelas batasannya,0.039735099339999996,0,0.68,5.05,5.01,302,6.0,12
+1818,2019,Jun,Pertanian Perburuan dan Kehutanan,0.023390777459999998,0,0.55,5.05,5.01,101664,6.0,2378
+1819,2019,Jun,Perikanan,0.027191096499999998,0,0.55,5.05,5.01,7907,6.0,215
+1820,2019,Jun,Pertambangan dan Penggalian,0.05014401676,0,0.55,5.05,5.01,7638,6.0,383
+1821,2019,Jun,Industri Pengolahan,0.037391040630000004,0,0.55,5.05,5.01,102217,6.0,3822
+1822,2019,Jun,Listrik gas dan air,0.029487945810000003,0,0.55,5.05,5.01,5019,6.0,148
+1823,2019,Jun,Konstruksi,0.07504453799,0,0.55,5.05,5.01,63429,6.0,4760
+1824,2019,Jun,Perdagangan Besar dan Eceran,0.03799750195,0,0.55,5.05,5.01,522008,6.0,19835
+1825,2019,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.03436968058,0,0.55,5.05,5.01,39948,6.0,1373
+1826,2019,Jun,Transportasi pergudangan dan komunikasi,0.034088332369999995,0,0.55,5.05,5.01,39691,6.0,1353
+1827,2019,Jun,Perantara Keuangan,0.026705835219999998,0,0.55,5.05,5.01,14978,6.0,400
+1828,2019,Jun,Real Estate Usaha Persewaan,0.0323376944,0,0.55,5.05,5.01,52663,6.0,1703
+1829,2019,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01612903226,0,0.55,5.05,5.01,124,6.0,2
+1830,2019,Jun,Jasa Pendidikan,0.024855012430000004,0,0.55,5.05,5.01,3621,6.0,90
+1831,2019,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.01752423565,0,0.55,5.05,5.01,8046,6.0,141
+1832,2019,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.024344878900000002,0,0.55,5.05,5.01,48388,6.0,1178
+1833,2019,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.02689152233,0,0.55,5.05,5.01,2194,6.0,59
+1834,2019,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.55,5.05,5.01,3,6.0,0
+1835,2019,Jun,Kegiatan yang belum jelas batasannya,0.05020920502,0,0.55,5.05,5.01,239,6.0,12
+1836,2019,Jul,Pertanian Perburuan dan Kehutanan,0.02426408915,0,0.31,5.02,5.01,100148,5.75,2430
+1837,2019,Jul,Perikanan,0.028167266410000003,0,0.31,5.02,5.01,8059,5.75,227
+1838,2019,Jul,Pertambangan dan Penggalian,0.0547523427,0,0.31,5.02,5.01,7470,5.75,409
+1839,2019,Jul,Industri Pengolahan,0.03851580135,0,0.31,5.02,5.01,99232,5.75,3822
+1840,2019,Jul,Listrik gas dan air,0.024312541919999996,0,0.31,5.02,5.01,5964,5.75,145
+1841,2019,Jul,Konstruksi,0.07705231357,0,0.31,5.02,5.01,64878,5.75,4999
+1842,2019,Jul,Perdagangan Besar dan Eceran,0.03928540688,0,0.31,5.02,5.01,522815,5.75,20539
+1843,2019,Jul,Penyediaan akomodasi dan penyediaan makan minum,0.03555060077,0,0.31,5.02,5.01,40365,5.75,1435
+1844,2019,Jul,Transportasi pergudangan dan komunikasi,0.03317095219,0,0.31,5.02,5.01,39824,5.75,1321
+1845,2019,Jul,Perantara Keuangan,0.0307734391,0,0.31,5.02,5.01,14623,5.75,450
+1846,2019,Jul,Real Estate Usaha Persewaan,0.03310368323,0,0.31,5.02,5.01,52834,5.75,1749
+1847,2019,Jul,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.015503875969999999,0,0.31,5.02,5.01,129,5.75,2
+1848,2019,Jul,Jasa Pendidikan,0.025200775409999997,0,0.31,5.02,5.01,3611,5.75,91
+1849,2019,Jul,Jasa Kesehatan dan Kegiatan Sosial,0.021094428590000002,0,0.31,5.02,5.01,8059,5.75,170
+1850,2019,Jul,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02573245751,0,0.31,5.02,5.01,47955,5.75,1234
+1851,2019,Jul,Jasa Perorangan yang Melayani Rumah Tangga,0.02844036697,0,0.31,5.02,5.01,2180,5.75,62
+1852,2019,Jul,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.31,5.02,5.01,3,5.75,0
+1853,2019,Jul,Kegiatan yang belum jelas batasannya,0.04214559387,0,0.31,5.02,5.01,261,5.75,11
+1854,2019,Aug,Pertanian Perburuan dan Kehutanan,0.033855734500000005,0,0.12,5.02,5.28,106304,5.5,3599
+1855,2019,Aug,Perikanan,0.0403862004,0,0.12,5.02,5.28,8493,5.5,343
+1856,2019,Aug,Pertambangan dan Penggalian,0.12257368800000001,0,0.12,5.02,5.28,8346,5.5,1023
+1857,2019,Aug,Industri Pengolahan,0.03959343328,0,0.12,5.02,5.28,102517,5.5,4059
+1858,2019,Aug,Listrik gas dan air,0.030854430380000002,0,0.12,5.02,5.28,6320,5.5,195
+1859,2019,Aug,Konstruksi,0.07731943321000001,0,0.12,5.02,5.28,66762,5.5,5162
+1860,2019,Aug,Perdagangan Besar dan Eceran,0.03961493271,0,0.12,5.02,5.28,524272,5.5,20769
+1861,2019,Aug,Penyediaan akomodasi dan penyediaan makan minum,0.03649776742,0,0.12,5.02,5.28,41208,5.5,1504
+1862,2019,Aug,Transportasi pergudangan dan komunikasi,0.056736548889999995,0,0.12,5.02,5.28,40926,5.5,2322
+1863,2019,Aug,Perantara Keuangan,0.030755345739999995,0,0.12,5.02,5.28,14404,5.5,443
+1864,2019,Aug,Real Estate Usaha Persewaan,0.03422542948000001,0,0.12,5.02,5.28,52797,5.5,1807
+1865,2019,Aug,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.00826446281,0,0.12,5.02,5.28,242,5.5,2
+1866,2019,Aug,Jasa Pendidikan,0.02348993289,0,0.12,5.02,5.28,3576,5.5,84
+1867,2019,Aug,Jasa Kesehatan dan Kegiatan Sosial,0.02174940898,0,0.12,5.02,5.28,8460,5.5,184
+1868,2019,Aug,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02498709344,0,0.12,5.02,5.28,48425,5.5,1210
+1869,2019,Aug,Jasa Perorangan yang Melayani Rumah Tangga,0.02796882164,0,0.12,5.02,5.28,2181,5.5,61
+1870,2019,Aug,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.12,5.02,5.28,3,5.5,0
+1871,2019,Aug,Kegiatan yang belum jelas batasannya,0.041984732819999995,0,0.12,5.02,5.28,262,5.5,11
+1872,2019,Sep,Pertanian Perburuan dan Kehutanan,0.025475487590000002,0,-0.27,5.02,5.28,103315,5.25,2632
+1873,2019,Sep,Perikanan,0.02671079069,0,-0.27,5.02,5.28,8461,5.25,226
+1874,2019,Sep,Pertambangan dan Penggalian,0.04580961206999999,0,-0.27,5.02,5.28,7553,5.25,346
+1875,2019,Sep,Industri Pengolahan,0.03759600614,0,-0.27,5.02,5.28,104160,5.25,3916
+1876,2019,Sep,Listrik gas dan air,0.023916532909999996,0,-0.27,5.02,5.28,6230,5.25,149
+1877,2019,Sep,Konstruksi,0.0742551856,0,-0.27,5.02,5.28,68507,5.25,5087
+1878,2019,Sep,Perdagangan Besar dan Eceran,0.037921225960000006,0,-0.27,5.02,5.28,528042,5.25,20024
+1879,2019,Sep,Penyediaan akomodasi dan penyediaan makan minum,0.03552186144,0,-0.27,5.02,5.28,41946,5.25,1490
+1880,2019,Sep,Transportasi pergudangan dan komunikasi,0.03380211573999999,0,-0.27,5.02,5.28,40175,5.25,1358
+1881,2019,Sep,Perantara Keuangan,0.02882102077,0,-0.27,5.02,5.28,14538,5.25,419
+1882,2019,Sep,Real Estate Usaha Persewaan,0.035306724819999996,0,-0.27,5.02,5.28,53191,5.25,1878
+1883,2019,Sep,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.014598540149999999,0,-0.27,5.02,5.28,137,5.25,2
+1884,2019,Sep,Jasa Pendidikan,0.02392877017,0,-0.27,5.02,5.28,3594,5.25,86
+1885,2019,Sep,Jasa Kesehatan dan Kegiatan Sosial,0.02335530119,0,-0.27,5.02,5.28,8649,5.25,202
+1886,2019,Sep,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.0251572327,0,-0.27,5.02,5.28,48654,5.25,1224
+1887,2019,Sep,Jasa Perorangan yang Melayani Rumah Tangga,0.02881976212,0,-0.27,5.02,5.28,2186,5.25,63
+1888,2019,Sep,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,-0.27,5.02,5.28,6,5.25,0
+1889,2019,Sep,Kegiatan yang belum jelas batasannya,0.04676258993,0,-0.27,5.02,5.28,278,5.25,13
+1890,2019,Oct,Pertanian Perburuan dan Kehutanan,0.02537939508,0,0.02,4.97,5.28,104179,5.0,2644
+1891,2019,Oct,Perikanan,0.028040658960000003,0,0.02,4.97,5.28,8559,5.0,240
+1892,2019,Oct,Pertambangan dan Penggalian,0.04939097845,0,0.02,4.97,5.28,7471,5.0,369
+1893,2019,Oct,Industri Pengolahan,0.03869651836,0,0.02,4.97,5.28,105410,5.0,4079
+1894,2019,Oct,Listrik gas dan air,0.02540192926,0,0.02,4.97,5.28,6220,5.0,158
+1895,2019,Oct,Konstruksi,0.0759302764,0,0.02,4.97,5.28,68958,5.0,5236
+1896,2019,Oct,Perdagangan Besar dan Eceran,0.03826883158,0,0.02,4.97,5.28,527505,5.0,20187
+1897,2019,Oct,Penyediaan akomodasi dan penyediaan makan minum,0.03462050599,0,0.02,4.97,5.28,42056,5.0,1456
+1898,2019,Oct,Transportasi pergudangan dan komunikasi,0.0334211311,0,0.02,4.97,5.28,40244,5.0,1345
+1899,2019,Oct,Perantara Keuangan,0.0288748525,0,0.02,4.97,5.28,14407,5.0,416
+1900,2019,Oct,Real Estate Usaha Persewaan,0.03525605057,0,0.02,4.97,5.28,53466,5.0,1885
+1901,2019,Oct,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.014705882350000001,0,0.02,4.97,5.28,136,5.0,2
+1902,2019,Oct,Jasa Pendidikan,0.024958402659999997,0,0.02,4.97,5.28,3606,5.0,90
+1903,2019,Oct,Jasa Kesehatan dan Kegiatan Sosial,0.021798676099999997,0,0.02,4.97,5.28,8762,5.0,191
+1904,2019,Oct,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02391411446,0,0.02,4.97,5.28,48716,5.0,1165
+1905,2019,Oct,Jasa Perorangan yang Melayani Rumah Tangga,0.02969392417,0,0.02,4.97,5.28,2189,5.0,65
+1906,2019,Oct,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.02,4.97,5.28,4,5.0,0
+1907,2019,Oct,Kegiatan yang belum jelas batasannya,0.04347826087,0,0.02,4.97,5.28,276,5.0,12
+1908,2019,Nov,Pertanian Perburuan dan Kehutanan,0.02445804812,0,0.14,4.97,5.28,105037,5.0,2569
+1909,2019,Nov,Perikanan,0.026840131269999998,0,0.14,4.97,5.28,8532,5.0,229
+1910,2019,Nov,Pertambangan dan Penggalian,0.04945425144999999,0,0.14,4.97,5.28,7421,5.0,367
+1911,2019,Nov,Industri Pengolahan,0.03820671171,0,0.14,4.97,5.28,106709,5.0,4077
+1912,2019,Nov,Listrik gas dan air,0.026077277790000002,0,0.14,4.97,5.28,6289,5.0,164
+1913,2019,Nov,Konstruksi,0.07975317604,0,0.14,4.97,5.28,68875,5.0,5493
+1914,2019,Nov,Perdagangan Besar dan Eceran,0.037796312389999996,0,0.14,4.97,5.28,527062,5.0,19921
+1915,2019,Nov,Penyediaan akomodasi dan penyediaan makan minum,0.03295903026,0,0.14,4.97,5.28,42568,5.0,1403
+1916,2019,Nov,Transportasi pergudangan dan komunikasi,0.03354601227,0,0.14,4.97,5.28,40750,5.0,1367
+1917,2019,Nov,Perantara Keuangan,0.029561814239999998,0,0.14,4.97,5.28,14309,5.0,423
+1918,2019,Nov,Real Estate Usaha Persewaan,0.03477043673,0,0.14,4.97,5.28,53580,5.0,1863
+1919,2019,Nov,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.007936507937,0,0.14,4.97,5.28,126,5.0,1
+1920,2019,Nov,Jasa Pendidikan,0.02586206897,0,0.14,4.97,5.28,3596,5.0,93
+1921,2019,Nov,Jasa Kesehatan dan Kegiatan Sosial,0.023146516269999997,0,0.14,4.97,5.28,8511,5.0,197
+1922,2019,Nov,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.023294305159999997,0,0.14,4.97,5.28,48939,5.0,1140
+1923,2019,Nov,Jasa Perorangan yang Melayani Rumah Tangga,0.02599179207,0,0.14,4.97,5.28,2193,5.0,57
+1924,2019,Nov,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.14,4.97,5.28,6,5.0,0
+1925,2019,Nov,Kegiatan yang belum jelas batasannya,0.045977011490000004,0,0.14,4.97,5.28,261,5.0,12
+1926,2019,Dec,Pertanian Perburuan dan Kehutanan,0.02214517711,0,0.34,4.97,5.28,104989,5.0,2325
+1927,2019,Dec,Perikanan,0.02545707012,0,0.34,4.97,5.28,8642,5.0,220
+1928,2019,Dec,Pertambangan dan Penggalian,0.04114760287,0,0.34,4.97,5.28,7947,5.0,327
+1929,2019,Dec,Industri Pengolahan,0.04110870053,0,0.34,4.97,5.28,106936,5.0,4396
+1930,2019,Dec,Listrik gas dan air,0.01606234097,0,0.34,4.97,5.28,6288,5.0,101
+1931,2019,Dec,Konstruksi,0.07912752502,0,0.34,4.97,5.28,65148,5.0,5155
+1932,2019,Dec,Perdagangan Besar dan Eceran,0.03376802012,0,0.34,4.97,5.28,526356,5.0,17774
+1933,2019,Dec,Penyediaan akomodasi dan penyediaan makan minum,0.0318005719,0,0.34,4.97,5.28,43364,5.0,1379
+1934,2019,Dec,Transportasi pergudangan dan komunikasi,0.02832854519,0,0.34,4.97,5.28,42466,5.0,1203
+1935,2019,Dec,Perantara Keuangan,0.01739192163,0,0.34,4.97,5.28,14087,5.0,245
+1936,2019,Dec,Real Estate Usaha Persewaan,0.02970717477,0,0.34,4.97,5.28,54162,5.0,1609
+1937,2019,Dec,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.007042253521,0,0.34,4.97,5.28,142,5.0,1
+1938,2019,Dec,Jasa Pendidikan,0.02064409579,0,0.34,4.97,5.28,3633,5.0,75
+1939,2019,Dec,Jasa Kesehatan dan Kegiatan Sosial,0.023110700249999998,0,0.34,4.97,5.28,8654,5.0,200
+1940,2019,Dec,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.023179889,0,0.34,4.97,5.28,49008,5.0,1136
+1941,2019,Dec,Jasa Perorangan yang Melayani Rumah Tangga,0.023087369849999997,0,0.34,4.97,5.28,2209,5.0,51
+1942,2019,Dec,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.34,4.97,5.28,6,5.0,0
+1943,2019,Dec,Kegiatan yang belum jelas batasannya,0.04029304029,0,0.34,4.97,5.28,273,5.0,11
+1944,2020,Jan,Pertanian Perburuan dan Kehutanan,0.024218056890000002,0,0.39,2.97,5.28,105954,5.0,2566
+1945,2020,Jan,Perikanan,0.02898383372,0,0.39,2.97,5.28,8660,5.0,251
+1946,2020,Jan,Pertambangan dan Penggalian,0.052508319979999996,0,0.39,2.97,5.28,8113,5.0,426
+1947,2020,Jan,Industri Pengolahan,0.04215701019,0,0.39,2.97,5.28,106388,5.0,4485
+1948,2020,Jan,Listrik gas dan air,0.0164095832,0,0.39,2.97,5.28,6094,5.0,100
+1949,2020,Jan,Konstruksi,0.09404236835,0,0.39,2.97,5.28,59856,5.0,5629
+1950,2020,Jan,Perdagangan Besar dan Eceran,0.03716251313,0,0.39,2.97,5.28,519798,5.0,19317
+1951,2020,Jan,Penyediaan akomodasi dan penyediaan makan minum,0.03343235832,0,0.39,2.97,5.28,43760,5.0,1463
+1952,2020,Jan,Transportasi pergudangan dan komunikasi,0.03047605784,0,0.39,2.97,5.28,43083,5.0,1313
+1953,2020,Jan,Perantara Keuangan,0.03203759077,0,0.39,2.97,5.28,14046,5.0,450
+1954,2020,Jan,Real Estate Usaha Persewaan,0.03306004707,0,0.39,2.97,5.28,52692,5.0,1742
+1955,2020,Jan,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.008064516128999999,0,0.39,2.97,5.28,124,5.0,1
+1956,2020,Jan,Jasa Pendidikan,0.02543068089,0,0.39,2.97,5.28,3657,5.0,93
+1957,2020,Jan,Jasa Kesehatan dan Kegiatan Sosial,0.017272400139999998,0,0.39,2.97,5.28,8337,5.0,144
+1958,2020,Jan,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02595479506,0,0.39,2.97,5.28,48623,5.0,1262
+1959,2020,Jan,Jasa Perorangan yang Melayani Rumah Tangga,0.02461257976,0,0.39,2.97,5.28,2194,5.0,54
+1960,2020,Jan,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.39,2.97,5.28,5,5.0,0
+1961,2020,Jan,Kegiatan yang belum jelas batasannya,0.051063829789999994,0,0.39,2.97,5.28,235,5.0,12
+1962,2020,Feb,Pertanian Perburuan dan Kehutanan,0.02441892513,0,0.28,2.97,4.99,108850,4.75,2658
+1963,2020,Feb,Perikanan,0.028848295830000002,0,0.28,2.97,4.99,8978,4.75,259
+1964,2020,Feb,Pertambangan dan Penggalian,0.045066237460000005,0,0.28,2.97,4.99,8077,4.75,364
+1965,2020,Feb,Industri Pengolahan,0.04148860563,0,0.28,2.97,4.99,108343,4.75,4495
+1966,2020,Feb,Listrik gas dan air,0.01808615587,0,0.28,2.97,4.99,6082,4.75,110
+1967,2020,Feb,Konstruksi,0.09353735681,0,0.28,2.97,4.99,58490,4.75,5471
+1968,2020,Feb,Perdagangan Besar dan Eceran,0.03832499751,0,0.28,2.97,4.99,522244,4.75,20015
+1969,2020,Feb,Penyediaan akomodasi dan penyediaan makan minum,0.03541713515,0,0.28,2.97,4.99,44470,4.75,1575
+1970,2020,Feb,Transportasi pergudangan dan komunikasi,0.03007623977,0,0.28,2.97,4.99,42891,4.75,1290
+1971,2020,Feb,Perantara Keuangan,0.03452712846,0,0.28,2.97,4.99,13989,4.75,483
+1972,2020,Feb,Real Estate Usaha Persewaan,0.03322456814,0,0.28,2.97,4.99,52100,4.75,1731
+1973,2020,Feb,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.008547008547000001,0,0.28,2.97,4.99,117,4.75,1
+1974,2020,Feb,Jasa Pendidikan,0.02420451455,0,0.28,2.97,4.99,3677,4.75,89
+1975,2020,Feb,Jasa Kesehatan dan Kegiatan Sosial,0.0175068289,0,0.28,2.97,4.99,8054,4.75,141
+1976,2020,Feb,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02631314249,0,0.28,2.97,4.99,49709,4.75,1308
+1977,2020,Feb,Jasa Perorangan yang Melayani Rumah Tangga,0.02418986764,0,0.28,2.97,4.99,2191,4.75,53
+1978,2020,Feb,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,0,0.28,2.97,4.99,4,4.75,0
+1979,2020,Feb,Kegiatan yang belum jelas batasannya,0.044000000000000004,0,0.28,2.97,4.99,250,4.75,11
+1980,2020,Mar,Pertanian Perburuan dan Kehutanan,0.02336941338,1,0.1,2.97,4.99,110957,4.5,2593
+1981,2020,Mar,Perikanan,0.02923784494,1,0.1,2.97,4.99,9132,4.5,267
+1982,2020,Mar,Pertambangan dan Penggalian,0.04526275412,1,0.1,2.97,4.99,7821,4.5,354
+1983,2020,Mar,Industri Pengolahan,0.04240321006,1,0.1,2.97,4.99,110652,4.5,4692
+1984,2020,Mar,Listrik gas dan air,0.02125,1,0.1,2.97,4.99,5600,4.5,119
+1985,2020,Mar,Konstruksi,0.0966624792,1,0.1,2.97,4.99,58906,4.5,5694
+1986,2020,Mar,Perdagangan Besar dan Eceran,0.038298611239999995,1,0.1,2.97,4.99,524066,4.5,20071
+1987,2020,Mar,Penyediaan akomodasi dan penyediaan makan minum,0.038225286139999995,1,0.1,2.97,4.99,45258,4.5,1730
+1988,2020,Mar,Transportasi pergudangan dan komunikasi,0.034133481339999994,1,0.1,2.97,4.99,43242,4.5,1476
+1989,2020,Mar,Perantara Keuangan,0.03215294373,1,0.1,2.97,4.99,13809,4.5,444
+1990,2020,Mar,Real Estate Usaha Persewaan,0.03495969128,1,0.1,2.97,4.99,52346,4.5,1830
+1991,2020,Mar,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.0,1,0.1,2.97,4.99,113,4.5,0
+1992,2020,Mar,Jasa Pendidikan,0.022493224930000003,1,0.1,2.97,4.99,3690,4.5,83
+1993,2020,Mar,Jasa Kesehatan dan Kegiatan Sosial,0.01820433437,1,0.1,2.97,4.99,8075,4.5,147
+1994,2020,Mar,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02623912483,1,0.1,2.97,4.99,50459,4.5,1324
+1995,2020,Mar,Jasa Perorangan yang Melayani Rumah Tangga,0.023097826090000002,1,0.1,2.97,4.99,2208,4.5,51
+1996,2020,Mar,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,1,0.1,2.97,4.99,4,4.5,0
+1997,2020,Mar,Kegiatan yang belum jelas batasannya,0.03714285714,1,0.1,2.97,4.99,350,4.5,13
+1998,2020,Apr,Pertanian Perburuan dan Kehutanan,0.0235350668,1,0.08,-5.32,4.99,110261,4.5,2595
+1999,2020,Apr,Perikanan,0.029082528530000002,1,0.08,-5.32,4.99,9112,4.5,265
+2000,2020,Apr,Pertambangan dan Penggalian,0.04926982393999999,1,0.08,-5.32,4.99,7327,4.5,361
+2001,2020,Apr,Industri Pengolahan,0.045558336229999996,1,0.08,-5.32,4.99,109486,4.5,4988
+2002,2020,Apr,Listrik gas dan air,0.019910681059999998,1,0.08,-5.32,4.99,5374,4.5,107
+2003,2020,Apr,Konstruksi,0.1030036057,1,0.08,-5.32,4.99,56299,4.5,5799
+2004,2020,Apr,Perdagangan Besar dan Eceran,0.0396201709,1,0.08,-5.32,4.99,515495,4.5,20424
+2005,2020,Apr,Penyediaan akomodasi dan penyediaan makan minum,0.03684396536,1,0.08,-5.32,4.99,45272,4.5,1668
+2006,2020,Apr,Transportasi pergudangan dan komunikasi,0.03335836624,1,0.08,-5.32,4.99,41279,4.5,1377
+2007,2020,Apr,Perantara Keuangan,0.03095588235,1,0.08,-5.32,4.99,13600,4.5,421
+2008,2020,Apr,Real Estate Usaha Persewaan,0.0359105683,1,0.08,-5.32,4.99,50765,4.5,1823
+2009,2020,Apr,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.00495049505,1,0.08,-5.32,4.99,202,4.5,1
+2010,2020,Apr,Jasa Pendidikan,0.020371785080000003,1,0.08,-5.32,4.99,3927,4.5,80
+2011,2020,Apr,Jasa Kesehatan dan Kegiatan Sosial,0.02256699577,1,0.08,-5.32,4.99,7799,4.5,176
+2012,2020,Apr,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.027778335310000003,1,0.08,-5.32,4.99,49823,4.5,1384
+2013,2020,Apr,Jasa Perorangan yang Melayani Rumah Tangga,0.02143182855,1,0.08,-5.32,4.99,2193,4.5,47
+2014,2020,Apr,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,1,0.08,-5.32,4.99,11,4.5,0
+2015,2020,Apr,Kegiatan yang belum jelas batasannya,0.04705882353,1,0.08,-5.32,4.99,255,4.5,12
+2016,2020,May,Pertanian Perburuan dan Kehutanan,0.02266193901,1,0.07,-5.32,4.99,110273,4.5,2499
+2017,2020,May,Perikanan,0.028972686060000002,1,0.07,-5.32,4.99,9043,4.5,262
+2018,2020,May,Pertambangan dan Penggalian,0.050491077599999996,1,0.07,-5.32,4.99,7229,4.5,365
+2019,2020,May,Industri Pengolahan,0.045752355710000005,1,0.07,-5.32,4.99,108672,4.5,4972
+2020,2020,May,Listrik gas dan air,0.01755034177,1,0.07,-5.32,4.99,5413,4.5,95
+2021,2020,May,Konstruksi,0.1019953725,1,0.07,-5.32,4.99,57483,4.5,5863
+2022,2020,May,Perdagangan Besar dan Eceran,0.0402041867,1,0.07,-5.32,4.99,506987,4.5,20383
+2023,2020,May,Penyediaan akomodasi dan penyediaan makan minum,0.04217744069,1,0.07,-5.32,4.99,45356,4.5,1913
+2024,2020,May,Transportasi pergudangan dan komunikasi,0.033978132880000005,1,0.07,-5.32,4.99,41615,4.5,1414
+2025,2020,May,Perantara Keuangan,0.03518490792,1,0.07,-5.32,4.99,13358,4.5,470
+2026,2020,May,Real Estate Usaha Persewaan,0.03989798138,1,0.07,-5.32,4.99,50579,4.5,2018
+2027,2020,May,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.007352941176,1,0.07,-5.32,4.99,136,4.5,1
+2028,2020,May,Jasa Pendidikan,0.02486678508,1,0.07,-5.32,4.99,3941,4.5,98
+2029,2020,May,Jasa Kesehatan dan Kegiatan Sosial,0.022612740660000002,1,0.07,-5.32,4.99,7739,4.5,175
+2030,2020,May,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02848997088,1,0.07,-5.32,4.99,49456,4.5,1409
+2031,2020,May,Jasa Perorangan yang Melayani Rumah Tangga,0.01969766377,1,0.07,-5.32,4.99,2183,4.5,43
+2032,2020,May,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,1,0.07,-5.32,4.99,1,4.5,0
+2033,2020,May,Kegiatan yang belum jelas batasannya,0.05747126437000001,1,0.07,-5.32,4.99,261,4.5,15
+2034,2020,Jun,Pertanian Perburuan dan Kehutanan,0.02124764591,1,0.18,-5.32,4.99,110977,4.25,2358
+2035,2020,Jun,Perikanan,0.02752894909,1,0.18,-5.32,4.99,9154,4.25,252
+2036,2020,Jun,Pertambangan dan Penggalian,0.04315122723999999,1,0.18,-5.32,4.99,7578,4.25,327
+2037,2020,Jun,Industri Pengolahan,0.048546221849999995,1,0.18,-5.32,4.99,107341,4.25,5211
+2038,2020,Jun,Listrik gas dan air,0.017143933689999998,1,0.18,-5.32,4.99,5308,4.25,91
+2039,2020,Jun,Konstruksi,0.10559073050000001,1,0.18,-5.32,4.99,55753,4.25,5887
+2040,2020,Jun,Perdagangan Besar dan Eceran,0.039669261319999996,1,0.18,-5.32,4.99,505656,4.25,20059
+2041,2020,Jun,Penyediaan akomodasi dan penyediaan makan minum,0.03774044315,1,0.18,-5.32,4.99,45177,4.25,1705
+2042,2020,Jun,Transportasi pergudangan dan komunikasi,0.0346753436,1,0.18,-5.32,4.99,41182,4.25,1428
+2043,2020,Jun,Perantara Keuangan,0.02449206791,1,0.18,-5.32,4.99,14372,4.25,352
+2044,2020,Jun,Real Estate Usaha Persewaan,0.03987386838,1,0.18,-5.32,4.99,49155,4.25,1960
+2045,2020,Jun,Admistrasi Pemerintahan Pertahanan dan Jaminan Sosial Wajib,0.01052631579,1,0.18,-5.32,4.99,95,4.25,1
+2046,2020,Jun,Jasa Pendidikan,0.0212602459,1,0.18,-5.32,4.99,3904,4.25,83
+2047,2020,Jun,Jasa Kesehatan dan Kegiatan Sosial,0.02205402584,1,0.18,-5.32,4.99,7663,4.25,169
+2048,2020,Jun,Jasa Kemasyarakatan Sosial Budaya Hiburan dan Perorangan lainnya,0.02886996437,1,0.18,-5.32,4.99,49671,4.25,1434
+2049,2020,Jun,Jasa Perorangan yang Melayani Rumah Tangga,0.01850180505,1,0.18,-5.32,4.99,2216,4.25,41
+2050,2020,Jun,Badan Internasional dan Badan Ekstra Internasional Lainnya,0.0,1,0.18,-5.32,4.99,4,4.25,0
+2051,2020,Jun,Kegiatan yang belum jelas batasannya,0.07296137339,1,0.18,-5.32,4.99,233,4.25,17
