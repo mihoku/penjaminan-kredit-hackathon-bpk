@@ -172,7 +172,7 @@ layouts3 = dcc.Tab(label='Evaluasi Tarif dan Anggaran IJP, serta Sektor Terdampa
                         html.Div([ #start of column div for total SME Credit channeling
                             html.H5("Evaluasi atas Sektor Ekonomi Terdampak", style={"font-weight":"bold", "color":"#000"}),
                             dcc.Graph(id='channel-comparison-graph-sector-affected',
-                                      style={'height':600})
+                                      style={'height':800})
                             ], className="pretty_container",
                             style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}
                             ),#end of column div for total SME credit channeling
@@ -296,9 +296,20 @@ def predict_NPL(EconGrowth,Inflasi,Unemployment,birate,a,b,c,d,e,f,g,h,i,j,k,l,m
     df['valueNPL'] = df['percentNPL']*df['channeling']  
     df['effect'] = df['percentNPL']-df['average_NPL_2019']
     
-    fig = go.Figure(go.Bar(
+    fig = go.Figure()
+    
+    fig.add_trace(go.Bar(
             x=df['percentNPL']*100,
             y=econSector,
+            marker_color='#fd7e14',
+            name='Proyeksi NPL',
+            orientation='h'))
+    
+    fig.add_trace(go.Bar(
+            x=df['average_NPL_2019'],
+            y=econSector,
+            marker_color='#007bff',
+            name='Rata-rata NPL sebelum 2020',
             orientation='h'))
 
     #chart transition
