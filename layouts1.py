@@ -1,3 +1,4 @@
+from app import app
 import dash_core_components as dcc
 import dash_html_components as html
 import dash_bootstrap_components as dbc
@@ -15,13 +16,14 @@ STYLES_PATH = ASSETS_PATH.joinpath("styles").resolve()
 MODEL_PATH = PATH.joinpath("data-model").resolve()
 DATA_PATH = PATH.joinpath("data-source").resolve()
 
+
 layouts1 = dcc.Tab(label='Informasi Umum', children=[
 
     html.Div(
         html.Div([
             html.H3("Summary", style={"font-weight": "bold", "color": "#fff"}),
             html.H5("Dashboard Kondisi Penyaluran Kredit UMKM dan Prediksi nilai Non Performance Loan (NPL), Imbal Jasa Penjaminan (IJP), Loss Limit dan Kebutuhan Anggaran Program Penjaminan Kredit UMKM",
-                   style={"color": "#fff"}),
+                    style={"color": "#fff"}),
 
         ],
             className="pretty_container", style={"background-color": "#000099"})),
@@ -32,9 +34,19 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
                 html.Div([
                     html.H5("Latar Belakang", style={"font-weight": "bold"}),
                     html.P("Dalam rangka mendukung kebijakan keuangan negara untuk penanganan pandemi Covid-19 dan pemulihan ekonomi nasional, Pemerintah melalui Peraturan Pemerintah nomor 43 tahun 2020 telah mengatur 4 (empat) modalitas untuk program pemulihan ekonomi nasional (PEN) yang meliputi penyertaan modal negara, penempatan dana, investasi pemerintah, dan penjaminan."),
-                    html.P("Pada kegiatan penjaminan kredit modal kerja UMKM, pemerintah menugaskan BUMN dalam hal ini PT Jamkrindo dan PT Askrindo untuk bertindak sebagai penjamin bagi kredit modal kerja Usaha Mikro Kecil Menengah (UMKM). Program penjaminan ini sendiri bertujuan untuk meningkatkan minat perbankan dalam menyalurkan kredit kepada pelaku usaha agar mendapat kemudahan penjaminan saat mengajukan kredit. Selain itu, pemberian modal kerja pada UMKM penting dilakukan dalam membuat kegiatan usaha kembali menggeliat setelah terpuruk akibat dampak pandemi Covid-19."),
-                    html.P("Pemerintah telah melakukan berbagai dukungan agar program penjaminan berjalan dengan baik. Pada tahun 2020, pemerintah telah menganggarkan sejumlah Rp6 T untuk memberikan dukungan pada program penjaminan pelaku usaha UMKM dengan rincian Rp5 T sebagai Subsidi Belanja IJP dan Rp1 T untuk dukungan penjaminan loss limit."),
-                    html.P("Salah satu dukungan yang dilakukan pemerintah adalah membayarkan seluruh Imbal Jasa Penjaminan (IJP) yang seharusnya ditanggung oleh pelaku usaha sebagai kreditur. IJP yang dianggarkan pemerintah akan dibayarkan ke pihak penjamin sesuai dengan perhitungan yang telah ditetapkan. Salah satu faktor penentuan besaran IJP adalah adanya proyeksi non performing loan (NPL). Penentuan besaran rasio NPL yang akurat akan berpengaruh pada ketepatan jumlah penganggaran yang dilakukan pemerintah dalam alokasi pembayaran IJP. Pada penjaminan pemerintah pada pelaku usaha UMKM, penentuan tarif IJP didasari pada hasil metode perhitungan dan analisa PT Reindonesia Indonesia Utama (RIU) dengan mempertimbangkan proyeksi NPL.")
+                    html.P("Pada kegiatan penjaminan kredit modal kerja UMKM, pemerintah menugaskan BUMN dalam hal ini PT Jamkrindo dan PT Askrindo untuk bertindak sebagai penjamin bagi kredit modal kerja Usaha Mikro Kecil Menengah (UMKM). Salah satu dukungan yang dilakukan pemerintah adalah membayarkan seluruh Imbal Jasa Penjaminan (IJP) yang seharusnya ditanggung oleh pelaku usaha sebagai kreditur. Faktor penentuan besaran IJP adalah adanya proyeksi non performing loan (NPL). Penentuan besaran rasio NPL yang akurat akan berpengaruh pada ketepatan jumlah penganggaran yang dilakukan pemerintah dalam alokasi pembayaran IJP. Pada penjaminan pemerintah pada pelaku usaha UMKM, penentuan tarif IJP didasari pada hasil metode perhitungan dan analisa PT Reindonesia Indonesia Utama (RIU) dengan mempertimbangkan proyeksi NPL."),
+                    html.Div([
+                        html.Img(
+                            src=app.get_asset_url("skema_pen.JPG"),
+                            style={
+                                "height": "auto",
+                                "width": "100%",
+                            },
+                        ),  # end of logo img tag
+                    ], style={'text-align': 'center', 'width': '100%', 'display': 'inline-block'}),
+                    
+                    html.P("Skema Program PEN Penjaminan Pelaku Usaha UMKM", style={"text-align": "center"})
+
                 ],
                     className="pretty_container")
             ), md=8),
@@ -55,7 +67,7 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
                         html.P("Prediksi IJP dan Loss Limit berdasarkan model",
                                style={"color": "#fff"})
                     ], className="pretty_container",
-                        style={"background-color": "#ffc107"}),
+                        style={"background-color": "#ff8000"}),
                     html.Div([
                         html.P("Prediksi Tarif IJP yang diusulkan oleh PT RIU",
                                style={"color": "#fff"})
@@ -87,7 +99,7 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
                        style={"color": "#fff", "text-align": "center"}),
             ], className="three columns pretty_container", style={'background-color': '#ff8000'}),
             html.Div([
-                html.P("Memberikan gambaran umum dalam proses perencanaan pemeriksaan keuangan negara, serta menjadi bahan dalam penentuan NPL dan Anggaran",
+                html.P("Memberikan gambaran umum dalam proses perencanaan pemeriksaan keuangan negara",
                        style={"color": "#fff", "text-align": "center"}),
             ], className="three columns pretty_container", style={'background-color': '#ff0040'}),
 
@@ -95,7 +107,24 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
         ], className="row flex-display")  # end of macro vars row div
     ], className="pretty_container", style={"text-align": "center"}),
 
-
+    html.Div([  # start of model chart
+        html.H5("Model Prediktif", style={"font-weight": "bold"}),
+        html.Div([
+             html.P("Model prediktif ini dikembangkan atas target utama yakni NPL penyaluran kredit kepada UMKM. Terdapat beberapa aspek yang menjadi prediktor dan secara umum terbagi ke dalam dua kelompok besar, yakni kondisi makroekonomi dan sektor ekonomi UMKM."),
+             html.P("Algoritma Random Forest Regression digunakan dalam pengembangan model prediktif tersebut. Random Forest merupakan jenis algoritma ensemble yang mengkombinasikan beberapa decision tree untuk membuat prediksi finalnya."),
+             html.P("Sumber data yang digunakan dalam pengembangan model prediktif ini adalah Laporan Statistik Perbankan Indonesia dari Otoritas Jasa Keuangan, serta Badan Pusat Statistik untuk indikator makroekonomi.")
+             ], style={'width': '40%', 'display': 'inline-block'}),
+        html.Div([
+            html.Img(
+                 src=app.get_asset_url("model-chart.png"),
+                 id="scheme-image",
+                 style={
+                     "height": "auto",
+                     "width": "50%",
+                 },
+                 ),  # end of logo img tag
+        ], style={'text-align': 'center', 'width': '60%', 'display': 'inline-block'}),
+    ], className="pretty_container", style={'background-color': '#fff'}),
 
 
 
