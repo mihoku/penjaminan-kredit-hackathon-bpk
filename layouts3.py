@@ -1,6 +1,7 @@
 import flask
 from datetime import datetime, timedelta
 import dash
+import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
@@ -35,11 +36,17 @@ row_take = fil_df[fil_df.SektorEkonomi==econSector[0]]
 prev_df = df[df.Tahun != 2020]
 summavg_df = prev_df.groupby('SektorEkonomi', as_index=False).agg({"percentNPL":"mean"})
 
+economic_sector = pd.Series(econSector, name='sector')
+
 avg_2019 = []  
     
 for i in np.arange(18):
     taken_df = summavg_df[summavg_df.SektorEkonomi==econSector[i]]
     avg_2019.append(taken_df['percentNPL'].values[0]*100)
+
+average_NPL_2019 = pd.Series(avg_2019, name='average_NPL_2019')
+
+df_2019 = pd.concat([economic_sector,average_NPL_2019], axis=1)
 
 #form generation function
 def generate_form(i):
@@ -61,7 +68,7 @@ def generate_form(i):
         ],className="three columns pretty_container", style={'background-color':sectorColor[i]})
 
 
-layouts3 = dcc.Tab(label='Evaluasi Tarif IJP dan Sektor Terdampak',children=[html.Div([
+layouts3 = dcc.Tab(label='Evaluasi Tarif dan Anggaran IJP, serta Sektor Terdampak',children=[html.Div([
     
         html.Div([#start of prediction result
                  html.Div([ #row div of prediction result
@@ -78,32 +85,13 @@ layouts3 = dcc.Tab(label='Evaluasi Tarif IJP dan Sektor Terdampak',children=[htm
                             ], className="pretty_container six columns",
                             style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #ffc107'}
                             ),#end of column div for total NPL projection
+                        html.Div([ #start of column div for explanation
+                            html.P("NPL kredit UMKM diproyeksikan menggunakan 4 (empat) indikator makroekonomi yaitu pertumbuhan ekonomi, tingkat inflasi, tingkat pengangguran, serta suku bunga BI. Selain itu, proyeksi juga didasarkan pada penyaluran kredit kepada masing-masing 18 sektor ekonomi UMKM sebagaimana klasifikasi Otoritas Jasa Keuangan (OJK). Kondisi makroekonomi beserta penyaluran kredit UMKM per sektor tersebut dapat disesuaikan berdasarkan kondisi terkini. Hasil proyeksi atas NPL dapat dipergunakan sebagai alat evaluasi atas penetapan tarif dan anggaran IJP oleh Pemerintah, serta mengevaluasi sektor ekonomi yang terdampak pandemi untuk mengevaluasi kebijakan stimulus yang juga dicanangkan oleh pemerintah."),
+                            ], className="pretty_container twelve columns",
+                            style={'text-align':'center','background-color':'#fff', 'border-left':'6px solid #007bff'}
+                            ),#end of column div for total SME credit channeling
                     ],className="row flex-display") #end of pred result row div
                  ],className=" twelve columns"),#end of pred result var div
-        
-                html.Div([#start of evaluation
-                 html.Div([ #row div of evaluation
-                        html.Div([ #start of column div for IJP tarif
-                            html.H5("Tarif IJP Kredit UMKM", style={'font-weight':'bold'}),
-                            html.H1(id ="IJP_tarif", style={'font-weight':'bold', 'font-size':'44px'}),
-                            html.P(id="IJP_tarif_exp")
-                            ], className="pretty_container three columns",
-                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}
-                            ),#end of column div for IJP tarif
-                        html.Div([ #start of column div for IJP budget
-                            html.H5("Anggaran IJP", style={'font-weight':'bold'}),
-                            html.H4(id ="IJP_budget", style={'font-weight':'bold', 'font-size':'32px'}),
-                            ], className="pretty_container four columns",
-                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #6610f2'}
-                            ),#end of column div for IJP budget
-                        html.Div([ #start of column div for loss limit budget
-                            html.H5("Anggaran Loss Limit", style={'font-weight':'bold'}),
-                            html.H4(id ="loss_limit_budget", style={'font-weight':'bold', 'font-size':'32px'}),
-                            ], className="pretty_container four columns",
-                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #6f42c1'}
-                            ),#end of column div for loss limit budget
-                        ],className="row flex-display") #end of evaluation row div
-                 ],className=" twelve columns"),#end of evaluation div
     
     html.Div([#start of macroeconomic vars
               html.H5("Indikator Makro Ekonomi", style={"font-weight":"bold"}),
@@ -152,7 +140,84 @@ layouts3 = dcc.Tab(label='Evaluasi Tarif IJP dan Sektor Terdampak',children=[htm
               html.Div(children=[generate_form(i) for i in np.arange(18) #row div of macro vars
                             ],className="row flex-display") #end of macro vars row div
               ],className=" twelve columns"),#end of credit channeling var div
+        
+        html.Div([#start of evaluation
+                 html.H5("Evaluasi atas Penetapan Tarif dan Anggaran IJP Kredit UMKM", style={"font-weight":"bold"}),
+                 ],className=" twelve columns"),#end of evaluation div
+
+                        html.Div([ #start of column div for IJP tarif
+                            html.H5("Tarif IJP Kredit UMKM", style={'font-weight':'bold'}),
+                            html.H1(id ="IJP_tarif", style={'font-weight':'bold', 'font-size':'44px'}),
+                            html.P(id="IJP_tarif_exp")
+                            ], className="pretty_container three columns",
+                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}
+                            ),#end of column div for IJP tarif
+                        html.Div([ #start of column div for IJP budget
+                            html.H5("Anggaran IJP", style={'font-weight':'bold'}),
+                            html.H4(id ="IJP_budget", style={'font-weight':'bold', 'font-size':'32px'}),
+                            html.P(id="IJP_budget_expl")
+                            ], className="pretty_container four columns",
+                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #6610f2'}
+                            ),#end of column div for IJP budget
+                        html.Div([ #start of column div for loss limit budget
+                            html.H5("Anggaran Loss Limit", style={'font-weight':'bold'}),
+                            html.H4(id ="loss_limit_budget", style={'font-weight':'bold', 'font-size':'32px'}),
+                            html.P("Besaran anggaran loss limit berdasarkan penyaluran kredit yang dijaminkan")
+                            ], className="pretty_container four columns",
+                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #6f42c1'}
+                            ),#end of column div for loss limit budget
+        
+        #affected sectors
+        html.Div([ #start of total channeling and NPL row div
+                        html.Div([ #start of column div for total SME Credit channeling
+                            html.H5("Evaluasi atas Sektor Ekonomi Terdampak", style={"font-weight":"bold", "color":"#000"}),
+                            dcc.Graph(id='channel-comparison-graph-sector-affected',
+                                      style={'height':600})
+                            ], className="pretty_container",
+                            style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}
+                            ),#end of column div for total SME credit channeling
+                        # dash_table.DataTable(
+                        #     id='table-paging-and-sorting',
+                        #     columns=[
+                        #         {'name': 'Sektor Ekonomi', 'id': '1', 'deletable': True},
+                        #         {'name': 'Proyeksi NPL', 'id': '2', 'deletable': True},
+                        #         {'name': 'Proyeksi NPL Tahun 2019', 'id': '3', 'deletable': True},
+                        #         {'name': 'Kenaikan (Penurunan)', 'id': '4', 'deletable': True},
+                        #         ],
+                        #     page_current=0,
+                        #     page_size=20,
+                        #     ),
+                        # html.P(id="effect-analysis"),
+                        # html.Div([
+                        #     html.Div([
+                        #         html.H5("NPL 2019", style={"font-weight":"bold", "color":"#000"}),
+                        #         html.H1(id ="NPL_2019", style={'font-weight':'bold', 'font-size':'44px'}),
+                        #         html.P(id="sector-name"),
+                        #         ],className="four columns pretty_container", style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}),
+                        #     html.Div([
+                        #         html.H5("Proyeksi NPL", style={"font-weight":"bold", "color":"#000"}),
+                        #         html.H1(id ="proyeksi_NPL", style={'font-weight':'bold', 'font-size':'44px'}),
+                        #         ],className="four columns pretty_container", style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}),
+                        #     html.Div([
+                        #         html.H5("Naik/Turun", style={"font-weight":"bold", "color":"#000"}),
+                        #         html.H1(id ="pandemic-effect", style={'font-weight':'bold', 'font-size':'44px'}),
+                        #         ],className="three columns pretty_container", style={'text-align':'center','background-color':'#fff', 'border-top':'6px solid #007bff'}),
+                        #     ],className="row")
+                        ], className="twelve columns"), #end of total channeling and NPL row div
+        
     ], className="row")])
+
+# @app.callback(
+#     Output("NPL_2019","children"),
+#     Output("sector-name","children"),
+#     Output("proyeksi_NPL","children"),
+#     Output("pandemic-effect","children"),
+#     [Input("channel-comparison-graph-sector-affected", "hoverData")])
+# def hoverGraph(hoverData):
+#     sector_select = hoverData['points'][0]['sector']
+#     dff_2019 = df_2019[df_2019['sector']==sector_select]
+    
+#     return "{:,.2f} %".format(dff_2019[0]['average_NPL_2019']), sector_select,hoverData['points'][0]['percentNPL'],dff_2019[0]['average_NPL_2019']-hoverData['points'][0]['percentNPL']
 
 @app.callback(
     [Output("sector_NPL_{}".format(i), "children") for i in np.arange(18)],
@@ -163,6 +228,11 @@ layouts3 = dcc.Tab(label='Evaluasi Tarif IJP dan Sektor Terdampak',children=[htm
     Output("IJP_tarif","children"),
     Output("IJP_budget","children"),
     Output("loss_limit_budget","children"),
+    Output("IJP_tarif_exp","children"),
+    Output("IJP_budget_expl","children"),
+    Output("channel-comparison-graph-sector-affected","figure"),
+    # Output('table-paging-and-sorting', 'data'),
+    # Output("effect-analysis","children"),
     [Input("EconGrowth", "value"),
     Input("Inflasi", "value"),
     Input("Unemployment", "value"),
@@ -184,7 +254,7 @@ layouts3 = dcc.Tab(label='Evaluasi Tarif IJP dan Sektor Terdampak',children=[htm
     Input("sector_form_14", "value"),
     Input("sector_form_15", "value"),
     Input("sector_form_16", "value"),
-    Input("sector_form_17", "value")
+    Input("sector_form_17", "value"),
 ])
 def predict_NPL(EconGrowth,Inflasi,Unemployment,birate,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r):
     
@@ -199,109 +269,52 @@ def predict_NPL(EconGrowth,Inflasi,Unemployment,birate,a,b,c,d,e,f,g,h,i,j,k,l,m
                       'biRate':[birate]*18
         }
     
-    percent_NPL_prediction = model_rf.predict(pd.DataFrame(inputPopulate))
     #prediction
-    # pred1 = model_rf.predict([[econSector[0], 1, Inflasi, EconGrowth, Unemployment, a/1000000000, birate]])
-    # pred2 = model_rf.predict([[econSector[1], 1, Inflasi, EconGrowth, Unemployment, b/1000000000, birate]])    
-    # pred3 = model_rf.predict([[econSector[2], 1, Inflasi, EconGrowth, Unemployment, c/1000000000, birate]])
-    # pred4 = model_rf.predict([[econSector[3], 1, Inflasi, EconGrowth, Unemployment, d/1000000000, birate]])
-    # pred5 = model_rf.predict([[econSector[4], 1, Inflasi, EconGrowth, Unemployment, e/1000000000, birate]])
-    # pred6 = model_rf.predict([[econSector[5], 1, Inflasi, EconGrowth, Unemployment, f/1000000000, birate]])
-    # pred7 = model_rf.predict([[econSector[6], 1, Inflasi, EconGrowth, Unemployment, g/1000000000, birate]])
-    # pred8 = model_rf.predict([[econSector[7], 1, Inflasi, EconGrowth, Unemployment, h/1000000000, birate]])
-    # pred9 = model_rf.predict([[econSector[8], 1, Inflasi, EconGrowth, Unemployment, i/1000000000, birate]])
-    # pred10 = model_rf.predict([[econSector[9], 1, Inflasi, EconGrowth, Unemployment, j/1000000000, birate]])
-    # pred11 = model_rf.predict([[econSector[10], 1, Inflasi, EconGrowth, Unemployment, k/1000000000, birate]])
-    # pred12 = model_rf.predict([[econSector[11], 1, Inflasi, EconGrowth, Unemployment, l/1000000000, birate]])
-    # pred13 = model_rf.predict([[econSector[12], 1, Inflasi, EconGrowth, Unemployment, m/1000000000, birate]])
-    # pred14 = model_rf.predict([[econSector[13], 1, Inflasi, EconGrowth, Unemployment, n/1000000000, birate]])
-    # pred15 = model_rf.predict([[econSector[14], 1, Inflasi, EconGrowth, Unemployment, o/1000000000, birate]])
-    # pred16 = model_rf.predict([[econSector[15], 1, Inflasi, EconGrowth, Unemployment, p/1000000000, birate]])
-    # pred17 = model_rf.predict([[econSector[16], 1, Inflasi, EconGrowth, Unemployment, q/1000000000, birate]])
-    # pred18 = model_rf.predict([[econSector[17], 1, Inflasi, EconGrowth, Unemployment, r/1000000000, birate]])    
+    percent_NPL_prediction = model_rf.predict(pd.DataFrame(inputPopulate))
     
     pre = "Proyeksi NPL Kredit UMKM untuk sektor ekonomi "
     
     #processing sectoral NPL percentage
-    preds = ["{:,.2f} %".format(percent_NPL_prediction[0]*100) for i in np.arange(18)]
-    # preds1 = "{:,.2f} %".format(prediction[0]*100)
-    # preds2 = "{:,.2f} %".format(prediction[1]*100)
-    # preds3 = "{:,.2f} %".format(prediction[2]*100)
-    # preds4 = "{:,.2f} %".format(prediction[3]*100)
-    # preds5 = "{:,.2f} %".format(prediction[4]*100)
-    # preds6 = "{:,.2f} %".format(prediction[5]*100)
-    # preds7 = "{:,.2f} %".format(prediction[6]*100)
-    # preds8 = "{:,.2f} %".format(prediction[7]*100)
-    # preds9 = "{:,.2f} %".format(prediction[8]*100)
-    # preds10 = "{:,.2f} %".format(prediction[9]*100)
-    # preds11 = "{:,.2f} %".format(prediction[10]*100)
-    # preds12 = "{:,.2f} %".format(prediction[11]*100)
-    # preds13 = "{:,.2f} %".format(prediction[12]*100)
-    # preds14 = "{:,.2f} %".format(prediction[13]*100)
-    # preds15 = "{:,.2f} %".format(prediction[14]*100)
-    # preds16 = "{:,.2f} %".format(prediction[15]*100)
-    # preds17 = "{:,.2f} %".format(prediction[16]*100)
-    # preds18 = "{:,.2f} %".format(prediction[17]*100)
-    # preds1 = "{:,.2f} %".format(pred1[0]*100)
-    # preds2 = "{:,.2f} %".format(pred2[0]*100)
-    # preds3 = "{:,.2f} %".format(pred3[0]*100)
-    # preds4 = "{:,.2f} %".format(pred4[0]*100)
-    # preds5 = "{:,.2f} %".format(pred5[0]*100)
-    # preds6 = "{:,.2f} %".format(pred6[0]*100)
-    # preds7 = "{:,.2f} %".format(pred7[0]*100)
-    # preds8 = "{:,.2f} %".format(pred8[0]*100)
-    # preds9 = "{:,.2f} %".format(pred9[0]*100)
-    # preds10 = "{:,.2f} %".format(pred10[0]*100)
-    # preds11 = "{:,.2f} %".format(pred11[0]*100)
-    # preds12 = "{:,.2f} %".format(pred12[0]*100)
-    # preds13 = "{:,.2f} %".format(pred13[0]*100)
-    # preds14 = "{:,.2f} %".format(pred14[0]*100)
-    # preds15 = "{:,.2f} %".format(pred15[0]*100)
-    # preds16 = "{:,.2f} %".format(pred16[0]*100)
-    # preds17 = "{:,.2f} %".format(pred17[0]*100)
-    # preds18 = "{:,.2f} %".format(pred18[0]*100)
+    preds = ["{:,.2f} %".format(percent_NPL_prediction[i]*100) for i in np.arange(18)]    
     
     #processing NPL sectoral value
     pref = [pre+econSector[i]+" {:,.2f}".format(percent_NPL_prediction[i]*credit_channeling[i]) for i in np.arange(18)]
-    # pref1 = pre+econSector[0]+" {:,.2f}".format(pred1[0]*a)
-    # pref2 = pre+econSector[1]+" {:,.2f}".format(pred2[0]*b)
-    # pref3 = pre+econSector[2]+" {:,.2f}".format(pred3[0]*c)
-    # pref4 = pre+econSector[3]+" {:,.2f}".format(pred4[0]*d)
-    # pref5 = pre+econSector[4]+" {:,.2f}".format(pred5[0]*e)
-    # pref6 = pre+econSector[5]+" {:,.2f}".format(pred6[0]*f)
-    # pref7 = pre+econSector[6]+" {:,.2f}".format(pred7[0]*g)
-    # pref8 = pre+econSector[7]+" {:,.2f}".format(pred8[0]*h)
-    # pref9 = pre+econSector[8]+" {:,.2f}".format(pred9[0]*i)
-    # pref10 = pre+econSector[9]+" {:,.2f}".format(pred10[0]*j)
-    # pref11 = pre+econSector[10]+" {:,.2f}".format(pred11[0]*k)
-    # pref12 = pre+econSector[11]+" {:,.2f}".format(pred12[0]*l)
-    # pref13 = pre+econSector[12]+" {:,.2f}".format(pred13[0]*m)
-    # pref14 = pre+econSector[13]+" {:,.2f}".format(pred14[0]*n)
-    # pref15 = pre+econSector[14]+" {:,.2f}".format(pred15[0]*o)
-    # pref16 = pre+econSector[15]+" {:,.2f}".format(pred16[0]*p)
-    # pref17 = pre+econSector[16]+" {:,.2f}".format(pred17[0]*q)
-    # pref18 = pre+econSector[17]+" {:,.2f}".format(pred18[0]*r)
-    
-    #populate variables
-    # credit_channeling = [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r]
-    # percent_NPL_prediction = [pred1[0],pred2[0],pred3[0],pred4[0],pred5[0],pred6[0],
-    #                        pred7[0],pred8[0],pred9[0],pred10[0],pred11[0],pred12[0],
-    #                        pred13[0],pred14[0],pred15[0],pred16[0],pred17[0],pred18[0]]
     
     #processing total NPL percentage and value
     total_SME_credit_channeling = sum(credit_channeling)
-#    populate_total_NPL = [[credit_channeling[_]*percent_NPL_prediction[_]/100] for _ in np.arange(18)]
     total_NPL_val = 0.00
     for i in np.arange(18):
         NPL_i = credit_channeling[i]*percent_NPL_prediction[i]
         total_NPL_val +=NPL_i
     total_NPL_percentage = (total_NPL_val/total_SME_credit_channeling)*100
     
+    s1 = pd.Series(econSector, name='sector')
+    s2 = pd.Series(credit_channeling, name='channeling')
+    s3 = pd.Series(percent_NPL_prediction, name='percentNPL')
+    
+    df = pd.concat([s1,s2,s3,average_NPL_2019], axis=1)
+    df['valueNPL'] = df['percentNPL']*df['channeling']  
+    df['effect'] = df['percentNPL']-df['average_NPL_2019']
+    
+    fig = go.Figure(go.Bar(
+            x=df['percentNPL']*100,
+            y=econSector,
+            orientation='h'))
+
+    #chart transition
+    fig.update_layout(transition_duration=500)
+
+    #slice df for table
+    df_table = df[['sector','percentNPL','average_NPL_2019','effect']]  
+        
+    #top effect
+    df_table_sorted = df_table.nlargest(3,'effect')
+    exp_effect = "test"
+    #exp_effect = "Sektor Ekonomi UMKM yang diperkirakan paling terdampak adalah sektor "+df_table_sorted[0]['sector']+", sektor "+df_table_sorted[1]['sector']+" dan sektor "+df_table_sorted[2]['sector']
+    
     #processing IJP and loss limit information
-    #ijp_trf = total_NPL_percentage * 0.8 * 0.91
     ijp_trf = ((((total_NPL_percentage/100) * 0.8)-0.01) / 0.9)*100
     ijp = ijp_trf * total_SME_credit_channeling / 100
-    #loss_lim = ijp / 100
     loss_lim = total_SME_credit_channeling / 100
     
     #data to pass
@@ -309,8 +322,10 @@ def predict_NPL(EconGrowth,Inflasi,Unemployment,birate,a,b,c,d,e,f,g,h,i,j,k,l,m
     total_NPL_val_pass = "Proyeksi total nilai NPL atas Penyaluran Kredit kepada UMKM adalah Rp {:,.2f}".format(total_NPL_val)
     total_credit = "Rp {:,.2f}".format(total_SME_credit_channeling)
     ijp_tarif =  "{:,.2f} %".format(ijp_trf)
+    ijp_tarif_expl = "Tarif IJP yang seharusnya ditetapkan berdasarkan total proyeksi NPL kredit UMKM {:,.2f} %".format(total_NPL_percentage)
     ijp_budget = "Rp {:,.2f}".format(ijp)
+    ijp_budget_exp = "Besaran anggaran berdasarkan tarif IJP kredit UMKM {:,.2f} %".format(ijp_trf)
     loss_limit_budget = "Rp {:,.2f}".format(loss_lim)
     
 #    return preds1, preds2, preds3, preds4, preds5, preds6, preds7, preds8, preds9, preds10, preds11, preds12, preds13, preds14, preds15, preds16, preds17, preds18, pref1, pref2, pref3, pref4, pref5, pref6, pref7, pref8, pref9, pref10, pref11, pref12, pref13, pref14, pref15, pref16, pref17, pref18, total_NPL_percentage_pass, total_NPL_val_pass, total_credit, ijp_tarif, ijp_budget, loss_limit_budget
-    return preds[0], preds[1], preds[2], preds[3], preds[4], preds[5], preds[6], preds[7], preds[8], preds[9], preds[10], preds[11], preds[12], preds[13], preds[14], preds[15], preds[16], preds[17], pref[0], pref[1], pref[2], pref[3], pref[4], pref[5], pref[6], pref[7], pref[8], pref[9], pref[10], pref[11], pref[12], pref[13], pref[14], pref[15], pref[16], pref[17], total_NPL_percentage_pass, total_NPL_val_pass, total_credit, ijp_tarif, ijp_budget, loss_limit_budget
+    return preds[0], preds[1], preds[2], preds[3], preds[4], preds[5], preds[6], preds[7], preds[8], preds[9], preds[10], preds[11], preds[12], preds[13], preds[14], preds[15], preds[16], preds[17], pref[0], pref[1], pref[2], pref[3], pref[4], pref[5], pref[6], pref[7], pref[8], pref[9], pref[10], pref[11], pref[12], pref[13], pref[14], pref[15], pref[16], pref[17], total_NPL_percentage_pass, total_NPL_val_pass, total_credit, ijp_tarif, ijp_budget, loss_limit_budget, ijp_tarif_expl, ijp_budget_exp, fig
