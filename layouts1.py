@@ -4,7 +4,7 @@ import dash_bootstrap_components as dbc
 import dash_table
 import plotly.graph_objects as go
 import plotly.express as px
-#import pyodbc
+# import pyodbc
 import pandas as pd
 import pathlib
 
@@ -16,22 +16,15 @@ MODEL_PATH = PATH.joinpath("data-model").resolve()
 DATA_PATH = PATH.joinpath("data-source").resolve()
 
 layouts1 = dcc.Tab(label='Informasi Umum', children=[
-    dbc.Jumbotron(
-        [
-            html.H1("Jumbotron", className="display-3"),
-            html.P(
-                "Use a jumbotron to call attention to "
-                "featured content or information.",
-                className="lead",
-            ),
-            html.Hr(className="my-2"),
-            html.P(
-                "Jumbotrons use utility classes for typography and "
-                "spacing to suit the larger container."
-            ),
-            html.P(dbc.Button("Learn more", color="primary"), className="lead"),
-        ]
-    ),
+
+    html.Div(
+        html.Div([
+            html.H3("Summary", style={"font-weight": "bold", "color": "#fff"}),
+            html.H5("Dashboard Kondisi Penyaluran Kredit UMKM dan Prediksi nilai Non Performance Loan (NPL), Imbal Jasa Penjaminan (IJP), Loss Limit dan Kebutuhan Anggaran Program Penjaminan Kredit UMKM",
+                   style={"color": "#fff"}),
+
+        ],
+            className="pretty_container", style={"background-color": "#000099"})),
 
     dbc.Row(
         [
@@ -50,29 +43,29 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
                     html.H5("Fitur Dashboard", style={"font-weight": "bold"}),
                     html.Div([
                         html.P("Visualisasi atas Data Historis Penyaluran serta NPL atas Kredit UMKM",
-                        style={"color": "#fff"})
+                               style={"color": "#fff"})
                     ], className="pretty_container",
                         style={"background-color": "#007bff"}),
                     html.Div([
                         html.P("Evaluasi atas Sektor Ekonomi UMKM yang terdampak pandemi",
-                        style={"color": "#fff"})
+                               style={"color": "#fff"})
                     ], className="pretty_container",
                         style={"background-color": "#28a745"}),
                     html.Div([
                         html.P("Prediksi IJP dan Loss Limit berdasarkan model",
-                        style={"color": "#fff"})
+                               style={"color": "#fff"})
                     ], className="pretty_container",
                         style={"background-color": "#ffc107"}),
                     html.Div([
                         html.P("Prediksi Tarif IJP yang diusulkan oleh PT RIU",
-                        style={"color": "#fff"})
+                               style={"color": "#fff"})
                     ], className="pretty_container",
                         style={"background-color": "#ff0040"}),
                     html.H1(" ", style={"font-weight": "bold"}),
                     html.H1(" ", style={"font-weight": "bold"}),
                     html.H1(" ", style={"font-weight": "bold"})
                 ],
-                className="pretty_container")
+                    className="pretty_container")
             ), md=4),
         ]
     ),
