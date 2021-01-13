@@ -89,22 +89,26 @@ layouts1 = dcc.Tab(label='Informasi Umum', children=[
             html.Div([
                 html.P("Melihat sektor usaha UMKM yang paling terdampak dengan adanya pandemi COVID-19",
                        style={"color": "#fff", "text-align": "center"}),
-            ], className="three columns pretty_container", style={'background-color': '#007bff'}),
+            ], className="two columns pretty_container", style={'background-color': '#007bff'}),
             html.Div([
                 html.P("Memberikan usulan tarif IJP yang akan diberikan kepada Jamkrindo dan Askrindo sebagai lembaga penjamin program PEN",
                        style={"color": "#fff", "text-align": "center"}),
-            ], className="three columns pretty_container", style={'background-color': '#28a745'}),
+            ], className="two columns pretty_container", style={'background-color': '#28a745'}),
             html.Div([
                 html.P("Memberikan usulan anggaran belanja subsidi IJP dan Loss Limit yang sesuai dan tepat",
                        style={"color": "#fff", "text-align": "center"}),
-            ], className="three columns pretty_container", style={'background-color': '#ff8000'}),
+            ], className="two columns pretty_container", style={'background-color': '#ff8000'}),
             html.Div([
                 html.P("Memberikan gambaran umum dalam proses perencanaan pemeriksaan keuangan negara",
                        style={"color": "#fff", "text-align": "center"}),
-            ], className="three columns pretty_container", style={'background-color': '#ff0040'}),
+            ], className="two columns pretty_container", style={'background-color': '#ff0040'}),
+            html.Div([
+                html.P("Sebagai pilot project penerapan predictive analytics untuk mendukung peran BPK sebagai foresight, sebagaimana tertuang pada Renstra BPK 2020-2024",
+                       style={"color": "#fff", "text-align": "center"}),
+            ], className="two columns pretty_container", style={'background-color': '#cc3300'})
 
             # row div of macro vars
-        ], className="row flex-display")  # end of macro vars row div
+        ], className="row flex-display", style={"text-align": "center"})  # end of macro vars row div
     ], className="pretty_container", style={"text-align": "center"}),
 
     html.Div([  # start of model chart
