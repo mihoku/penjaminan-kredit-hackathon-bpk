@@ -41,6 +41,9 @@ import callbacks1
 import callbacks2
 import callbacks3
 
+#title
+app.title = 'Penjaminan Kredit UMKM - Predictive Analytics Dashboard' 
+
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
     html.Div(#start of header div
